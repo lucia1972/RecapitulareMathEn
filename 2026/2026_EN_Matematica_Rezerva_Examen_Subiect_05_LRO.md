@@ -96,7 +96,7 @@ Un telefon care costă $1000$ de lei se scumpește cu $20\%$. Matei afirmă: „
 
 În figura alăturată, punctele $A$, $B$, $C$ și $D$ sunt coliniare, în această ordine. Dacă $AB=2\text{ cm}$, $CD=2\cdot AB$ și $AD=9\text{ cm}$, atunci lungimea segmentului $BC$ este egală cu:
 
-![Figura problemei II.1](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-03.png)
+![Figura problemei II.1](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-1.png)
 
 **a)** $3\text{ cm}$  
 **b)** $5\text{ cm}$  
@@ -107,7 +107,7 @@ Un telefon care costă $1000$ de lei se scumpește cu $20\%$. Matei afirmă: „
 
 În figura alăturată sunt reprezentate unghiurile congruente $AOB$, $BOC$ și $COA$. Semidreapta $OD$ este bisectoarea unghiului $AOB$, iar semidreapta $OE$ este bisectoarea unghiului $DOB$. Măsura unghiului $EOC$ este egală cu:
 
-![Figura problemei II.2](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-03.png)
+![Figura problemei II.2](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-2.png)
 
 **a)** $60^\circ$  
 **b)** $90^\circ$  
@@ -118,7 +118,7 @@ Un telefon care costă $1000$ de lei se scumpește cu $20\%$. Matei afirmă: „
 
 În figura alăturată este reprezentat triunghiul $ABC$, dreptunghic în $A$, cu $BC=4\text{ cm}$ și măsura unghiului $C$ egală cu $30^\circ$. Punctul $M$ este mijlocul segmentului $BC$. Perimetrul triunghiului $ABM$ este egal cu:
 
-![Figura problemei II.3](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-03.png)
+![Figura problemei II.3](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-3.png)
 
 **a)** $3\text{ cm}$  
 **b)** $6\text{ cm}$  
@@ -129,7 +129,7 @@ Un telefon care costă $1000$ de lei se scumpește cu $20\%$. Matei afirmă: „
 
 În figura alăturată este reprezentat trapezul $ABCD$, cu $AB\parallel CD$ și $AD=BC=DC$. Măsura unghiului $DAC$ este egală cu $20^\circ$. Măsura unghiului $ABC$ este egală cu:
 
-![Figura problemei II.4](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-04.png)
+![Figura problemei II.4](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-4.png)
 
 **a)** $20^\circ$  
 **b)** $30^\circ$  
@@ -140,7 +140,7 @@ Un telefon care costă $1000$ de lei se scumpește cu $20\%$. Matei afirmă: „
 
 În figura alăturată este reprezentat triunghiul $ABC$, înscris în cercul de centru $O$. Dacă măsura unghiului $ABO$ este egală cu $30^\circ$, atunci măsura unghiului $ACB$ este egală cu:
 
-![Figura problemei II.5](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-04.png)
+![Figura problemei II.5](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-5.png)
 
 **a)** $30^\circ$  
 **b)** $60^\circ$  
@@ -151,7 +151,7 @@ Un telefon care costă $1000$ de lei se scumpește cu $20\%$. Matei afirmă: „
 
 În figura alăturată este reprezentat cubul $ABCDA'B'C'D'$. Măsura unghiului dreptelor $AC$ și $C'D'$ este egală cu:
 
-![Figura problemei II.6](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-04.png)
+![Figura problemei II.6](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-6.png)
 
 **a)** $30^\circ$  
 **b)** $45^\circ$  
@@ -225,7 +225,7 @@ $$
 \frac{6\sqrt{13}}{13}.
 $$
 
-![Figura problemei III.3](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-06.png)
+![Figura problemei III.3](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-III-3.png)
 
 ### 4. (5p)
 
@@ -235,7 +235,7 @@ $$
 
 **b) (3p)** Arată că $AB=CE$, unde punctul $E$ aparține segmentului $BD$, astfel încât $\angle BCE=15^\circ$.
 
-![Figura problemei III.4](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-07.png)
+![Figura problemei III.4](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-III-4.png)
 
 ### 5. (5p)
 
@@ -249,7 +249,7 @@ $$
 
 **b) (3p)** Determină lungimea segmentului $MT$, unde punctul $T$ este mijlocul segmentului $CP$.
 
-![Figura problemei III.5](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-08.png)
+![Figura problemei III.5](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-III-5.png)
 
 ### 6. (5p)
 
@@ -263,4 +263,4 @@ $$
 
 **b) (3p)** Determină tangenta unghiului dintre dreapta $MN$ și planul $(VAD)$.
 
-![Figura problemei III.6](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-09.png)
+![Figura problemei III.6](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-III-6.png)
