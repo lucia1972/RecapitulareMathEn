@@ -1,338 +1,266 @@
-# 2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO
+# Evaluarea Națională 2026 — Matematică
 
-*Transcriere automată din PDF; imaginile și figurile nu au fost analizate.*
+## Rezerva examenului — Varianta 5
 
-Ministerul Educației și Cercetării
-                                Centrul Național pentru Curriculum și Evaluare
+**Anul școlar 2025–2026**
 
-                                                                  Numele:…………………………………………...
-Prezenta lucrare conține ______ pagini
- ...........................................................................
-                                                                  Inițiala prenumelui tatălui: ……………............
-                                                                  Prenumele:……………………………...............
- ........................…………………....………………
-                                                                  Școala de proveniență: ………........................
- ...........................................................................
-                                                                  Centrul de examen:.........................................
-                                                                  Localitatea: ………………………………...........
-                                                                  Județul: …………………………………….........
-                                                                      Nume și prenume asistent                         Semnătura
+*Transcriere și formatare manuală după PDF-ul original. Paginile originale cu figuri sunt păstrate în folderul de imagini al acestei variante.*
 
+## SUBIECTUL I
 
+**Încercuiește litera corespunzătoare răspunsului corect. (30 de puncte)**
 
+### 1. (5p)
 
-                             EVALUAREA NAȚIONALĂ
-                       PENTRU ABSOLVENȚII CLASEI a VIII-a
+Rezultatul calculului $27-24:3$ este egal cu:
 
+**a)** $19$  
+**b)** $17$  
+**c)** $1$  
+**d)** $0$
 
-                                         Anul școlar 2025-2026
+### 2. (5p)
 
+Știind că
 
+$$
+\frac{a}{3}=\frac{b}{4}=5,
+$$
 
+rezultatul calculului $a+b$ este egal cu:
 
-                                 Disciplina: Matematică
+**a)** $7$  
+**b)** $10$  
+**c)** $12$  
+**d)** $35$
 
+### 3. (5p)
 
+Soluția ecuației $5-x=5$ este numărul:
 
+**a)** $-10$  
+**b)** $-1$  
+**c)** $0$  
+**d)** $10$
 
-Probă scrisă la matematică                                                                                                Varianta 5
-                                                      1
+### 4. (5p)
 
+Inversul numărului
 
----
+$$
+\frac{5}{9}
+$$
 
-                                                 Ministerul Educației și Cercetării
-                                          Centrul Național pentru Curriculum și Evaluare
+este numărul:
 
+**a)** $-\frac{9}{5}$  
+**b)** $-\frac{5}{9}$  
+**c)** $\frac{5}{9}$  
+**d)** $\frac{9}{5}$
 
+### 5. (5p)
 
+Patru elevi, Mihai, Cristina, Ionuț și Ana, calculează produsul numerelor
 
-                                                                    • Toate subiectele sunt obligatorii.
+$$
+a=5-2\sqrt{6}
+\qquad\text{și}\qquad
+b=5+2\sqrt{6}.
+$$
 
-                                                                    • Se acordă zece puncte din oficiu.
+Rezultatele obținute sunt prezentate în tabel:
 
-                                                                    • Timpul de lucru efectiv este de două ore.
-
-
-
-
-SUBIECTUL I
-Încercuiește litera corespunzătoare răspunsului corect.                                                    (30 de puncte)
- 5p    1. Rezultatul calculului 27 − 24: 3 este egal cu:
-           a) 19
-           b) 17
-           c) 1
-           d) 0
-
-                      a b
- 5p    2. Știind că    = = 5, rezultatul calculului a + b este egal cu:
-                      3 4
-           a) 7
-           b) 10
-           c) 12
-           d) 35
- 5p    3. Soluția ecuației 5 − x = 5 este numărul:
-           a) −10
-           b)    −1
-           c)     0
-           d)    10
-
-                                5
- 5p    4. Inversul numărului      este numărul:
-                                9
-                9
-            a) −
-                5
-                5
-           b) −
-                9
-                5
-           c)
-                9
-                9
-           d)
-                5
-
-
-Probă scrisă la matematică                                                                                  Varianta 5
-                                                                2
-
-
----
-
-                                                    Ministerul Educației și Cercetării
-                                             Centrul Național pentru Curriculum și Evaluare
- 5p    5. Patru elevi, Mihai, Cristina, Ionuț și Ana, calculează produsul numerelor a = 5 − 2 6 și b = 5 + 2 6.
-       Rezultatele obținute de cei patru elevi sunt prezentate în tabelul de mai jos:
 | Mihai | Cristina | Ionuț | Ana |
-| --- | --- | --- | --- |
-| 10 | 1 | 4 6 | 10 + 4 6 |
-        Conform informațiilor din tabel, rezultatul corect a fost obținut de:
-          a) Mihai
-          b) Cristina
-          c) Ionuț
-          d) Ana
+|:---:|:---:|:---:|:---:|
+| $10$ | $1$ | $4\sqrt{6}$ | $10+4\sqrt{6}$ |
 
- 5p    6. Un telefon care costă 1000 de lei se scumpește cu 20%. Matei afirmă: „Noul preț al telefonului este 1200
-       de lei.”. Afirmația lui Matei este:
-            a) adevărată
-            b) falsă
-SUBIECTUL al II-lea
-Încercuiește litera corespunzătoare răspunsului corect.                                                (30 de puncte)
- 5p    1. În figura alăturată, punctele A, B, C și D sunt coliniare, în această ordine. Dacă AB = 2cm, CD = 2 ⋅ AB și
-        AD = 9cm, atunci lungimea segmentului BC este egală cu:
-            a) 3 cm
-            b) 5 cm
-            c)   6 cm
-            d) 7 cm
+Conform informațiilor din tabel, rezultatul corect a fost obținut de:
 
+**a)** Mihai  
+**b)** Cristina  
+**c)** Ionuț  
+**d)** Ana
 
- 5p    2. În figura alăturată sunt reprezentate unghiurile congruente AOB, BOC
-       și COA. Semidreapta OD este bisectoarea unghiului AOB și
-       semidreapta OE este bisectoarea unghiului DOB. Măsura unghiului
-        EOC este egală cu:
+### 6. (5p)
 
-            a) 60°
-            b) 90°
-            c) 120°
-            d) 150°
+Un telefon care costă $1000$ de lei se scumpește cu $20\%$. Matei afirmă: „Noul preț al telefonului este $1200$ de lei.” Afirmația lui Matei este:
 
+**a)** adevărată  
+**b)** falsă
 
- 5p    3. În figura alăturată este reprezentat triunghiul ABC, dreptunghic în A, cu BC = 4cm și măsura unghiului
-       C este egală cu 30°. Punctul M este mijlocul segmentului BC. Perimetrul triunghiului ABM este egal cu:
+## SUBIECTUL al II-lea
 
+**Încercuiește litera corespunzătoare răspunsului corect. (30 de puncte)**
 
-            a)      3 cm
-            b)      6 cm
-            c)     8 cm
-            d) 6 3 cm
+### 1. (5p)
 
+În figura alăturată, punctele $A$, $B$, $C$ și $D$ sunt coliniare, în această ordine. Dacă $AB=2\text{ cm}$, $CD=2\cdot AB$ și $AD=9\text{ cm}$, atunci lungimea segmentului $BC$ este egală cu:
 
+![Figura problemei II.1](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-1.png)
 
+**a)** $3\text{ cm}$  
+**b)** $5\text{ cm}$  
+**c)** $6\text{ cm}$  
+**d)** $7\text{ cm}$
 
-Probă scrisă la matematică                                                                               Varianta 5
-                                                                   3
+### 2. (5p)
 
+În figura alăturată sunt reprezentate unghiurile congruente $AOB$, $BOC$ și $COA$. Semidreapta $OD$ este bisectoarea unghiului $AOB$, iar semidreapta $OE$ este bisectoarea unghiului $DOB$. Măsura unghiului $EOC$ este egală cu:
 
----
+![Figura problemei II.2](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-2.png)
 
-                                                Ministerul Educației și Cercetării
-                                         Centrul Național pentru Curriculum și Evaluare
- 5p    4. În figura alăturată este reprezentat trapezul ABCD, cu AB CD și AD = BC = DC. Măsura unghiului DAC
+**a)** $60^\circ$  
+**b)** $90^\circ$  
+**c)** $120^\circ$  
+**d)** $150^\circ$
 
-       este egală cu 20°. Măsura unghiului ABC este egală cu:
+### 3. (5p)
 
-            a) 20°
-            b) 30°
-            c)   40°
-            d) 60°
+În figura alăturată este reprezentat triunghiul $ABC$, dreptunghic în $A$, cu $BC=4\text{ cm}$ și măsura unghiului $C$ egală cu $30^\circ$. Punctul $M$ este mijlocul segmentului $BC$. Perimetrul triunghiului $ABM$ este egal cu:
 
+![Figura problemei II.3](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-3.png)
 
- 5p    5. În figura alăturată este reprezentat triunghiul ABC, înscris în cercul de centru O. Dacă măsura unghiului
-       ABO este egală cu 30°, atunci măsura unghiului ACB este egală cu:
+**a)** $3\text{ cm}$  
+**b)** $6\text{ cm}$  
+**c)** $8\text{ cm}$  
+**d)** $6\sqrt{3}\text{ cm}$
 
+### 4. (5p)
 
-            a)   30°
-            b)   60°
-            c)   90°
-            d) 120°
+În figura alăturată este reprezentat trapezul $ABCD$, cu $AB\parallel CD$ și $AD=BC=DC$. Măsura unghiului $DAC$ este egală cu $20^\circ$. Măsura unghiului $ABC$ este egală cu:
 
+![Figura problemei II.4](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-4.png)
 
- 5p    6. În figura alăturată este reprezentat cubul ABCDA′B′C ′D′. Măsura unghiului dreptelor AC și C ′D′ este egală
-       cu:
+**a)** $20^\circ$  
+**b)** $30^\circ$  
+**c)** $40^\circ$  
+**d)** $60^\circ$
 
-            a) 30°
-            b) 45°
-            c)   60°
-            d) 90°
+### 5. (5p)
 
+În figura alăturată este reprezentat triunghiul $ABC$, înscris în cercul de centru $O$. Dacă măsura unghiului $ABO$ este egală cu $30^\circ$, atunci măsura unghiului $ACB$ este egală cu:
 
+![Figura problemei II.5](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-5.png)
 
+**a)** $30^\circ$  
+**b)** $60^\circ$  
+**c)** $90^\circ$  
+**d)** $120^\circ$
 
-SUBIECTUL al III-lea
-Scrie rezolvările complete.                                                                               (30 de puncte)
+### 6. (5p)
 
- 5p     1. Maria are o sumă de bani. În prima zi cheltuiește un sfert din această sumă. În a doua zi cheltuiește un sfert
-        din suma rămasă. În a treia zi, Maria cheltuiește 45 de lei și constată că i-a rămas un sfert din suma de bani pe
-        care a avut-o inițial.
-        (2p) a) Este posibil ca Maria să fi cheltuit în a doua zi mai mult decât în prima zi? Justifică răspunsul dat.
+În figura alăturată este reprezentat cubul $ABCDA'B'C'D'$. Măsura unghiului dreptelor $AC$ și $C'D'$ este egală cu:
 
+![Figura problemei II.6](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-II-6.png)
 
+**a)** $30^\circ$  
+**b)** $45^\circ$  
+**c)** $60^\circ$  
+**d)** $90^\circ$
 
+## SUBIECTUL al III-lea
 
-Probă scrisă la matematică                                                                                  Varianta 5
-                                                               4
+**Scrie rezolvările complete. (30 de puncte)**
 
+### 1. (5p)
 
----
+Maria are o sumă de bani. În prima zi cheltuiește un sfert din această sumă. În a doua zi cheltuiește un sfert din suma rămasă. În a treia zi, Maria cheltuiește $45$ de lei și constată că i-a rămas un sfert din suma de bani pe care a avut-o inițial.
 
-                                                Ministerul Educației și Cercetării
-                                         Centrul Național pentru Curriculum și Evaluare
-        (3p) b) Determină suma de bani pe care a avut-o Maria inițial.
+**a) (2p)** Este posibil ca Maria să fi cheltuit în a doua zi mai mult decât în prima zi? Justifică răspunsul dat.
 
+**b) (3p)** Determină suma de bani pe care a avut-o Maria inițial.
 
+### 2. (5p)
 
+Se consideră expresia
 
-                                                                        2
-                                            7       2        3  5 ( x + 2 x + 1)
- 5p     2. Se consideră expresia E ( x ) =  2    +      +        :, unde x este număr real, x ≠ −2,
-                                            x −4 x−2 x+2                x−2
-         x ≠ −1 ș i x ≠ 2.
-                              7     2         3     5( x + 1)
-        (2p) a) Arată că 2       +       +      =, pentru orice număr real x, x ≠ −2 și x ≠ 2.
-                            x − 4 x − 2 x + 2 ( x − 2)( x + 2)
+$$
+E(x)=
+\left(
+\frac{7}{x^2-4}
++\frac{2}{x-2}
++\frac{3}{x+2}
+\right)
+:\frac{5(x^2+2x+1)}{x-2},
+$$
 
+unde $x$ este număr real, $x\ne-2$, $x\ne-1$ și $x\ne2$.
 
+**a) (2p)** Arată că
 
+$$
+\frac{7}{x^2-4}
++\frac{2}{x-2}
++\frac{3}{x+2}
+=\frac{5(x+1)}{(x-2)(x+2)},
+$$
 
-                                                                         1
-        (3p) b) Determină numărul natural n, n ≠ 2, pentru care E (n) =.
-                                                                         6
+pentru orice număr real $x$, $x\ne-2$ și $x\ne2$.
 
+**b) (3p)** Determină numărul natural $n$, $n\ne2$, pentru care
 
+$$
+E(n)=\frac{1}{6}.
+$$
 
+### 3. (5p)
 
-Probă scrisă la matematică                                                                                 Varianta 5
-                                                               5
+Se consideră funcția
 
+$$
+f:\mathbb{R}\to\mathbb{R},
+\qquad
+f(x)=\frac{3}{2}x+3.
+$$
 
----
+**a) (2p)** Arată că
 
-                                                  Ministerul Educației și Cercetării
-                                           Centrul Național pentru Curriculum și Evaluare
-                                                        3
- 5p     3. Se consideră funcția f: ℝ → ℝ, f ( x) =      x+3.
-                                                        2
-        (2p) a) Arată că f (−1) + f (1) = 6.
+$$
+f(-1)+f(1)=6.
+$$
 
+**b) (3p)** Reprezentarea geometrică a graficului funcției $f$ intersectează axele $Ox$ și $Oy$ ale sistemului de axe ortogonale $xOy$ în punctele $A$, respectiv $B$. Arată că distanța de la punctul $C(2,3)$ la dreapta $AB$ este egală cu
 
+$$
+\frac{6\sqrt{13}}{13}.
+$$
 
+![Figura problemei III.3](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-III-3.png)
 
-        (3p) b) Reprezentarea geometrică a graficului funcției f intersectează axele Ox și Oy ale sistemului de axe
-        ortogonale xOy în punctele A, respectiv B. Arată că distanța de la punctul C (2,3) la dreapta AB este egală
-             6 13
-        cu.
-              13
+### 4. (5p)
 
+În figura alăturată este reprezentat triunghiul dreptunghic isoscel $ABC$, cu $AB=AC$. Punctul $O$ este mijlocul laturii $BC$, iar punctele $A$ și $D$ sunt de o parte și de alta a dreptei $BC$, astfel încât $\angle BDC=90^\circ$ și $\angle BCD=60^\circ$.
 
+**a) (2p)** Demonstrează că $AO=CD$.
 
+**b) (3p)** Arată că $AB=CE$, unde punctul $E$ aparține segmentului $BD$, astfel încât $\angle BCE=15^\circ$.
 
-Probă scrisă la matematică                                                                             Varianta 5
-                                                                 6
+![Figura problemei III.4](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-III-4.png)
 
+### 5. (5p)
 
----
+În figura alăturată este reprezentat dreptunghiul $ABCD$, cu $AB=6\text{ cm}$ și $BC=3\text{ cm}$. Punctul $M$ este mijlocul laturii $AB$, iar dreptele $AC$ și $DM$ se intersectează în punctul $P$.
 
-                                               Ministerul Educației și Cercetării
-                                        Centrul Național pentru Curriculum și Evaluare
- 5p     4. În figura alăturată este reprezentat triunghiul dreptunghic isoscel ABC, cu AB = AC. Punctul O este
-        mjlocul laturii BC, iar punctele A și D sunt de o parte și de alta a dreptei BC, astfel încât ∢BDC = 90° și
-        ∢BCD = 60°.
-        (2p) a) Demonstrează că AO = CD.
+**a) (2p)** Arată că
 
+$$
+CP=2\cdot AP.
+$$
 
+**b) (3p)** Determină lungimea segmentului $MT$, unde punctul $T$ este mijlocul segmentului $CP$.
 
+![Figura problemei III.5](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-III-5.png)
 
-        (3p) b) Arată că AB = CE, unde punctul E aparține segmentului BD, astfel încât ∢BCE = 15°.
+### 6. (5p)
 
+În figura alăturată este reprezentată piramida regulată $VABCD$, cu baza $ABCD$, $VA=AB=12\text{ cm}$. Punctul $M$ este mijlocul muchiei $VA$, iar punctul $N$ este proiecția punctului $M$ pe planul $(ABC)$.
 
+**a) (2p)** Arată că volumul piramidei $VABCD$ este egal cu
 
+$$
+288\sqrt{2}\text{ cm}^3.
+$$
 
-Probă scrisă la matematică                                                                              Varianta 5
-                                                              7
+**b) (3p)** Determină tangenta unghiului dintre dreapta $MN$ și planul $(VAD)$.
 
-
----
-
-                                                Ministerul Educației și Cercetării
-                                         Centrul Național pentru Curriculum și Evaluare
- 5p     5. În figura alăturată este reprezentat dreptunghiul ABCD, cu AB = 6 cm și BC = 3 cm. Punctul M este
-        mijlocul laturii AB, iar dreptele AC și DM se intersectează în punctul P.
-        (2p) a) Arată că CP = 2 ⋅ AP.
-
-
-
-
-        (3p) b) Determină lungimea segmentului MT, unde punctul T este mijlocul segmentului CP.
-
-
-
-
-Probă scrisă la matematică                                                                          Varianta 5
-                                                               8
-
-
----
-
-                                              Ministerul Educației și Cercetării
-                                       Centrul Național pentru Curriculum și Evaluare
- 5p     6. În figura alăturată este reprezentată piramida regulată VABCD, cu baza ABCD, VA = AB = 12 cm. Punctul
-        M este mijlocul muchiei VA, iar punctul N este proiecția punctului M pe planul ( ABC ).
-
-        (2p) a) Arată că volumul piramidei VABCD este egal cu 288 2 cm3.
-
-
-
-
-        (3p) b) Determină tangenta unghiului dintre dreapta MN și planul (VAD ).
-
-
-
-
-Probă scrisă la matematică                                                                            Varianta 5
-                                                             9
-
-
----
-
-                                    Ministerul Educației și Cercetării
-                             Centrul Național pentru Curriculum și Evaluare
-
-
-
-
-Probă scrisă la matematică                                                    Varianta 5
-                                                  10
-
-
----
+![Figura problemei III.6](assets/2026_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/figura-III-6.png)

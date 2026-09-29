@@ -1,137 +1,252 @@
-# 2026_EN_Matematica_Simulare_Barem_LRO
+# Evaluarea Națională 2026 — Matematică
 
-*Transcriere automată din PDF; imaginile și figurile nu au fost analizate.*
+## Simulare — Barem de evaluare și de notare
 
-Ministerul Educației și Cercetării
-                                   Centrul Național pentru Curriculum și Evaluare
-              EVALUAREA NAȚIONALĂ PENTRU ABSOLVENȚII CLASEI a VIII-a
-                               Anul școlar 2025-2026
+**Anul școlar 2025–2026**
 
-                                                   Probă scrisă
-                                                   Matematică
-                                   BAREM DE EVALUARE ȘI DE NOTARE
-                                                                                          Simulare
-• Se acordă zece puncte din oficiu. Nota finală se calculează prin împărțirea la zece a punctajului
-total acordat pentru lucrare.
-SUBIECTUL I și SUBIECTUL al II-lea:
-• Se punctează doar rezultatul, astfel: pentru fiecare răspuns se acordă fie cinci puncte, fie zero
-puncte.
-• Nu se acordă punctaje intermediare.
-SUBIECTUL al III-lea
-• Pentru orice soluție corectă, chiar dacă este diferită de cea din barem, se acordă punctajul
-corespunzător.
-• Nu se acordă fracțiuni de punct, dar se pot acorda punctaje intermediare pentru rezolvări
-parțiale, în limitele punctajului indicat în barem.
-SUBIECTUL I                                                                              (30 de puncte)
-1.    b)                                                                                             5p
-2.    c)                                                                                             5p
-3.    c)                                                                                             5p
-4.    c)                                                                                             5p
-5.    d)                                                                                             5p
-6.    a)                                                                                             5p
+- Se acordă zece puncte din oficiu. Nota finală se calculează prin împărțirea la zece a punctajului total acordat pentru lucrare.
+- La Subiectele I și II se punctează doar rezultatul: pentru fiecare răspuns se acordă fie 5 puncte, fie 0 puncte.
+- Nu se acordă punctaje intermediare la Subiectele I și II.
+- Pentru orice soluție corectă, chiar dacă este diferită de cea din barem, se acordă punctajul corespunzător.
+- La Subiectul III nu se acordă fracțiuni de punct, dar se pot acorda punctaje intermediare pentru rezolvări parțiale, în limitele punctajului indicat în barem.
 
- SUBIECTUL al II-lea                                                                    (30 de puncte)
-1.   b)                                                                                              5p
-2.   d)                                                                                              5p
-3.   b)                                                                                              5p
-4.   c)                                                                                              5p
-5.   b)                                                                                              5p
-6.   c)                                                                                              5p
-SUBIECTUL al III-lea                                                                    (30 de puncte)
+## SUBIECTUL I — 30 de puncte
 
-1. a) e = 2(b + 1), deci e este număr par, unde e reprezintă numărul elevilor, iar b reprezintă
-                                                                                                     1p
-     numărul băncilor din acea clasă
-     Cum 25 este număr impar, obținem că nu este posibil ca în acea clasă să fie 25 de elevi         1p
-     b) e = 4 ( b − 6 ) + 2                                                                          1p
-     2 ( b + 1) = 4 ( b − 6 ) + 2  2b = 24                                                          1p
-     b = 12                                                                                          1p
-2. a) x 2 − 3x + 2 = x 2 − x − 2 x + 2 =                                                             1p
-   = x ( x − 1) − 2 ( x − 1) = ( x − 2 )( x − 1), pentru orice număr real x                         1p
+| Problema | Răspuns | Punctaj |
+|:---:|:---:|:---:|
+| 1 | **b)** | 5p |
+| 2 | **c)** | 5p |
+| 3 | **c)** | 5p |
+| 4 | **c)** | 5p |
+| 5 | **d)** | 5p |
+| 6 | **a)** | 5p |
 
-                                                         ( x − 3)
-                                                                2
-                           1               x−2
-     b) E ( x ) =                   −                  :         =
-                   ( x − 2 )( x − 1) ( x − 2 )( x − 1)  x − 1
-                                                                                                     1p
+## SUBIECTUL al II-lea — 30 de puncte
 
+| Problema | Răspuns | Punctaj |
+|:---:|:---:|:---:|
+| 1 | **b)** | 5p |
+| 2 | **d)** | 5p |
+| 3 | **b)** | 5p |
+| 4 | **c)** | 5p |
+| 5 | **b)** | 5p |
+| 6 | **c)** | 5p |
 
+## SUBIECTUL al III-lea — 30 de puncte
 
-Probă scrisă la matematică                                                                     Simulare
-Barem de evaluare și de notare
-                                                    Pagina 1 din 2
+### 1. (5p)
 
+**a) (2p)**
 
----
+Dacă $e$ reprezintă numărul elevilor, iar $b$ reprezintă numărul băncilor din clasă, atunci
 
-                                             Ministerul Educației și Cercetării
-                                      Centrul Național pentru Curriculum și Evaluare
-              3− x            x −1       x−3       1                 1
-     =                    ⋅           =−      ⋅           =−, pentru orice număr real x,
-         ( x − 2 )( x − 1) ( x − 3) 2    x − 2 ( x − 3) 2
-                                                             ( x − 2 )( x − 3)                                    1p
-     x ≠ 1, x ≠ 2 și x ≠ 3
-           1     1     1     1        4           64     50                     2
-     T = −     +     +     +       = − și, cum −     <−, obținem că T < −                                  1p
-           1⋅ 2 2 ⋅ 3 3 ⋅ 4 4 ⋅ 5     5          10     10                     2
-3. a) Punctul C (10,0 ) este proiecția punctului B pe axa Ox, deci AC = 8, BC = 4                               1p
-     AB2 = AC 2 + BC 2 = 64 + 16 = 80  AB = 80 = 4 5                                                             1p
+$$
+e=2(b+1),
+$$
 
-     b) M (m,0)  AM = m − 2                                                                                      1p
-     Triunghiul BMC este dreptunghic în C, BM = m − 2, CM = 10 − m, deci                                       1p
-     ( m − 2 ) = 16 + (10 − m )
-               2                  2
+deci $e$ este număr par. **(1p)**
 
-     m=7                                                                                                          1p
-4. a) BD = 4 2 cm                                                                                                 1p
-                   BD
-     MO = OB =, deci MO = 2 2 cm                                                                        1p
-                     2
-     b) În triunghiul isoscel OAD, OM este bisectoare, deci OQ este înălțime și mediană, Q este                   1p
-     punctul de intersecție a dreptelor OM și AD, de unde obținem OQ = 2 cm și MQ = 2 2 − 1 cm  (       )
-                                              MQ PQ     BA + MQ PA + PQ        2+2 2    2
-     MQ AB  ∆MPQ ∼ ∆BPA                        =            =, deci       =                            1p
-                                              BA   PA     BA      PA            BA     PA
-                                                                     BA 2 + 2 2
-     În triunghiul BAP, dreptunghic în A, tg ( ∢BPA ) =               =       = 1+ 2                            1p
-                                                                     PA     2
-5. a) MC = AC = 4cm                                                                                               1p
-            2
-                                       MC
-     MP ⊥ BC, ∢ PMC = 30°, deci PC =      = 2 cm                                                                1p
-                                         2
-     b) PQ ⊥ AB, ∢PBQ = 60°, de unde obținem PQ = 3 3 cm                                                         1p
+Cum $25$ este număr impar, rezultă că nu este posibil ca în acea clasă să fie $25$ de elevi. **(1p)**
 
-                                                                            QT               9
-     QT ⊥ MP, unde T ∈ MP, ∢MPQ = 60°, deci sin ( ∢TPQ ) =, de unde QT = cm                  1p
-                                                                            QP               2
-                            QT ⋅ MP 9 3
-     MP = 2 3 cm, deci A∆MPQ =       =     cm 2                                                                  1p
-                               2        2
-6.   a) BM = CM și PM = BM  BP = 2 ⋅ CM, deci triunghiul PCB este dreptunghic în C
-                                                                                                                  1p
+**b) (3p)**
 
-     CM = 3 3 cm, PC = PB 2 − BC 2 = 6 2 cm                                                                      1p
-     b) ME este linie mijlocie în triunghiul PDB, unde E este mijlocul segmentului BD, deci
-     ME DP  ∢ ( DP, CM ) = ∢ ( ME, CM )                                                                         1p
+$$
+e=4(b-6)+2. \qquad \text{(1p)}
+$$
 
-     ME = AB = 3 cm și, cum CE = CM, obținem că triunghiul MCE este isoscel                                      1p
-           2
-                                                            2
-                                          (3 3 )         3  3 11
-                                                   2
-     CF ⊥ ME, F ∈ ME  CF =                           −  =      cm, iar din triunghiul dreptunghic CFM
-                                                        2     2                                                 1p
-                                      CF 3 11 1      33
-     rezultă că sin ( ∢CMF ) =           =   ⋅     =
-                                      MC   2   3 3   6
+Prin urmare,
 
+$$
+2(b+1)=4(b-6)+2
+\quad\Longrightarrow\quad
+2b=24. \qquad \text{(1p)}
+$$
 
+$$
+b=12. \qquad \text{(1p)}
+$$
 
-Probă scrisă la matematică                                                                                  Simulare
-Barem de evaluare și de notare
-                                                         Pagina 2 din 2
+### 2. (5p)
 
+**a) (2p)**
 
----
+$$
+x^2-3x+2=x^2-x-2x+2
+$$
+
+$$
+=x(x-1)-2(x-1)=(x-2)(x-1),
+$$
+
+pentru orice număr real $x$. **(2p)**
+
+**b) (3p)**
+
+$$
+E(x)=
+\left(
+\frac{1}{(x-2)(x-1)}-\frac{x-2}{(x-2)(x-1)}
+\right):\frac{(x-3)^2}{x-1}
+$$
+
+$$
+=\frac{3-x}{(x-2)(x-1)}\cdot\frac{x-1}{(x-3)^2}
+=-\frac{1}{(x-2)(x-3)},
+$$
+
+pentru orice număr real $x$, cu $x\ne1$, $x\ne2$ și $x\ne3$. **(1p)**
+
+Atunci
+
+$$
+T=-\left(\frac{1}{1\cdot2}+\frac{1}{2\cdot3}+\frac{1}{3\cdot4}+\frac{1}{4\cdot5}\right)
+=-\frac{4}{5}.
+$$
+
+Deoarece
+
+$$
+\left(\frac{4}{5}\right)^2=\frac{64}{100}>\frac{50}{100}=\left(\frac{\sqrt{2}}{2}\right)^2,
+$$
+
+rezultă că $T<-\frac{\sqrt{2}}{2}$. **(2p)**
+
+### 3. (5p)
+
+**a) (2p)**
+
+Punctul $C(10,0)$ este proiecția punctului $B$ pe axa $Ox$, deci $AC=8$ și $BC=4$. **(1p)**
+
+$$
+AB^2=AC^2+BC^2=64+16=80
+\quad\Longrightarrow\quad
+AB=\sqrt{80}=4\sqrt{5}.
+$$
+
+**(1p)**
+
+**b) (3p)**
+
+Fie $M(m,0)$. Atunci $AM=m-2$. **(1p)**
+
+Triunghiul $BMC$ este dreptunghic în $C$, iar $BM=m-2$ și $CM=10-m$. Prin urmare,
+
+$$
+(m-2)^2=16+(10-m)^2. \qquad \text{(1p)}
+$$
+
+De aici rezultă
+
+$$
+m=7. \qquad \text{(1p)}
+$$
+
+### 4. (5p)
+
+**a) (2p)**
+
+$$
+BD=4\sqrt{2}\text{ cm}. \qquad \text{(1p)}
+$$
+
+Deoarece $MO=OB=\frac{BD}{2}$, rezultă
+
+$$
+MO=2\sqrt{2}\text{ cm}. \qquad \text{(1p)}
+$$
+
+**b) (3p)**
+
+În triunghiul isoscel $OAD$, $OM$ este bisectoare, deci este și înălțime și mediană. Dacă $Q$ este intersecția dreptelor $OM$ și $AD$, atunci $OQ=2\text{ cm}$ și $MQ=2\sqrt{2}-1\text{ cm}$. **(1p)**
+
+Deoarece $MQ\parallel AB$, rezultă $\triangle MPQ\sim\triangle BPA$, deci
+
+$$
+\frac{MQ}{BA}=\frac{PQ}{PA}
+\quad\Longrightarrow\quad
+\frac{2\sqrt{2}-1}{BA}=\frac{2}{PA}. \qquad \text{(1p)}
+$$
+
+În triunghiul dreptunghic $BAP$,
+
+$$
+\tan(\angle BPA)=\frac{BA}{PA}
+=\frac{BA^2+2\sqrt{2}}{2}=1+\sqrt{2}. \qquad \text{(1p)}
+$$
+
+### 5. (5p)
+
+**a) (2p)**
+
+$$
+MC=\frac{AC}{2}=4\text{ cm}. \qquad \text{(1p)}
+$$
+
+Deoarece $MP\perp BC$ și $\angle PMC=30^\circ$,
+
+$$
+PC=\frac{MC}{2}=2\text{ cm}. \qquad \text{(1p)}
+$$
+
+**b) (3p)**
+
+Deoarece $PQ\perp AB$ și $\angle PBQ=60^\circ$, rezultă
+
+$$
+PQ=3\sqrt{3}\text{ cm}. \qquad \text{(1p)}
+$$
+
+Dacă $T\in MP$ și $QT\perp MP$, atunci $\angle MPQ=60^\circ$, iar
+
+$$
+\sin(\angle TPQ)=\frac{QT}{QP}=\frac{1}{2}
+\quad\Longrightarrow\quad
+QT=\frac{9}{2}\text{ cm}. \qquad \text{(1p)}
+$$
+
+Cum $MP=2\sqrt{3}\text{ cm}$,
+
+$$
+A_{\triangle MPQ}=\frac{QT\cdot MP}{2}=\frac{9\sqrt{3}}{2}\text{ cm}^2. \qquad \text{(1p)}
+$$
+
+### 6. (5p)
+
+**a) (2p)**
+
+Deoarece $BM=CM$ și $PM=BM$, rezultă $BP=2\cdot CM$. Triunghiul $PCB$ este dreptunghic în $C$. **(1p)**
+
+$$
+CM=3\sqrt{3}\text{ cm},
+\qquad
+PC=\sqrt{PB^2-BC^2}=6\sqrt{2}\text{ cm}. \qquad \text{(1p)}
+$$
+
+**b) (3p)**
+
+Fie $E$ mijlocul segmentului $BD$. $ME$ este linie mijlocie în triunghiul $PDB$, deci $ME\parallel DP$, iar
+
+$$
+\angle(DP,CM)=\angle(ME,CM). \qquad \text{(1p)}
+$$
+
+$$
+ME=\frac{AB}{2}=3\text{ cm},
+$$
+
+iar, cum $CE=CM$, triunghiul $MCE$ este isoscel. **(1p)**
+
+Dacă $CF\perp ME$, $F\in ME$, atunci
+
+$$
+CF=\sqrt{(3\sqrt{3})^2-\left(\frac{3}{2}\right)^2}
+=\frac{3\sqrt{11}}{2}\text{ cm}.
+$$
+
+Din triunghiul dreptunghic $CFM$,
+
+$$
+\sin(\angle CMF)=\frac{CF}{MC}
+=\frac{3\sqrt{11}}{2}\cdot\frac{1}{3\sqrt{3}}
+=\frac{\sqrt{33}}{6}. \qquad \text{(1p)}
+$$
