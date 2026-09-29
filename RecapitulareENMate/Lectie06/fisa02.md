@@ -1,27 +1,48 @@
 # Fișa 02 — Muncă individuală
 
-1. `x+4>9`.
-2. `5x-2≤18`.
-3. `7-3x<16`.
-4. `-2x+5≥13`.
-5. `4(x+1)>2x+10`.
-6. `3(x-2)≤2(x+4)`.
-7. `5-2(x-1)>x+8`.
-8. `x/3+2≥6`.
-9. `(2x-1)/5<3`.
-10. `-x/4≤2`.
-11. Scrie sub formă de interval: `x>4`.
-12. Scrie sub formă de inecuație: `[-3,∞)`.
-13. Determină numerele naturale `n` pentru care `2n+1<10`.
-14. Determină numerele întregi `z` pentru care `-5≤z<3`.
-15. Un bilet costă 12 lei. Cu 100 lei, câte bilete poți cumpăra cel mult?
-16. Pentru ce valori ale lui `x` este pozitivă expresia `3x-12`?
-17. Pentru ce valori ale lui `x` este negativă expresia `5-2x`?
-18. Rezolvă simultan: `x>1` și `x≤6`.
-19. Un dreptunghi are lățimea 5 cm și lungimea `x` cm. Dacă perimetrul este mai mic decât 30 cm, ce condiție verifică `x`?
-20. Un elev are 75 de minute pentru 6 exerciții. Primele 5 durează câte 8 minute. Câte minute îi rămân pentru ultimul exercițiu?
+## A. Puteri
+
+1. `3^4`.
+2. `(-2)^5`.
+3. `-2^4`.
+4. `(5^2)^3`.
+5. `7^3:7`.
+6. `2^4·2^3`.
+7. `(3·5)^2`.
+8. `10^0+4^2`.
+9. Compară `2^6` și `4^3`.
+10. Scrie `6 300 000` în notație științifică.
+
+## B. Radicali
+
+11. `√81`.
+12. `√196`.
+13. Simplifică `√48`.
+14. Simplifică `√75`.
+15. Simplifică `√200`.
+16. `√12+√27`.
+17. `3√8-√18`.
+18. `√6·√24`.
+19. `2√5·3√10`.
+20. Raționalizează `1/√7`.
+
+## C. Ecuații și comparații
+
+21. `x²=169`.
+22. `√x=11`.
+23. `√(x+5)=8`.
+24. Compară `√80` și 9.
+25. Arată că `7<√60<8`.
+
+## D. Probleme
+
+26. Un pătrat are latura 9 cm. Determină diagonala.
+27. Un cub are muchia 4 cm. Determină diagonala feței și diagonala spațială.
+28. Un dreptunghi are laturile 5 și 12 cm. Determină diagonala.
+29. O expresie are valoarea `2√3+5√3`. Simplifică și aproximează cu `√3≈1,73`.
+30. Explică printr-un contraexemplu de ce `√(a+b)=√a+√b` este falsă.
 
 ## Răspunsuri
 
-1. `x>5`; 2. `x≤4`; 3. `x>-3`; 4. `x≤-4`; 5. `x>3`; 6. `x≤10`; 7. `x<-1/3`; 8. `x≥12`; 9. `x<8`; 10. `x≥-8`; 11. `(4,∞)`; 12. `x≥-3`; 13. `n∈{0,1,2,3,4}`; 14. `-5,-4,-3,-2,-1,0,1,2`; 15. 8; 16. `x>4`; 17. `x>5/2`; 18. `(1,6]`; 19. `2x+10<30`, deci `x<10`; 20. 35 minute.
+1. 81; 2. -32; 3. -16; 4. 15625; 5. 343; 6. 128; 7. 225; 8. 17; 9. egale; 10. `6,3·10^6`; 11. 9; 12. 14; 13. `4√3`; 14. `5√3`; 15. `10√2`; 16. `5√3`; 17. `3√2`; 18. 12; 19. `30√2`; 20. `√7/7`; 21. `x=±13`; 22. 121; 23. 59; 24. `√80<9`; 25. `49<60<64`; 26. `9√2`; 27. `4√2`, `4√3`; 28. 13; 29. `7√3≈12,11`; 30. pentru a=1,b=1: `√2≠2`.
 

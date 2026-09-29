@@ -1,12 +1,42 @@
-# Fișa 01 — Figuri compuse
+# Fișa 01 — Noțiuni fundamentale: exerciții ghidate
 
-1. Un dreptunghi de 12×8 cm are atașat un triunghi cu baza 12 cm și înălțimea 5 cm. Calculează aria totală.
-2. Dintr-un pătrat de latură 10 cm se decupează un disc de rază 3 cm. Calculează aria rămasă.
-3. O figură în formă de L se obține dintr-un dreptunghi 12×10 cm din care se elimină un dreptunghi 5×4 cm. Calculează aria.
-4. Un trapez are bazele 14 cm și 8 cm, iar înălțimea 6 cm. Un triunghi de bază 8 cm și înălțime 3 cm este atașat. Calculează aria totală.
-5. Explică diferența dintre calculul ariei și calculul perimetrului pentru o figură compusă.
+## Problema 1 — Mijlocul unui segment
 
-## Răspunsuri
+AB=18 cm, iar M este mijlocul lui AB. Determină AM și MB.
 
-1. 126 cm²; 2. `100-9π` cm²; 3. 100 cm²; 4. 75 cm²; 5. aria adună/scade suprafețe, perimetrul urmărește doar conturul exterior.
+**Rezolvare:** `AM=MB=AB:2=9 cm`.
+
+## Problema 2 — Complement și suplement
+
+Determină complementul lui 37° și suplementul lui 37°.
+
+**Rezolvare:** `90°-37°=53°`; `180°-37°=143°`.
+
+## Problema 3 — Opuse la vârf
+
+Două unghiuri opuse la vârf sunt `4x+8` și `6x-22`. Determină x și unghiul.
+
+**Rezolvare:** `4x+8=6x-22`, deci `2x=30`, `x=15`; unghiul este 68°.
+
+## Problema 4 — Paralele
+
+Un unghi corespondent cu unul de 72° este `3x+6`. Determină x.
+
+**Rezolvare:** `3x+6=72`, deci `x=22`.
+
+## Problema 5 — Unghiuri pe o dreaptă
+
+Două unghiuri adiacente sunt `2x+10` și `3x-5` și formează un unghi alungit.
+
+**Rezolvare:** `2x+10+3x-5=180`, deci `5x=175`, `x=35`; unghiurile sunt 80° și 100°.
+
+## Problema 6 — Segment împărțit
+
+A, M, B sunt coliniare, `AM=3x-1`, `MB=x+5`, `AB=28`. Determină x.
+
+**Rezolvare:** `3x-1+x+5=28`, deci `4x=24`, `x=6`; segmentele sunt 17 și 11 cm.
+
+## Răspunsuri rapide
+
+1. 9 cm; 2. 53°,143°; 3. x=15, 68°; 4. x=22; 5. x=35, 80° și 100°; 6. x=6, 17 cm și 11 cm.
 

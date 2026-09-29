@@ -1,27 +1,48 @@
 # Fișa 02 — Muncă individuală
 
-1. Cubul are muchia 3 cm. Calculează volumul.
-2. Cubul are muchia 10 cm. Calculează aria totală.
-3. Determină muchia cubului cu volumul 1000 cm³.
-4. Determină muchia cubului cu aria totală 150 cm².
-5. Calculează diagonala feței unui cub de latură 8 cm.
-6. Calculează diagonala spațială a cubului de latură 5 cm.
-7. Paralelipipedul are dimensiunile 2, 6 și 9 cm. Calculează volumul.
-8. Calculează aria totală a paralelipipedului 2×6×9 cm.
-9. Calculează diagonala paralelipipedului 2×6×9 cm.
-10. Un paralelipiped are volumul 360 cm³, lungimea 10 cm și lățimea 6 cm. Determină înălțimea.
-11. O prismă are baza pătrat de latură 5 cm și înălțimea 14 cm. Calculează volumul.
-12. O prismă are baza dreptunghi de 4×7 cm și înălțimea 10 cm. Calculează aria bazei și volumul.
-13. O prismă dreaptă are `P_b=24 cm`, `A_b=30 cm²`, `h=8 cm`. Calculează aria laterală și totală.
-14. O prismă are volumul 540 cm³ și înălțimea 15 cm. Determină aria bazei.
-15. Baza unei prisme este un triunghi cu baza 10 cm și înălțimea 6 cm. Prisma are înălțimea 9 cm. Determină volumul.
-16. Baza este un trapez cu bazele 6 și 14 cm și înălțimea 5 cm; prisma are înălțimea 10 cm. Determină volumul.
-17. O cutie fără capac are dimensiunile 20×10×5 cm. Ce suprafață de carton este necesară?
-18. Un cub de latură 2 cm este mărit astfel încât latura devine de 3 ori mai mare. De câte ori crește volumul?
-19. Dacă toate muchiile unui paralelipiped se dublează, de câte ori crește aria totală și de câte ori volumul?
-20. Explică diferența dintre înălțimea prismei și înălțimea poligonului de la bază.
+## A. Identificarea criteriului
+
+1. Trei laturi corespunzătoare egale.
+2. Două laturi și unghiul cuprins egale.
+3. O latură și unghiurile alăturate egale.
+4. Două triunghiuri dreptunghice cu ipotenuza și o catetă egale.
+5. Explică de ce două laturi egale și un unghi necuprins nu sunt suficiente pentru LUL.
+
+## B. Corespondență
+
+6. Dacă `△ABC≡△DEF`, ce corespunde lui A?
+7. Ce latură corespunde lui AC?
+8. Ce unghi corespunde lui B?
+9. Dacă `AB=12`, ce măsoară DE?
+10. Dacă `∠C=48°`, ce măsoară ∠F?
+
+## C. Aplicare
+
+11. Triunghiurile au laturile 4,6,8 și 4,6,8. Sunt congruente?
+12. Două triunghiuri au laturile 5,7,9 și 5,7,10. Sunt congruente?
+13. `AB=DE=8`, `AC=DF=5`, `∠A=∠D=60°`.
+14. `∠A=∠D`, `AB=DE`, `∠B=∠E`.
+15. Două triunghiuri dreptunghice au ipotenuza 13 și o catetă 5.
+16. Demonstrează că bisectoarea unghiului principal al unui isoscel este mediană.
+17. Demonstrează că perpendiculara din centrul unui cerc pe o coardă o înjumătățește.
+18. Într-un paralelogram, diagonalele se intersectează în O. Compară triunghiurile formate de diagonale.
+19. Într-un triunghi, mediana împarte baza în două segmente. Ce laturi sau unghiuri mai trebuie pentru a folosi LUL?
+20. Scrie pașii unei demonstrații cu o latură comună.
+
+## D. Demonstrații și probleme
+
+21. În `AB=AC`, AD este mediană. Demonstrează că AD este și înălțime.
+22. În două triunghiuri, `AB=DE`, `BC=EF`, `∠B=∠E`. Ce criteriu și ce concluzie?
+23. Dacă două triunghiuri sunt congruente, ce se poate spune despre perimetre?
+24. Dacă două triunghiuri sunt congruente, ce se poate spune despre arii?
+25. Două triunghiuri au unghiurile 40°,60°,80°. Sunt obligatoriu congruente?
+26. Două triunghiuri dreptunghice au catetele 6 și 8 în aceeași ordine. Ce criteriu?
+27. Într-un triunghi isoscel, demonstrează egalitatea unghiurilor de la bază prin congruență.
+28. Identifică latura corespunzătoare lui MN în `△MNP≡△RST`.
+29. Explică diferența dintre „laturi egale” și „laturi proporționale”.
+30. Redactează o demonstrație completă la alegere.
 
 ## Răspunsuri
 
-1. 27 cm³; 2. 600 cm²; 3. 10 cm; 4. 5 cm; 5. `8√2` cm; 6. `5√3` cm; 7. 108 cm³; 8. 180 cm²; 9. 11 cm; 10. 6 cm; 11. 350 cm³; 12. 28 cm² și 280 cm³; 13. 192 cm² și 252 cm²; 14. 36 cm²; 15. 270 cm³; 16. 500 cm³; 17. 500 cm²; 18. de 27 ori; 19. de 4 ori și de 8 ori; 20. prima este distanța dintre baze, a doua este perpendiculara din poligonul bazei.
+1. LLL; 2. LUL; 3. ULU; 4. catetă–ipotenuză; 5. unghiul trebuie cuprins; 6. D; 7. DF; 8. E; 9. 12; 10. 48°; 11. da, LLL; 12. nu; 13. congruente LUL; 14. congruente ULU; 15. congruente catetă–ipotenuză; 16. prin două triunghiuri congruente; 17. prin congruența triunghiurilor dreptunghice; 18. laturile opuse sunt egale prin congruență; 19. încă o latură și unghiul cuprins sau unghiuri; 20. date, elemente comune, egalități, criteriu, concluzie; 21. prin LUL; 22. LUL, congruente; 23. perimetre egale; 24. arii egale; 25. nu, pot avea dimensiuni diferite; 26. catetă–catetă în triunghiuri dreptunghice; 27. construcție și criteriu LUL; 28. RS; 29. egalitatea are raport 1, proporționalitatea poate avea alt raport; 30. evaluare deschisă.
 

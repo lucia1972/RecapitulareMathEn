@@ -1,27 +1,45 @@
 # Fișa 02 — Muncă individuală
 
-1. Calculează volumul unei piramide cu `A_b=20`, `h=6`.
-2. Calculează volumul unei piramide cu `A_b=75`, `h=8`.
-3. Determină `h` dacă `V=200` și `A_b=50`.
-4. Determină `A_b` dacă `V=96` și `h=12`.
-5. Baza este un pătrat de latură 5 cm, iar înălțimea este 12 cm. Calculează volumul.
-6. Baza este un dreptunghi 4×9 cm, iar înălțimea 15 cm. Calculează volumul.
-7. Baza este un triunghi cu baza 10 cm și înălțimea 7 cm, iar piramida are înălțimea 12 cm.
-8. Baza este un trapez cu bazele 6 și 14 cm și înălțimea 5 cm, iar piramida are înălțimea 9 cm.
-9. O piramidă pătrată are latura bazei 10 cm și apotema 13 cm. Calculează aria laterală.
-10. O piramidă regulată are `P_b=36 cm` și apotema 8 cm. Calculează aria laterală.
-11. Calculează aria totală a piramidei din exercițiul 9.
-12. O piramidă cu bază pătrată are latura 6 cm și apotema 5 cm. Calculează aria totală.
-13. Pentru aceeași bază și înălțime, de câte ori este volumul prismei față de cel al piramidei?
-14. O piramidă are volumul 270 cm³ și înălțimea 18 cm. Determină aria bazei.
-15. Baza unei piramide este un hexagon regulat cu aria 54 cm² și `h=10 cm`. Calculează volumul.
-16. O piramidă are baza un romb cu diagonalele 8 și 12 cm și înălțimea 15 cm.
-17. Dacă latura bazei se dublează, iar înălțimea rămâne aceeași, de câte ori crește volumul?
-18. Dacă și baza, și înălțimea se dublează, de câte ori crește volumul?
-19. Explică diferența dintre apotema unei fețe și înălțimea piramidei.
-20. Scrie algoritmul de rezolvare pentru o problemă cu o piramidă regulată.
+## A. Proprietăți
+
+1. Calculează suma unghiurilor unui patrulater.
+2. Un paralelogram are un unghi de 48°. Determină unghiurile.
+3. Ce proprietate au laturile opuse ale paralelogramului?
+4. Ce proprietate au diagonalele paralelogramului?
+5. Ce proprietate suplimentară are dreptunghiul?
+6. Ce proprietăți au diagonalele rombului?
+7. Enumeră proprietățile pătratului.
+8. Definește trapezul și bazele sale.
+
+## B. Perimetre și arii
+
+9. Paralelogram: `b=12`, `h=7`.
+10. Paralelogram cu laturile 8 și 13: perimetru.
+11. Dreptunghi 15×7: perimetru și arie.
+12. Dreptunghi cu aria 96 și lățimea 8: lungimea.
+13. Pătrat cu latura 13: perimetru, arie, diagonală.
+14. Pătrat cu perimetrul 44: aria.
+15. Romb cu latura 10: perimetru.
+16. Romb cu diagonalele 16 și 30: aria și latura.
+17. Romb cu aria 84 și o diagonală 12: cealaltă diagonală.
+18. Trapez cu bazele 10 și 18 și h=6: aria.
+19. Trapez cu aria 96, bazele 12 și 20: înălțimea.
+20. Trapez isoscel cu bazele 10 și 18 și latura oblică 5: înălțimea.
+
+## C. Probleme
+
+21. Un dreptunghi are perimetrul 50 și lungimea 15. Determină lățimea și aria.
+22. Un pătrat are aria 121. Determină latura, perimetrul și diagonala.
+23. Un paralelogram are aria 90 și baza 15. Determină înălțimea.
+24. Un trapez are bazele în raport 2:3, suma lor 25 și h=8. Determină aria.
+25. Diagonalele unui romb sunt în raport 3:4, iar aria este 96. Determină diagonalele.
+26. Într-un paralelogram, `AO=7` și `BO=5`. Determină diagonalele.
+27. Un dreptunghi are diagonala 17 și o latură 8. Determină cealaltă latură.
+28. Un trapez isoscel are baza mare 20, baza mică 10 și înălțimea 12. Determină latura oblică.
+29. O figură compusă dintr-un dreptunghi 12×8 și un triunghi cu b=12,h=5 are ce arie totală?
+30. Explică diferența dintre aria laterală și aria totală? *(Pregătește legătura cu corpurile geometrice.)*
 
 ## Răspunsuri
 
-1. 40 cm³; 2. 200 cm³; 3. 12 cm; 4. 24 cm²; 5. 100 cm³; 6. 180 cm³; 7. 140 cm³; 8. 150 cm³; 9. 260 cm²; 10. 144 cm²; 11. 360 cm²; 12. 96 cm²; 13. 3 ori; 14. 45 cm²; 15. 180 cm³; 16. 240 cm³; 17. 4 ori; 18. 8 ori; 19. apotema este în fața laterală, înălțimea este perpendiculară pe bază; 20. identifică baza, calculează `A_b`, identifică `h`, aplică `V=A_bh/3` și verifică unitatea.
+1. 360°; 2. 48°,132°,48°,132°; 3. paralele și egale; 4. se înjumătățesc; 5. toate unghiurile drepte și diagonale egale; 6. perpendiculare, se înjumătățesc, bisectoare; 7. laturi egale, unghiuri drepte, diagonale egale/perpendiculare; 8. patrulater cu cel puțin o pereche de laturi paralele; 9. 84 cm²; 10. 42 cm; 11. 44 cm,105 cm²; 12. 12 cm; 13. 52 cm,169 cm²,`13√2` cm; 14. 121 cm²; 15. 40 cm; 16. 240 cm²,17 cm; 17. 14 cm; 18. 84 cm²; 19. 6 cm; 20. 3 cm; 21. 10 cm,150 cm²; 22. 11 cm,44 cm,`11√2` cm; 23. 6 cm; 24. baze 10 și 15, aria 100 cm²; 25. 12 și 16; 26. 14 și 10; 27. 15 cm; 28. 13 cm; 29. 126 cm²; 30. aria laterală este suma fețelor laterale, aria totală include și baza/bazele.
 

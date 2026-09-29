@@ -1,27 +1,48 @@
 # Fișa 02 — Muncă individuală
 
-1. `f(x)=x+5`: calculează `f(3)`.
-2. `f(x)=-2x+7`: calculează `f(-2)`.
-3. `f(x)=4x-8`: determină zeroul funcției.
-4. `f(x)=-3x+9`: determină intersecțiile cu axele.
-5. Spune monotonia lui `f(x)=7-5x`.
-6. Completează tabelul pentru `f(x)=2x+1`, la `x=-2,-1,0,1,2`.
-7. Reprezintă grafic `y=x-3` folosind două puncte.
-8. Reprezintă grafic `y=-2x+4` folosind intersecțiile cu axele.
-9. Determină funcția care trece prin `(1,4)` și `(3,10)`.
-10. Determină funcția care trece prin `(-1,5)` și `(2,-1)`.
-11. Rezolvă `3x-2=x+6`.
-12. Rezolvă grafic `5-x=2x-2`.
-13. Pentru ce `x` avem `f(x)=0`, dacă `f(x)=6x+12`?
-14. Pentru ce `x` avem `f(x)>0`, dacă `f(x)=2x-10`?
-15. Un taxi costă 5 lei pornirea și 3 lei/km. Scrie costul pentru `x` km și calculează pentru 8 km.
-16. O temperatură este `T(t)=20-2t`. Ce temperatură este după 6 ore?
-17. Două planuri tarifare sunt `A(x)=10+2x` și `B(x)=4+3x`. Pentru ce număr de unități au același cost?
-18. Determină panta dreptei prin `(2,3)` și `(5,12)`.
-19. Arată că punctele `(0,1),(1,4),(2,7)` sunt coliniare.
-20. Determină coordonatele punctului comun al graficelor `y=3x-2` și `y=10-x`.
+## A. Dezvoltare
+
+1. `(x+3)²`.
+2. `(x-8)²`.
+3. `(2x+5)²`.
+4. `(4x-3)²`.
+5. `(3a+2b)²`.
+6. `(5x-1)(5x+1)`.
+7. `(2a-3b)(2a+3b)`.
+8. `(x+2)(x+6)`.
+9. `(3x-4)(x+5)`.
+10. `(2x+1)²-(x-3)²`.
+
+## B. Factor comun
+
+11. `6x+15`.
+12. `14a²-21a`.
+13. `18x³+12x²`.
+14. `25ab-15a`.
+15. `8x²y-12xy²`.
+
+## C. Formule inverse și grupare
+
+16. `x²-49`.
+17. `9a²-16b²`.
+18. `x²+16x+64`.
+19. `4x²-20x+25`.
+20. `x²+5x+4`.
+21. `x²+7x+12`.
+22. `x²-2x-15`.
+23. `ax+ay+bx+by`.
+24. `2x²+6x+5x+15`.
+25. `3x³-27x`.
+
+## D. Simplificări și demonstrații
+
+26. Simplifică `(x²-36)/(x-6)`, precizând restricția.
+27. Simplifică `(4x²-9)/(2x-3)`.
+28. Arată că `(a+b)²-(a-b)²=4ab`.
+29. Arată că `(x+3)²-(x²+6x+9)=0`.
+30. Inventează o expresie care se factorizează prin diferență de pătrate și verific-o.
 
 ## Răspunsuri
 
-1. 8; 2. 11; 3. 2; 4. `(0,9),(3,0)`; 5. descrescătoare; 6. `-3,-1,1,3,5`; 7. de ex. `(0,-3),(3,0)`; 8. `(0,4),(2,0)`; 9. `y=3x+1`; 10. `y=-2x+3`; 11. 4; 12. 7/3; 13. -2; 14. `x>5`; 15. `C=5+3x`, 29 lei; 16. 8°C; 17. 6 unități; 18. 3; 19. valorile lui `y` cresc cu 3; 20. `(3,7)`.
+1. `x²+6x+9`; 2. `x²-16x+64`; 3. `4x²+20x+25`; 4. `16x²-24x+9`; 5. `9a²+12ab+4b²`; 6. `25x²-1`; 7. `4a²-9b²`; 8. `x²+8x+12`; 9. `9x²-24x+16`; 10. `x²+8x+8`; 11. `3(2x+5)`; 12. `7a(2a-3)`; 13. `6x²(3x+2)`; 14. `5a(5b-3)`; 15. `4xy(2x-3y)`; 16. `(x-7)(x+7)`; 17. `(3a-4b)(3a+4b)`; 18. `(x+8)²`; 19. `(2x-5)²`; 20. `(x+1)(x+4)`; 21. `(x+3)(x+4)`; 22. `(x-5)(x+3)`; 23. `(a+b)(x+y)`; 24. `(2x+5)(x+3)`; 25. `3x(x-3)(x+3)`; 26. `x+6`, `x≠6`; 27. `2x+3`, `x≠3/2`; 28. dezvoltare; 29. expresia este 0; 30. evaluare deschisă.
 

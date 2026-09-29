@@ -1,27 +1,45 @@
 # Fișa 02 — Muncă individuală
 
-1. Probabilitatea de a obține 1 la zar.
-2. Probabilitatea de a obține un număr mai mare decât 4 la zar.
-3. Probabilitatea de a obține un număr prim la zar.
-4. Probabilitatea de a nu obține 6 la zar.
-5. Se aruncă o monedă: probabilitatea de pajură.
-6. Se aruncă două monede: probabilitatea a două rezultate identice.
-7. Probabilitatea unei singure steme la două monede.
-8. Dintr-un sac cu 5 bile albe și 3 negre, probabilitatea unei bile negre.
-9. Dintr-un sac cu 4 roșii, 2 albastre și 4 verzi, probabilitatea unei bile roșii.
-10. Se alege aleator un număr de la 1 la 10. Probabilitatea să fie multiplu de 3.
-11. Probabilitatea ca numărul ales de la 1 la 20 să fie par.
-12. Se alege o literă din cuvântul MAMA. Probabilitatea să fie A.
-13. Un eveniment are probabilitatea 0,35. Probabilitatea contrară?
-14. Un eveniment are probabilitatea 72%. Probabilitatea să nu se producă?
-15. La două zaruri, câte rezultate ordonate sunt?
-16. La un zar și o monedă, câte rezultate sunt?
-17. La două zaruri, probabilitatea sumei 7.
-18. La două zaruri, probabilitatea unei sume mai mari decât 10.
-19. Explică de ce rezultatele `1,2` și `2,1` sunt distincte la două zaruri.
-20. Dă un exemplu de eveniment sigur și unul imposibil.
+## A. Calcul direct
+
+1. Ipotenuza catetelor 3 și 4.
+2. Ipotenuza catetelor 5 și 12.
+3. Ipotenuza catetelor 8 și 15.
+4. Cateta ipotenuzei 13 și catetei 5.
+5. Cateta ipotenuzei 25 și catetei 7.
+6. Cateta ipotenuzei 10 și catetei 6.
+7. Verifică 6,8,10.
+8. Verifică 8,10,12.
+9. Verifică 7,24,25.
+10. Verifică 10,24,26.
+
+## B. Diagonale
+
+11. Diagonala dreptunghiului 6×8.
+12. Diagonala dreptunghiului 9×12.
+13. Diagonala dreptunghiului 12×16.
+14. Diagonala pătratului de latură 10.
+15. Latura pătratului cu diagonala `8√2`.
+16. Diagonala spațială a cubului de latură 4.
+17. Diagonala spațială a cubului de latură 7.
+18. Un dreptunghi are diagonala 17 și latura 8. Cealaltă latură?
+
+## C. Aplicații
+
+19. O scară de 10 m are baza la 6 m de perete. Înălțimea?
+20. O scară de 13 m ajunge la 12 m înălțime. Distanța bazei?
+21. Un teren dreptunghiular 20×21. Diagonala?
+22. Un triunghi isoscel are laturile egale 10 și baza 12. Înălțimea?
+23. Un triunghi isoscel are laturile egale 17 și baza 16. Înălțimea?
+24. Un romb are diagonalele 10 și 24. Latura?
+25. Un punct se află la 15 cm de centrul unui cerc, iar raza este 9. Ce lungime are tangenta?
+26. O rampă are înălțimea 1,2 m și lungimea orizontală 1,6 m. Lungimea rampei?
+27. O barcă merge 7 km est și 24 km nord. Distanța directă?
+28. Verifică dacă 12,35,37 este triplet.
+29. Demonstrează formula diagonalei pătratului.
+30. Explică diferența dintre teorema lui Pitagora și reciproca ei.
 
 ## Răspunsuri
 
-1. `1/6`; 2. `1/3`; 3. `1/2`; 4. `5/6`; 5. `1/2`; 6. `1/2`; 7. `1/2`; 8. `3/8`; 9. `2/5`; 10. `3/10`; 11. `1/2`; 12. `1/2`; 13. `0,65`; 14. 28%; 15. 36; 16. 12; 17. `1/6`; 18. `1/12`; 19. ordinea zarurilor identifică rezultate diferite; 20. ex. număr ≤6 la zar, respectiv obținerea lui 7 la un singur zar.
+1. 5; 2. 13; 3. 17; 4. 12; 5. 24; 6. 8; 7. da; 8. nu; 9. da; 10. da; 11. 10; 12. 15; 13. 20; 14. `10√2`; 15. 8; 16. `4√3`; 17. `7√3`; 18. 15; 19. 8; 20. 5; 21. 29; 22. 8; 23. 15; 24. 13; 25. 12; 26. 2; 27. 25; 28. da; 29. diagonala este ipotenuza cu catetele a și a, deci `d=a√2`; 30. teorema calculează relația într-un triunghi dreptunghic, reciproca demonstrează că triunghiul este dreptunghic.
 

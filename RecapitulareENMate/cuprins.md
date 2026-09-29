@@ -1,192 +1,192 @@
 # Recapitulare pentru Evaluarea Națională — Matematică
 
-## Modulul 1 — Numere și algebră
+## Modulul I — Numere și operații
 
-### Lecția 01 — Numere reale și calcul numeric
+### Lecția 01 — Numere naturale și calcul numeric
 
-- [Teorie](Lectie01/teorie.md)
-- [Fișa 01](Lectie01/fisa01.md)
-- [Fișa 02](Lectie01/fisa02.md)
+Ordinea operațiilor, paranteze, estimare, proprietăți ale operațiilor și probleme de calcul.
 
-### Lecția 02 — Fracții, procente și proporții
+- [Teorie](Lectie01/teorie.md) · [Fișa 01](Lectie01/fisa01.md) · [Fișa 02](Lectie01/fisa02.md)
 
-- [Teorie](Lectie02/teorie.md)
-- [Fișa 01](Lectie02/fisa01.md)
-- [Fișa 02](Lectie02/fisa02.md)
+### Lecția 02 — Divizibilitate și numere prime
 
-### Lecția 03 — Puteri și radicali
+Divizori, multipli, criterii de divizibilitate, numere prime, descompunere în factori primi, c.m.m.d.c. și c.m.m.m.c.
 
-- [Teorie](Lectie03/teorie.md)
-- [Fișa 01](Lectie03/fisa01.md)
-- [Fișa 02](Lectie03/fisa02.md)
+- [Teorie](Lectie02/teorie.md) · [Fișa 01](Lectie02/fisa01.md) · [Fișa 02](Lectie02/fisa02.md)
 
-### Lecția 04 — Expresii algebrice și formule de calcul prescurtat
+### Lecția 03 — Fracții ordinare și zecimale
 
-- [Teorie](Lectie04/teorie.md)
-- [Fișa 01](Lectie04/fisa01.md)
-- [Fișa 02](Lectie04/fisa02.md)
+Fracții echivalente, simplificare, operații, transformări și probleme cu fracții.
 
-### Lecția 05 — Ecuații de gradul I și probleme
+- [Teorie](Lectie03/teorie.md) · [Fișa 01](Lectie03/fisa01.md) · [Fișa 02](Lectie03/fisa02.md)
 
-- [Teorie](Lectie05/teorie.md)
-- [Fișa 01](Lectie05/fisa01.md)
-- [Fișa 02](Lectie05/fisa02.md)
+### Lecția 04 — Rapoarte, proporții și procente
 
-### Lecția 06 — Inecuații de gradul I
+Rapoarte, proporții, mărimi direct proporționale, procente, reduceri, creșteri și împărțiri în raport dat.
 
-- [Teorie](Lectie06/teorie.md)
-- [Fișa 01](Lectie06/fisa01.md)
-- [Fișa 02](Lectie06/fisa02.md)
+- [Teorie](Lectie04/teorie.md) · [Fișa 01](Lectie04/fisa01.md) · [Fișa 02](Lectie04/fisa02.md)
 
-### Lecția 07 — Sisteme de ecuații
+### Lecția 05 — Numere întregi și numere raționale
 
-- [Teorie](Lectie07/teorie.md)
-- [Fișa 01](Lectie07/fisa01.md)
-- [Fișa 02](Lectie07/fisa02.md)
+Comparare, modul, operații cu semne, fracții negative, numere zecimale periodice și probleme.
 
-### Lecția 08 — Funcția de gradul I și reprezentarea grafică
+- [Teorie](Lectie05/teorie.md) · [Fișa 01](Lectie05/fisa01.md) · [Fișa 02](Lectie05/fisa02.md)
 
-- [Teorie](Lectie08/teorie.md)
-- [Fișa 01](Lectie08/fisa01.md)
-- [Fișa 02](Lectie08/fisa02.md)
+### Lecția 06 — Puteri și radicali
 
-## Modulul 2 — Geometrie plană
+Regulile puterilor, notație științifică, radicali, simplificare, operații și ecuații simple.
 
-### Lecția 09 — Unghiuri și triunghiuri
+- [Teorie](Lectie06/teorie.md) · [Fișa 01](Lectie06/fisa01.md) · [Fișa 02](Lectie06/fisa02.md)
 
-- [Teorie](Lectie09/teorie.md)
-- [Fișa 01](Lectie09/fisa01.md)
-- [Fișa 02](Lectie09/fisa02.md)
+## Modulul II — Algebră
 
-### Lecția 10 — Congruența și asemănarea triunghiurilor
+### Lecția 07 — Expresii algebrice și calcul literal
 
-- [Teorie](Lectie10/teorie.md)
-- [Fișa 01](Lectie10/fisa01.md)
-- [Fișa 02](Lectie10/fisa02.md)
+Termeni asemenea, distributivitate, paranteze, evaluarea expresiilor și domeniul de definiție.
 
-### Lecția 11 — Teorema lui Pitagora și trigonometrie
+- [Teorie](Lectie07/teorie.md) · [Fișa 01](Lectie07/fisa01.md) · [Fișa 02](Lectie07/fisa02.md)
 
-- [Teorie](Lectie11/teorie.md)
-- [Fișa 01](Lectie11/fisa01.md)
-- [Fișa 02](Lectie11/fisa02.md)
+### Lecția 08 — Formule de calcul prescurtat și descompunere în factori
 
-### Lecția 12 — Patrulatere și poligoane
+Pătratul sumei, pătratul diferenței, diferența de pătrate, factor comun și identități.
 
-- [Teorie](Lectie12/teorie.md)
-- [Fișa 01](Lectie12/fisa01.md)
-- [Fișa 02](Lectie12/fisa02.md)
+- [Teorie](Lectie08/teorie.md) · [Fișa 01](Lectie08/fisa01.md) · [Fișa 02](Lectie08/fisa02.md)
 
-### Lecția 13 — Cercul și discul
+### Lecția 09 — Ecuații de gradul I
 
-- [Teorie](Lectie13/teorie.md)
-- [Fișa 01](Lectie13/fisa01.md)
-- [Fișa 02](Lectie13/fisa02.md)
+Ecuații cu paranteze, fracții, parametri simpli, verificarea soluțiilor și probleme cu o necunoscută.
 
-### Lecția 14 — Probleme compuse de perimetre și arii
+- [Teorie](Lectie09/teorie.md) · [Fișa 01](Lectie09/fisa01.md) · [Fișa 02](Lectie09/fisa02.md)
 
-- [Teorie](Lectie14/teorie.md)
-- [Fișa 01](Lectie14/fisa01.md)
-- [Fișa 02](Lectie14/fisa02.md)
+### Lecția 10 — Inecuații de gradul I
 
-## Modulul 3 — Geometrie în spațiu
+Regula inversării semnului, intervale, reprezentarea pe axă și probleme cu restricții.
 
-### Lecția 15 — Elemente de geometrie în spațiu
+- [Teorie](Lectie10/teorie.md) · [Fișa 01](Lectie10/fisa01.md) · [Fișa 02](Lectie10/fisa02.md)
 
-- [Teorie](Lectie15/teorie.md)
-- [Fișa 01](Lectie15/fisa01.md)
-- [Fișa 02](Lectie15/fisa02.md)
+### Lecția 11 — Sisteme de două ecuații
 
-### Lecția 16 — Cub, paralelipiped și prismă
+Metodele substituției și reducerii, verificare și probleme cu prețuri, vârste, numere și animale.
 
-- [Teorie](Lectie16/teorie.md)
-- [Fișa 01](Lectie16/fisa01.md)
-- [Fișa 02](Lectie16/fisa02.md)
+- [Teorie](Lectie11/teorie.md) · [Fișa 01](Lectie11/fisa01.md) · [Fișa 02](Lectie11/fisa02.md)
 
-### Lecția 17 — Piramide
+### Lecția 12 — Funcții și reprezentarea grafică
 
-- [Teorie](Lectie17/teorie.md)
-- [Fișa 01](Lectie17/fisa01.md)
-- [Fișa 02](Lectie17/fisa02.md)
+Funcția de gradul I, tabel de valori, pantă, monotonie, zerou și intersecția graficelor.
 
-### Lecția 18 — Cilindru, con și sferă
+- [Teorie](Lectie12/teorie.md) · [Fișa 01](Lectie12/fisa01.md) · [Fișa 02](Lectie12/fisa02.md)
 
-- [Teorie](Lectie18/teorie.md)
-- [Fișa 01](Lectie18/fisa01.md)
-- [Fișa 02](Lectie18/fisa02.md)
+### Lecția 13 — Statistică și probabilități
 
-## Modulul 4 — Date, probabilități și metode
+Frecvență, medie, mediană, modă, amplitudine, grafice și probabilitate clasică.
 
-### Lecția 19 — Organizarea și interpretarea datelor
+- [Teorie](Lectie13/teorie.md) · [Fișa 01](Lectie13/fisa01.md) · [Fișa 02](Lectie13/fisa02.md)
 
-- [Teorie](Lectie19/teorie.md)
-- [Fișa 01](Lectie19/fisa01.md)
-- [Fișa 02](Lectie19/fisa02.md)
+## Modulul III — Geometrie plană
 
-### Lecția 20 — Probabilități
+### Lecția 14 — Noțiuni fundamentale: puncte, drepte și unghiuri
 
-- [Teorie](Lectie20/teorie.md)
-- [Fișa 01](Lectie20/fisa01.md)
-- [Fișa 02](Lectie20/fisa02.md)
+Poziții relative, segmente, unghiuri, unghiuri opuse la vârf, complementare, suplementare și drepte paralele.
 
-### Lecția 21 — Strategii de rezolvare a problemelor
+- [Teorie](Lectie14/teorie.md) · [Fișa 01](Lectie14/fisa01.md) · [Fișa 02](Lectie14/fisa02.md)
 
-- [Teorie](Lectie21/teorie.md)
-- [Fișa 01](Lectie21/fisa01.md)
-- [Fișa 02](Lectie21/fisa02.md)
+### Lecția 15 — Triunghiuri: clasificare și proprietăți
 
-### Lecția 22 — Exerciții mixte și redactarea soluției
+Suma unghiurilor, unghi exterior, triunghi isoscel, echilateral, mediană, înălțime și bisectoare.
 
-- [Teorie](Lectie22/teorie.md)
-- [Fișa 01](Lectie22/fisa01.md)
-- [Fișa 02](Lectie22/fisa02.md)
+- [Teorie](Lectie15/teorie.md) · [Fișa 01](Lectie15/fisa01.md) · [Fișa 02](Lectie15/fisa02.md)
 
-## Modulul 5 — Pregătire pentru examen
+### Lecția 16 — Congruența triunghiurilor
 
-### Lecția 23 — Subiectul I: calcule rapide și itemi de bază
+Criteriile LLL, LUL, ULU și catetă-ipotenuză, corespondența și demonstrații.
 
-- [Teorie](Lectie23/teorie.md)
-- [Fișa 01](Lectie23/fisa01.md)
-- [Fișa 02](Lectie23/fisa02.md)
+- [Teorie](Lectie16/teorie.md) · [Fișa 01](Lectie16/fisa01.md) · [Fișa 02](Lectie16/fisa02.md)
 
-### Lecția 24 — Subiectul II: algebră și geometrie aplicată
+### Lecția 17 — Patrulatere
 
-- [Teorie](Lectie24/teorie.md)
-- [Fișa 01](Lectie24/fisa01.md)
-- [Fișa 02](Lectie24/fisa02.md)
+Paralelogram, dreptunghi, romb, pătrat și trapez: proprietăți, diagonale, perimetre și arii.
 
-### Lecția 25 — Probleme de algebră și funcții
+- [Teorie](Lectie17/teorie.md) · [Fișa 01](Lectie17/fisa01.md) · [Fișa 02](Lectie17/fisa02.md)
 
-- [Teorie](Lectie25/teorie.md)
-- [Fișa 01](Lectie25/fisa01.md)
-- [Fișa 02](Lectie25/fisa02.md)
+### Lecția 18 — Poligoane și cerc
 
-### Lecția 26 — Probleme de geometrie și demonstrații
+Poligoane regulate, suma unghiurilor, elementele cercului, arce, coarde, tangente și unghiuri în cerc.
 
-- [Teorie](Lectie26/teorie.md)
-- [Fișa 01](Lectie26/fisa01.md)
-- [Fișa 02](Lectie26/fisa02.md)
+- [Teorie](Lectie18/teorie.md) · [Fișa 01](Lectie18/fisa01.md) · [Fișa 02](Lectie18/fisa02.md)
 
-### Lecția 27 — Simulare: calcule și algebră de bază
+### Lecția 19 — Asemănarea triunghiurilor și teorema lui Thales
 
-- [Teorie](Lectie27/teorie.md)
-- [Fișa 01](Lectie27/fisa01.md)
-- [Fișa 02](Lectie27/fisa02.md)
+Criterii de asemănare, rapoarte, perimetre, arii, configurații cu paralele și aplicații.
 
-### Lecția 28 — Simulare: algebră
+- [Teorie](Lectie19/teorie.md) · [Fișa 01](Lectie19/fisa01.md) · [Fișa 02](Lectie19/fisa02.md)
 
-- [Teorie](Lectie28/teorie.md)
-- [Fișa 01](Lectie28/fisa01.md)
-- [Fișa 02](Lectie28/fisa02.md)
+### Lecția 20 — Teorema lui Pitagora și reciproca
 
-### Lecția 29 — Simulare: geometrie
+Triunghi dreptunghic, ipotenuză, catete, triplete pitagoreice, diagonale și aplicații.
 
-- [Teorie](Lectie29/teorie.md)
-- [Fișa 01](Lectie29/fisa01.md)
-- [Fișa 02](Lectie29/fisa02.md)
+- [Teorie](Lectie20/teorie.md) · [Fișa 01](Lectie20/fisa01.md) · [Fișa 02](Lectie20/fisa02.md)
 
-### Lecția 30 — Simularea finală și planul ultimelor zile
+### Lecția 21 — Relații metrice și trigonometrie
 
-- [Teorie](Lectie30/teorie.md)
-- [Fișa 01](Lectie30/fisa01.md)
-- [Fișa 02](Lectie30/fisa02.md)
+Proiecții, înălțimea pe ipotenuză, sinus, cosinus, tangentă și valori unghiulare uzuale.
+
+- [Teorie](Lectie21/teorie.md) · [Fișa 01](Lectie21/fisa01.md) · [Fișa 02](Lectie21/fisa02.md)
+
+### Lecția 22 — Perimetre și arii în plan
+
+Formule, unități, figuri compuse, decupări și probleme de optimizare sau interpretare.
+
+- [Teorie](Lectie22/teorie.md) · [Fișa 01](Lectie22/fisa01.md) · [Fișa 02](Lectie22/fisa02.md)
+
+## Modulul IV — Geometrie în spațiu
+
+### Lecția 23 — Elemente de geometrie în spațiu
+
+Puncte, drepte, plane, paralelism, perpendicularitate, secțiuni, arii și volume.
+
+- [Teorie](Lectie23/teorie.md) · [Fișa 01](Lectie23/fisa01.md) · [Fișa 02](Lectie23/fisa02.md)
+
+### Lecția 24 — Cub și paralelipiped dreptunghic
+
+Fețe, muchii, diagonale, arie totală, volum și conversii de unități.
+
+- [Teorie](Lectie24/teorie.md) · [Fișa 01](Lectie24/fisa01.md) · [Fișa 02](Lectie24/fisa02.md)
+
+### Lecția 25 — Prisme și piramide
+
+Baze, înălțime, apotemă, arie laterală, arie totală și volum.
+
+- [Teorie](Lectie25/teorie.md) · [Fișa 01](Lectie25/fisa01.md) · [Fișa 02](Lectie25/fisa02.md)
+
+### Lecția 26 — Cilindru, con și sferă
+
+Suprafețe, generatoare, rază, diametru, arii și volume ale corpurilor de rotație.
+
+- [Teorie](Lectie26/teorie.md) · [Fișa 01](Lectie26/fisa01.md) · [Fișa 02](Lectie26/fisa02.md)
+
+## Modulul V — Integrare și examen
+
+### Lecția 27 — Probleme integrate de algebră
+
+Probleme cu procente, proporții, ecuații, sisteme, funcții și interpretarea rezultatelor.
+
+- [Teorie](Lectie27/teorie.md) · [Fișa 01](Lectie27/fisa01.md) · [Fișa 02](Lectie27/fisa02.md)
+
+### Lecția 28 — Probleme integrate de geometrie
+
+Configurații cu triunghiuri, patrulatere, cercuri, asemănare, Pitagora și corpuri geometrice.
+
+- [Teorie](Lectie28/teorie.md) · [Fișa 01](Lectie28/fisa01.md) · [Fișa 02](Lectie28/fisa02.md)
+
+### Lecția 29 — Simulare completă și analiza greșelilor
+
+Rezolvare în timp real, barem, clasificarea erorilor și program individual de remediere.
+
+- [Teorie](Lectie29/teorie.md) · [Fișa 01](Lectie29/fisa01.md) · [Fișa 02](Lectie29/fisa02.md)
+
+### Lecția 30 — Recapitulare finală și strategie de examen
+
+Formule esențiale, metode de verificare, gestionarea timpului și simulare finală.
+
+- [Teorie](Lectie30/teorie.md) · [Fișa 01](Lectie30/fisa01.md) · [Fișa 02](Lectie30/fisa02.md)
 
