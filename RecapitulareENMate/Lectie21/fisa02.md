@@ -1,27 +1,45 @@
 # Fișa 02 — Muncă individuală
 
-1. Suma a două numere este 70, diferența 14.
-2. Un număr este cu 12 mai mare decât altul, iar suma este 58.
-3. De trei ori un număr minus 5 este 28.
-4. Un dreptunghi are perimetrul 64 cm și lungimea dublă față de lățime.
-5. Un produs de 250 lei se reduce cu 16%.
-6. După o reducere de 25%, un produs costă 180 lei.
-7. 4 kg de fructe costă 28 lei. Cât costă 9 kg?
-8. Împarte 96 în raportul 5:3.
-9. Catetele sunt 9 și 12 cm. Determină ipotenuza.
-10. Un cerc are raza 4 cm. Determină aria.
-11. O prismă are `A_b=25 cm²`, `h=8 cm`. Determină volumul.
-12. O piramidă are aceleași date. Determină volumul.
-13. Media numerelor 8, 10, 12 și x este 11. Determină x.
-14. Probabilitatea unui eveniment este 0,4. Determină complementul.
-15. Un triunghi are unghiurile `x`, `2x`, `3x`. Determină-le.
-16. Două triunghiuri au laturile proporționale 2:3. Ce se întâmplă cu ariile?
-17. Un cilindru are `r=3`, `h=5`. Determină volumul.
-18. O scară de 13 m are baza la 5 m de perete. Determină înălțimea.
-19. O figură compusă are aria unui dreptunghi 60 cm² și a unui triunghi 15 cm². Determină aria totală.
-20. Pentru una dintre probleme, scrie verificarea rezultatului în cuvinte.
+## A. Relații metrice
+
+1. Proiecțiile sunt 4 și 9. Determină înălțimea.
+2. Proiecțiile sunt 5 și 20. Determină ipotenuza și înălțimea.
+3. Ipotenuza 25, proiecție 9. Cateta?
+4. Ipotenuza 25, proiecție 16. Cateta?
+5. `BD=4`, `DC=9`. Determină `BC` și `AD`.
+6. `BD=9`, `DC=16`. Determină catetele.
+7. Ipotenuza 13, cateta 5. Determină cealaltă catetă și proiecțiile folosind relațiile.
+8. Verifică relațiile pentru triunghiul cu laturile 15,20,25.
+9. Înălțimea pe ipotenuză este 12, o proiecție este 9. Cealaltă proiecție?
+10. Proiecțiile sunt 1 și 4. Determină catetele.
+
+## B. Trigonometrie
+
+11. `sin A` pentru opusă 5, ipotenuză 13.
+12. `cos A` pentru alăturată 12, ipotenuză 13.
+13. `tg A` pentru opusă 9, alăturată 12.
+14. Pentru catetele 5 și 12, tg unghiului opus lui 5.
+15. Pentru catetele 5 și 12, cos unghiului opus lui 5.
+16. Scrie valorile pentru 30°.
+17. Scrie valorile pentru 45°.
+18. Scrie valorile pentru 60°.
+19. Dacă `sin A=3/5`, ce raport pot avea laturile?
+20. Dacă `tg A=1`, ce măsură poate avea unghiul ascuțit?
+
+## C. Probleme
+
+21. O scară de 10 m formează un unghi de 60° cu solul. Ce înălțime atinge? *(Folosește sinusul.)*
+22. O rampă are baza 8 m și unghiul cu solul 30°. Ce înălțime are?
+23. Un copac are umbra 12 m, iar un băț de 2 m are umbra 3 m. Înălțimea copacului?
+24. Un acoperiș are jumătate de deschidere 4 m și înălțime 3 m. Lungimea pantei?
+25. Un triunghi dreptunghic are ipotenuza 20 și un unghi 30°. Cateta opusă?
+26. Un triunghi dreptunghic are cateta alăturată 7 și unghi 45°. Cateta opusă?
+27. Un triunghi dreptunghic are cateta opusă 10 și `tg A=2`. Cateta alăturată?
+28. Explică de ce sinusul unui unghi ascuțit este sub 1.
+29. Alege funcția potrivită pentru fiecare: opusă/ipotenuză; alăturată/ipotenuză; opusă/alăturată.
+30. Redactează algoritmul pentru o problemă cu înălțime și unghi.
 
 ## Răspunsuri
 
-1. 42 și 28; 2. 35 și 23; 3. 11; 4. 10,67 cm și 21,33 cm; 5. 210 lei; 6. 240 lei; 7. 63 lei; 8. 60 și 36; 9. 15 cm; 10. `16π`; 11. 200 cm³; 12. `200/3` cm³; 13. 14; 14. 0,6; 15. 30°,60°,90°; 16. ariile au raport 4:9; 17. `45π`; 18. 12 m; 19. 75 cm²; 20. verificare prin înlocuire sau operația inversă.
+1. 6; 2. 25,10; 3. 15; 4. 20; 5. 13,6; 6. 15 și 20; 7. 12, proiecții `25·25/13?` — se calculează prin `catetă²=ipotenuză·proiecție`; 8. relațiile se verifică; 9. 16; 10. catetele `√5` și `2√5`; 11. `5/13`; 12. `12/13`; 13. `3/4`; 14. `5/12`; 15. `12/13`; 16. `1/2,√3/2,√3/3`; 17. `√2/2,√2/2,1`; 18. `√3/2,1/2,√3`; 19. 3:4:5; 20. 45°; 21. `5√3` m; 22. `8√3/3` m; 23. 8 m; 24. 5 m; 25. 10; 26. 7; 27. 5; 28. cateta opusă este mai mică decât ipotenuza; 29. sinus, cosinus, tangentă; 30. desen, identifică unghiul drept, alege raportul, scrie ecuația, calculează și verifică.
 

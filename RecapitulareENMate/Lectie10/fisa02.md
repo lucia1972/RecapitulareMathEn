@@ -1,27 +1,48 @@
 # Fișa 02 — Muncă individuală
 
-1. Definește triunghiuri congruente.
-2. Definește triunghiuri asemenea.
-3. Identifică criteriul: două laturi și unghiul cuprins sunt egale.
-4. Identifică criteriul: toate laturile sunt proporționale.
-5. Dacă `△ABC≡△DEF`, ce latură corespunde lui `AC`?
-6. Dacă `△ABC~△DEF`, ce unghi corespunde lui `B`?
-7. Două triunghiuri congruente au perimetrul unuia 24 cm. Care este perimetrul celuilalt?
-8. Două triunghiuri asemenea au raportul laturilor `3/5`; latura mică este 12 cm. Determină latura mare.
-9. Laturile sunt `4,6,8` și `6,9,12`. Sunt asemenea?
-10. Laturile sunt `5,7,9` și `10,14,18`. Sunt asemenea? Ce raport au?
-11. Două triunghiuri asemenea au raportul laturilor 2. Unul are aria 15 cm². Determină aria celuilalt.
-12. `DE∥BC`, `AD=4`, `DB=8`, `AE=5`. Determină `EC`.
-13. `DE∥BC`, `AD=6`, `AB=15`, `AC=20`. Determină `AE`.
-14. `AD/AB=2/5`, `BC=25`, `DE∥BC`. Determină `DE`.
-15. `AD=3`, `DB=7`, `AE=6`, `DE∥BC`. Determină `EC`.
-16. Un unghi este egal și laturile care îl cuprind sunt proporționale. Ce concluzie tragi?
-17. Două triunghiuri dreptunghice au ipotenuzele și o catetă egale. Sunt congruente?
-18. Laturile `6,8,10` și `9,12,15` formează triunghiuri asemenea. Determină raportul ariilor.
-19. `AD=5`, `AB=20`, `AC=28`, `DE∥BC`. Determină `AE`.
-20. Explică de ce paralelismul este esențial în teorema lui Thales.
+## A. Rezolvare
+
+1. `x+4>9`.
+2. `5x-2≤18`.
+3. `7-3x<16`.
+4. `-2x+5≥13`.
+5. `4(x+1)>2x+10`.
+6. `3(x-2)≤2(x+4)`.
+7. `5-2(x-1)>x+8`.
+8. `x/3+2≥6`.
+9. `(2x-1)/5<3`.
+10. `-x/4≤2`.
+11. `7-5x≥2`.
+12. `2(x+3)-x<9`.
+13. `4-3(x-1)≤2x+5`.
+14. `0,2x>6`.
+15. `-0,5x≥4`.
+
+## B. Interval și sisteme
+
+16. Scrie ca interval `x>4`.
+17. Scrie ca inecuație `[-3,∞)`.
+18. Rezolvă simultan `x≥-2` și `x<5`.
+19. Rezolvă `x<1` sau `x≥4`.
+20. Reprezintă `-3≤x≤2`.
+
+## C. Numere întregi și naturale
+
+21. Determină numerele naturale pentru `2n+1<10`.
+22. Determină numerele întregi pentru `-5≤z<3`.
+23. Determină numerele naturale pentru `4n≤27`.
+24. Determină numărul maxim de obiecte de 7 lei cumpărate cu 50 lei.
+25. Un produs costă 18 lei. Cu 200 lei, câte produse poți cumpăra cel mult?
+
+## D. Probleme
+
+26. Un dreptunghi are lățimea 5 cm și lungimea `x`. Dacă perimetrul este mai mic decât 30 cm, ce condiție verifică `x`?
+27. Un elev are 75 de minute pentru 6 exerciții. Primele 5 durează câte 8 minute. Câte minute îi rămân?
+28. Un număr mărit cu 7 este cel puțin 20. Care sunt valorile naturale?
+29. Pentru ce valori ale lui `x` este pozitivă expresia `3x-12`?
+30. Pentru ce valori ale lui `x` este negativă expresia `5-2x`?
 
 ## Răspunsuri
 
-1. aceeași formă și mărime; 2. aceeași formă, posibil altă mărime; 3. LUL; 4. LLL; 5. `DF`; 6. `E`; 7. 24 cm; 8. 20 cm; 9. da, raport 3/2; 10. da, raport 2; 11. 60 cm²; 12. 10 cm; 13. 8 cm; 14. 10 cm; 15. `14/3` cm; 16. asemenea, criteriul LUL; 17. da, catetă-ipotenuză; 18. 9/4; 19. 7 cm; 20. produce unghiuri egale și proporționalitate între segmente.
+1. `x>5`; 2. `x≤4`; 3. `x>-3`; 4. `x≤-4`; 5. `x>3`; 6. `x≤10`; 7. `x<-1/3`; 8. `x≥12`; 9. `x<8`; 10. `x≥-8`; 11. `x≤1`; 12. `x<3`; 13. `x≥-4/5`; 14. `x>30`; 15. `x≤-8`; 16. `(4,∞)`; 17. `x≥-3`; 18. `[-2,5)`; 19. `(-∞,1)∪[4,∞)`; 20. `[-3,2]`; 21. 0,1,2,3,4; 22. -5,-4,-3,-2,-1,0,1,2; 23. 0–6; 24. 7; 25. 11; 26. `2x+10<30`, deci `x<10`; 27. 35 minute; 28. `n≥13`; 29. `x>4`; 30. `x>5/2`.
 

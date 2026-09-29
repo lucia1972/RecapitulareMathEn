@@ -1,27 +1,48 @@
 # Fișa 02 — Muncă individuală
 
-1. Cilindru: `r=2`, `h=7`. Calculează volumul.
-2. Cilindru: `r=5`, `h=12`. Calculează volumul.
-3. Cilindru: `d=10`, `h=8`. Calculează volumul.
-4. Cilindru: `r=4`, `h=9`. Calculează aria laterală.
-5. Cilindru: `r=3`, `h=7`. Calculează aria totală.
-6. Con: `r=3`, `h=12`. Calculează volumul.
-7. Con: `r=5`, `h=12`. Determină generatoarea.
-8. Con: `r=8`, `g=17`. Determină înălțimea.
-9. Con: `r=4`, `g=6`. Calculează aria laterală.
-10. Con: `r=4`, `g=6`. Calculează aria totală.
-11. Sferă: `r=3`. Calculează aria și volumul.
-12. Sferă: `d=10`. Calculează volumul.
-13. Sferă cu volumul `36π` cm³. Determină raza.
-14. Cilindru și con au `r=6`, `h=5`. Calculează volumele.
-15. Un rezervor cilindric are `r=2 m`, `h=3 m`. Exprimă capacitatea în litri.
-16. O minge are raza 10 cm. Calculează aria suprafeței.
-17. Un con are volumul `100π` cm³ și raza 5 cm. Determină înălțimea.
-18. Un cilindru are volumul `144π` cm³ și raza 4 cm. Determină înălțimea.
-19. Dacă raza sferei se dublează, de câte ori cresc aria și volumul?
-20. Explică diferența dintre generatoarea conului și înălțimea lui.
+## A. Poligoane
+
+1. Suma unghiurilor unui pentagon.
+2. Suma unghiurilor unui octogon.
+3. Unghiul interior al unui hexagon regulat.
+4. Unghiul interior al unui decagon regulat.
+5. Numărul laturilor unui poligon regulat cu unghi exterior 45°.
+6. Perimetrul unui poligon regulat cu 8 laturi și latura 3 cm.
+7. Un poligon are suma unghiurilor 900°. Câte laturi are?
+8. Un poligon regulat are unghiul interior 150°. Câte laturi are?
+
+## B. Cerc și disc
+
+9. Diametrul unui cerc cu raza 4 cm.
+10. Raza unui cerc cu diametrul 18 cm.
+11. Lungimea cercului cu raza 5 cm.
+12. Aria discului cu raza 5 cm.
+13. Raza unui cerc cu lungimea `20π` cm.
+14. Raza discului cu aria `81π` cm².
+15. Compară lungimile cercurilor cu razele 3 și 9.
+16. Compară ariile discurilor cu razele 3 și 9.
+17. Aria unui semicerc cu raza 10 cm.
+18. Aria unui sfert de disc cu raza 12 cm.
+
+## C. Unghiuri și arce
+
+19. Un unghi la centru de 120° interceptează ce arc?
+20. Un arc de 140° determină ce unghi înscris?
+21. Un unghi înscris este drept. Ce arc interceptează?
+22. Două unghiuri înscrise interceptează același arc de 96°. Ce măsuri au?
+23. Lungimea arcului de 90° într-un cerc de rază 8 cm.
+24. Aria sectorului de 90° cu raza 4 cm.
+25. Aria sectorului de 120° cu raza 6 cm.
+
+## D. Probleme aplicate
+
+26. O roată cu diametrul 70 cm parcurge ce distanță într-o rotație?
+27. Un pătrat de latură 10 cm conține un disc înscris. Aria din afara discului?
+28. Un dreptunghi înscris într-un cerc are laturile 6 și 8 cm. Raza cercului?
+29. O coardă are jumătatea 5 cm, iar raza cercului 13 cm. Distanța de la centru la coardă?
+30. Explică diferența dintre lungimea cercului și aria discului.
 
 ## Răspunsuri
 
-1. `28π`; 2. `300π`; 3. `200π`; 4. `72π`; 5. `60π`; 6. `36π`; 7. 13; 8. 15; 9. `24π`; 10. `40π`; 11. `36π` cm² și `36π` cm³; 12. `500π/3` cm³; 13. 3 cm; 14. `180π` cm³ și `60π` cm³; 15. `12000π` l; 16. `400π` cm²; 17. 12 cm; 18. 9 cm; 19. aria de 4 ori, volumul de 8 ori; 20. generatoarea este latura oblică, iar înălțimea este perpendiculara pe bază.
+1. 540°; 2. 1080°; 3. 120°; 4. 144°; 5. 8; 6. 24 cm; 7. 7; 8. 12; 9. 8 cm; 10. 9 cm; 11. `10π`; 12. `25π`; 13. 10 cm; 14. 9 cm; 15. raport 3; 16. raport 9; 17. `50π`; 18. `36π`; 19. 120°; 20. 70°; 21. semicerc,180°; 22. 48° fiecare; 23. `4π`; 24. `4π`; 25. `12π`; 26. `70π` cm; 27. `100-25π` cm²; 28. 5 cm; 29. 12 cm; 30. lungimea se măsoară în unități de lungime, aria în unități pătrate.
 

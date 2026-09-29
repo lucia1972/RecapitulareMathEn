@@ -1,27 +1,45 @@
 # Fișa 02 — Muncă individuală
 
-1. `x+y=15`, `x-y=5`.
-2. `2x+y=13`, `x+y=8`.
-3. `3x-y=7`, `x+2y=9`.
-4. `4x+3y=18`, `2x-y=4`.
-5. `5x-2y=4`, `x+y=5`.
-6. `x/2+y=7`, `x-y=2`.
-7. `2(x+y)=18`, `x-y=1`.
-8. `3x+4y=25`, `x+2y=11`.
-9. Suma a două numere este 64, iar unul este de trei ori celălalt.
-10. Diferența a două numere este 18, iar suma lor este 92.
-11. Într-o curte sunt găini și iepuri, în total 18 animale și 50 de picioare. Câte sunt din fiecare?
-12. Sunt 20 de monede de 1 leu și 2 lei, în valoare totală de 32 lei. Câte sunt de fiecare tip?
-13. Două pixuri și un caiet costă 19 lei, iar un pix și două caiete costă 23 lei.
-14. Un număr este cu 7 mai mare decât altul, iar de două ori primul plus al doilea este 41.
-15. Perimetrul unui dreptunghi este 46 cm, iar lungimea este cu 5 cm mai mare decât lățimea.
-16. Două unghiuri suplimentare au diferența 36°.
-17. Două numere sunt în raport 2:3, iar suma lor este 75.
-18. Rezolvă și verifică: `x+2y=8`, `3x-y=9`.
-19. Determină punctul de intersecție al dreptelor `y=2x+1` și `y=-x+7`.
-20. Un adult și un copil plătesc 58 lei, iar doi adulți și trei copii plătesc 134 lei. Determină prețurile.
+## A. Termeni asemenea și paranteze
+
+1. `7x+3x-5`.
+2. `4a²-2a+9a²+7a`.
+3. `3m-2n+5m+8n`.
+4. `5(x-3)+2(x+7)`.
+5. `4a-3(2a-5)`.
+6. `-(x-4)+2x`.
+7. `2(3x-1)-[x-(4-2x)]`.
+8. `(x+5)(x+2)`.
+9. `(2x-3)(x+4)`.
+10. `3a(2a-5)-2a(a+1)`.
+
+## B. Formule și factorizare
+
+11. Dezvoltă `(x+6)²`.
+12. Dezvoltă `(x-7)²`.
+13. Dezvoltă `(3x+2)²`.
+14. Dezvoltă `(5x-1)(5x+1)`.
+15. Factorizează `8x+12`.
+16. Factorizează `15a²-10a`.
+17. Factorizează `x²-36`.
+18. Factorizează `4x²-12x+9`.
+19. Factorizează `9a²-25b²`.
+20. Factorizează `x²+8x+16`.
+
+## C. Valori și restricții
+
+21. Calculează `x²+4x-1` pentru `x=3`.
+22. Calculează `2a²-3ab+b²` pentru `a=-1,b=2`.
+23. Calculează `3x²-2x+5` pentru `x=-2`.
+24. Precizează valorile interzise în `1/(x-5)`.
+25. Precizează valorile interzise în `2/(x²-16)`.
+26. Simplifică `3x/x`, cu condiția necesară.
+27. Simplifică `(x²-9)/(x-3)`, precizând restricția.
+28. Arată că `(x+4)²-(x-4)²=16x`.
+29. Redu `2(x+3)-[3x-(x-4)]`.
+30. Inventează două expresii asemenea și două care nu sunt asemenea.
 
 ## Răspunsuri
 
-1. `(10,5)`; 2. `(5,3)`; 3. `(23/7,16/7)`; 4. `(3,2)`; 5. `(2,3)`; 6. `(6,4)`; 7. `(19/3,16/3)`; 8. `(3,4)`; 9. 48 și 16; 10. 55 și 37; 11. 11 găini, 7 iepuri; 12. 8 monede de 1 leu și 12 de 2 lei; 13. pix 5 lei, caiet 9 lei; 14. 16 și 9; 15. 9 cm și 14 cm; 16. 108° și 72°; 17. 30 și 45; 18. `(26/7,15/7)`; 19. `(2,5)`; 20. adult 40 lei, copil 18 lei.
+1. `10x-5`; 2. `13a²+5a`; 3. `8m+6n`; 4. `7x-1`; 5. `-2a+15`; 6. `x+4`; 7. `4x-3`; 8. `x²+7x+10`; 9. `2x²+5x-12`; 10. `4a²-17a`; 11. `x²+12x+36`; 12. `x²-14x+49`; 13. `9x²+12x+4`; 14. `25x²-1`; 15. `4(2x+3)`; 16. `5a(3a-2)`; 17. `(x-6)(x+6)`; 18. `(2x-3)²`; 19. `(3a-5b)(3a+5b)`; 20. `(x+4)²`; 21. 20; 22. 15; 23. 21; 24. `x≠5`; 25. `x≠±4`; 26. 3, `x≠0`; 27. `x+3`, `x≠3`; 28. dezvoltare directă; 29. `-1`; 30. evaluare deschisă.
 

@@ -1,261 +1,321 @@
-# Lecția 01 — Numere reale și calcul numeric
+# Lecția 01 — Numere naturale și calcul numeric
 
-## Ce vei putea face după această lecție
+## Locul lecției în program
 
-La finalul lecției vei putea să:
+Aceasta este lecția de bază a întregului program. Aproape orice subiect de Evaluare Națională conține calcule cu numere naturale, operații, paranteze, ordinea efectuării operațiilor sau interpretarea unei cantități. Scopul nu este doar să obții un rezultat, ci să poți explica de ce acel rezultat este corect și să observi rapid o eroare.
 
-- identifici mulțimea numerică din care face parte un număr;
-- compari numere pozitive și negative;
-- calculezi expresii respectând ordinea corectă a operațiilor;
-- operezi cu fracții și numere zecimale;
-- interpretezi procente simple;
-- verifici dacă un rezultat este rezonabil.
+## Competențe urmărite
 
-Aceste deprinderi apar în aproape toate tipurile de exerciții de examen. Un elev poate cunoaște formula potrivită și totuși să piardă puncte din cauza unui calcul numeric greșit. De aceea, calculul trebuie făcut organizat, nu „din ochi”.
+La finalul lecției, elevul trebuie să poată:
 
-## 1. Mulțimi de numere
+- să identifice și să compare numere naturale;
+- să folosească proprietățile adunării și înmulțirii;
+- să efectueze corect adunări, scăderi, înmulțiri și împărțiri;
+- să aplice ordinea operațiilor în expresii cu paranteze;
+- să folosească puteri cu exponent natural;
+- să interpreteze câtul și restul unei împărțiri;
+- să estimeze un rezultat înainte de calcul;
+- să verifice un rezultat prin operația inversă;
+- să traducă problemele simple în operații matematice.
 
-### 1.1 Numere naturale
+## 1. Mulțimea numerelor naturale
 
-Numerele naturale sunt numerele folosite la numărare:
+Numerele naturale sunt numerele folosite pentru numărare. În acest curs folosim notația:
 
-`0, 1, 2, 3, 4, ...`.
+`N = {0, 1, 2, 3, 4, ...}`.
 
-În unele manuale, mulțimea numerelor naturale fără zero este notată separat. În probleme, verifică dacă enunțul spune explicit „număr natural nenul”.
+Uneori se notează cu `N*` mulțimea numerelor naturale nenule:
 
-### 1.2 Numere întregi
+`N* = {1, 2, 3, 4, ...}`.
 
-Mulțimea numerelor întregi conține numerele naturale, opusele lor și zero:
+Este important să citești cu atenție enunțul. „Număr natural” poate include zero, în timp ce „număr natural nenul” exclude zero. În problemele cu obiecte, persoane sau zile, valoarea zero poate fi sau nu acceptată în funcție de context.
 
-`..., -3, -2, -1, 0, 1, 2, 3, ...`.
+Pe axa numerelor, numerele naturale sunt așezate în ordine crescătoare. Dacă `a` este la stânga lui `b`, atunci `a<b`. De exemplu, `4<9`. Relația `a≤b` înseamnă că `a` este mai mic sau egal cu `b`.
 
-Opusul lui `7` este `-7`, iar opusul lui `-7` este `7`. Numărul `0` este propriul său opus.
+## 2. Scrierea și descompunerea numerelor
 
-Pe axa numerelor, numărul aflat mai la dreapta este mai mare. Prin urmare, `-2>-5`, chiar dacă `2<5`. Pentru numere negative, cel cu modulul mai mic este mai mare.
+Valoarea unei cifre depinde de poziția ei. În numărul `5 307`, cifra 5 reprezintă 5 mii, cifra 3 reprezintă 3 sute, cifra 0 reprezintă 0 zeci, iar cifra 7 reprezintă 7 unități.
 
-### 1.3 Numere raționale
+Descompunerea pozițională este:
 
-Un număr rațional poate fi scris sub forma `a/b`, unde `a` și `b` sunt întregi, iar `b≠0`.
+`5 307 = 5·1000 + 3·100 + 0·10 + 7`.
 
-Exemple:
+Această scriere este utilă la compararea numerelor și la verificarea calculelor. Pentru un număr de mai multe cifre, comparăm mai întâi numărul de cifre. Orice număr de patru cifre este mai mare decât orice număr de trei cifre. Dacă numerele au același număr de cifre, comparăm cifrele de la stânga la dreapta.
 
-- `3 = 3/1`;
-- `-2,5 = -25/10 = -5/2`;
-- `0,333... = 1/3`.
+Exemplu: `47 208 > 46 999`, deoarece prima cifră diferită, citită de la stânga, este cifra sutelor de mii? Mai precis, zecile de mii sunt egale, iar la ordinul miilor avem `7>6`.
 
-O fracție nu are sens dacă numitorul este zero. Expresia `5/0` nu este definită.
+## 3. Adunarea numerelor naturale
 
-### 1.4 Numere iraționale și reale
+Adunarea este operația prin care reunim cantități. Termenii adunați se numesc termeni, iar rezultatul se numește sumă.
 
-Numerele iraționale, precum `√2` sau `π`, nu pot fi scrise ca raport de două numere întregi. Împreună cu numerele raționale formează mulțimea numerelor reale.
+Adunarea are două proprietăți fundamentale:
 
-În calculele de examen, este important să păstrezi forma exactă atunci când este posibil. De exemplu, `√2` este mai exact decât aproximarea `1,41`.
+### Comutativitatea
 
-## 2. Modulul și distanța față de zero
+`a+b=b+a`.
 
-Modulul unui număr este distanța lui față de zero pe axă:
+Ordinea termenilor nu schimbă suma. Astfel, `37+15=15+37=52`.
 
-`|5|=5` și `|-5|=5`.
+### Asociativitatea
 
-Modulul este întotdeauna nenegativ. De aceea:
+`(a+b)+c=a+(b+c)`.
 
-- `|x|=a`, cu `a>0`, are soluțiile `x=a` sau `x=-a`;
-- `|x|=0` are soluția `x=0`;
-- `|x|=a` nu are soluții reale dacă `a<0`.
+Putem grupa termenii convenabil. De exemplu:
+
+`28+47+72 = 28+(47+72)=28+119=147`.
+
+Elementul neutru al adunării este 0:
+
+`a+0=0+a=a`.
+
+La adunarea în scris, așază cifrele pe aceleași ordine: unități sub unități, zeci sub zeci, sute sub sute. Dacă suma cifrelor unui ordin depășește 9, păstrează cifra unităților și transferă cifra zecilor la ordinul următor.
+
+## 4. Scăderea numerelor naturale
+
+Scăderea exprimă diferența dintre două numere sau eliminarea unei cantități. În `a-b`, `a` este descăzutul, `b` este scăzătorul, iar rezultatul este diferența.
+
+În mulțimea numerelor naturale, `a-b` este număr natural doar când `a≥b`. De exemplu, `12-7=5`, dar `7-12` nu este număr natural; va fi tratat ulterior în mulțimea numerelor întregi.
+
+Scăderea nu este comutativă:
+
+`12-5 ≠ 5-12`.
+
+Verificarea scăderii se face prin adunare:
+
+`descăzut = diferență + scăzător`.
+
+Dacă `804-276=528`, verificăm `528+276=804`.
+
+## 5. Înmulțirea numerelor naturale
+
+Înmulțirea este o adunare repetată. `4·6` înseamnă `6+6+6+6`, adică 24.
+
+Factorii sunt numerele înmulțite, iar rezultatul este produsul.
+
+Înmulțirea este comutativă și asociativă:
+
+`a·b=b·a` și `(a·b)·c=a·(b·c)`.
+
+Elementul neutru este 1:
+
+`a·1=a`.
+
+Elementul absorbant este 0:
+
+`a·0=0`.
+
+Înmulțirea este distributivă față de adunare și scădere:
+
+`a·(b+c)=a·b+a·c`;
+
+`a·(b-c)=a·b-a·c`, când scăderea are sens.
 
 Exemplu:
 
-`|x-3|=5` înseamnă că numărul `x` se află la distanța 5 de 3. Prin urmare, `x-3=5` sau `x-3=-5`, deci `x=8` sau `x=-2`.
+`7·103=7·(100+3)=700+21=721`.
 
-## 3. Reguli pentru semne
+Distributivitatea permite calcule mentale rapide și desfacerea parantezelor.
 
-### 3.1 Adunarea numerelor întregi
+## 6. Împărțirea exactă și împărțirea cu rest
 
-Dacă numerele au același semn, aduni modulele și păstrezi semnul:
+Împărțirea este operația inversă a înmulțirii. În `a:b=c`, `a` este deîmpărțitul, `b` este împărțitorul, iar `c` este câtul. Împărțirea la zero nu este definită.
 
-`(-7)+(-4)=-(7+4)=-11`.
+Dacă împărțirea nu este exactă, folosim teorema împărțirii cu rest:
 
-Dacă au semne diferite, scazi modulele și păstrezi semnul numărului cu modul mai mare:
+`deîmpărțit = împărțitor · cât + rest`,
 
-`(-9)+5=-(9-5)=-4`.
-
-### 3.2 Scăderea
-
-Transformă scăderea în adunarea opusului:
-
-`a-b=a+(-b)`.
+unde `0≤rest<împărțitor`.
 
 Exemplu:
 
-`7-(-3)=7+3=10`.
+`47:6=7 rest 5`, deoarece `47=6·7+5`, iar `5<6`.
 
-Greșeala frecventă este să se păstreze mecanic semnul minus din fața unui număr negativ.
+Restul este întotdeauna mai mic decât împărțitorul. Dacă apare un rest mai mare sau egal cu împărțitorul, împărțirea nu a fost finalizată.
 
-### 3.3 Înmulțirea și împărțirea
+## 7. Ordinea operațiilor
 
-Regula semnelor este:
+Într-o expresie cu mai multe operații, nu calculăm pur și simplu de la stânga la dreapta. Respectăm următoarea ordine:
 
-| Operație | Rezultat |
-|---|---|
-| `(+):(+)` sau `(+)*(+)` | pozitiv |
-| `(-):(-)` sau `(-)*(-)` | pozitiv |
-| `(+):(-)` sau `(+)*(-)` | negativ |
-| `(-):(+)` sau `(-)*(+)` | negativ |
-
-Numărul de factori negativi este util: un număr par de semne minus produce rezultat pozitiv, iar un număr impar produce rezultat negativ.
-
-## 4. Ordinea operațiilor
-
-Într-o expresie numerică se lucrează în această ordine:
-
-1. paranteze, din interior spre exterior;
-2. puteri și radicali;
-3. înmulțiri și împărțiri, de la stânga la dreapta;
-4. adunări și scăderi, de la stânga la dreapta.
-
-Înmulțirea și împărțirea au aceeași prioritate. Dacă apar una după alta, se efectuează în ordinea în care sunt scrise.
-
-### Exemplu rezolvat 1
-
-Calculează:
-
-`24-3·[5+2²]:3`.
-
-Mai întâi calculăm puterea:
-
-`2²=4`.
-
-Calculăm paranteza:
-
-`[5+4]=9`.
-
-Apoi înmulțirea și împărțirea:
-
-`3·9:3=27:3=9`.
-
-În final:
-
-`24-9=15`.
-
-### Exemplu rezolvat 2
-
-Calculează:
-
-`18:3·2`.
-
-Împărțirea și înmulțirea se efectuează de la stânga la dreapta:
-
-`18:3·2=6·2=12`.
-
-Nu este corect să faci mai întâi `3·2` și apoi `18:6`.
-
-## 5. Paranteze și semnul minus
-
-Dacă o paranteză este precedată de plus, semnele rămân neschimbate:
-
-`+(a-b)=a-b`.
-
-Dacă este precedată de minus, toate semnele din paranteză se schimbă:
-
-`-(a-b)=-a+b`.
+1. parantezele, din interior spre exterior;
+2. puterile;
+3. înmulțirile și împărțirile, de la stânga la dreapta;
+4. adunările și scăderile, de la stânga la dreapta.
 
 Exemplu:
 
-`7-[3-(2-5)] = 7-[3-(-3)] = 7-6=1`.
+`18+3·(7-2)`.
 
-## 6. Fracții
+Mai întâi paranteza: `7-2=5`.
 
-### 6.1 Simplificarea
+Apoi înmulțirea: `3·5=15`.
 
-Împărțim numărătorul și numitorul la același divizor nenul:
+În final adunarea: `18+15=33`.
 
-`18/24=3/4`.
+Nu este corect să faci `18+3=21` și apoi `21·5`.
 
-O fracție este ireductibilă atunci când numărătorul și numitorul nu mai au divizori comuni mai mari decât 1.
+### Paranteze imbricate
 
-### 6.2 Adunarea și scăderea
+Pentru `40-[6+2·(5-2)]`, rezolvăm paranteza rotundă: `5-2=3`, apoi `2·3=6`, apoi paranteza pătrată: `6+6=12`, iar rezultatul este `40-12=28`.
 
-Fracțiile cu același numitor se adună sau se scad la numărător:
+## 8. Puteri cu exponent natural
 
-`3/7-1/7=2/7`.
+Pentru un număr natural `a` și un exponent natural nenul `n`, `a^n` este produsul a `n` factori egali cu `a`:
 
-Pentru numitori diferiți, se determină un numitor comun:
+`a^4=a·a·a·a`.
 
-`2/3+5/6=4/6+5/6=9/6=3/2`.
+În `5^3`, baza este 5, exponentul este 3, iar valoarea este `5·5·5=125`.
 
-Nu se adună numitorii. Regula `a/b+c/d=(a+c)/(b+d)` este falsă.
+Prin convenție, pentru `a≠0`, `a^0=1`. Puterea a doua se numește pătrat, iar puterea a treia se numește cub.
 
-### 6.3 Înmulțirea
+Puterile apar în formule de arie și volum: aria unui pătrat de latură `a` este `a²`, iar volumul unui cub de muchie `a` este `a³`.
 
-`a/b·c/d=ac/bd`.
+## 9. Estimarea rezultatului
 
-Simplificarea în cruce reduce calculele:
+Estimarea nu înlocuiește calculul, dar detectează erori. Dacă `398·21` este aproximativ `400·20=8000`, un rezultat precum 8360 este plauzibil, iar 836 este suspect.
 
-`6/35·14/9 = 2/5·2/3 = 4/15`.
+La împărțire, rezultatul trebuie să respecte ordinul de mărime. `720:8` este aproape de 90. Dacă obții 9 sau 900, verifică.
 
-### 6.4 Împărțirea
+Estimarea este utilă mai ales când lucrezi cu probleme cu text și trebuie să vezi dacă răspunsul are sens.
 
-Împărțirea la o fracție nenulă se transformă în înmulțire cu inversa ei:
+## 10. Traducerea problemelor în operații
 
-`3/4:6/5=3/4·5/6=5/8`.
+Unele expresii din enunț indică operații:
 
-## 7. Numere zecimale și procente
+- „în total”, „împreună” → adunare;
+- „cu atât mai mult” → adunare;
+- „cu atât mai puțin” → scădere;
+- „de ... ori” → înmulțire;
+- „împărțit în mod egal” → împărțire;
+- „rămân” → de obicei scădere;
+- „fiecare” → poate indica înmulțire sau împărțire, în funcție de sens.
 
-Un număr cu două zecimale poate fi scris peste 100:
+Exemplu: 6 cutii conțin câte 24 de creioane. Numărul total este `6·24=144`. Dacă 144 de creioane sunt distribuite egal la 8 elevi, fiecare primește `144:8=18`.
 
-`0,37=37/100`.
+Nu te baza doar pe cuvinte. Construiește situația și verifică dacă operația aleasă răspunde întrebării.
 
-Procentul este o fracție cu numitorul 100:
+## 11. Probleme cu unități de măsură
 
-`37%=37/100=0,37`.
+Înainte de calcul, adu mărimile la aceeași unitate. `3 m+45 cm` nu se adună direct ca `3+45`. Transformăm `3 m=300 cm`, deci suma este `345 cm` sau `3,45 m`.
 
-Pentru a calcula `p%` din `A`, folosim:
+Pentru lungimi, factorii sunt liniari: `1 m=100 cm`. Pentru arii, factorul se pătratează: `1 m²=10000 cm²`. Pentru volume, se ridică la cub: `1 m³=1000000 cm³`.
 
-`p% din A = p/100·A`.
+## 12. Verificarea unui calcul
 
-Exemplu:
+Folosește cel puțin una dintre metode:
 
-`18% din 250 = 18/100·250=45`.
+1. operația inversă;
+2. estimarea ordinului de mărime;
+3. refacerea calculului prin altă grupare;
+4. verificarea ultimei cifre, când este util;
+5. verificarea restului la împărțire.
 
-O creștere cu 20% înseamnă factorul `1,20`, iar o reducere cu 20% înseamnă factorul `0,80`.
+Exemplu: pentru `125·8=1000`, poți verifica prin `1000:8=125`. Pentru `937:5=187 rest 2`, verifici `5·187+2=937`.
 
-## 8. Estimarea rezultatului
+## 13. Greșeli tipice la examen
 
-Înainte de calcule, estimează ordinul de mărime. Dacă împarți 198 la 4, rezultatul trebuie să fie aproape de 50, nu de 5 sau 500.
+### Greșeala 1: ignorarea parantezelor
 
-Verificări utile:
+În `12+3·(4+2)`, paranteza trebuie rezolvată înaintea înmulțirii.
 
-1. **semnul** — produsul a două numere negative trebuie să fie pozitiv;
-2. **ordinul de mărime** — `3/4` trebuie să fie sub 1;
-3. **operația inversă** — după `x+7=19`, verifici `19-7=12`;
-4. **înlocuirea** — introdu rezultatul în expresia inițială.
+### Greșeala 2: efectuarea adunării înaintea înmulțirii
 
-## 9. Greșeli tipice la examen
+În `7+4·5`, rezultatul este `27`, nu `55`.
 
-1. efectuarea adunării înaintea înmulțirii;
-2. tratarea lui `-3²` ca pe `(-3)²`;
-3. adunarea numitorilor fracțiilor;
-4. uitarea schimbării semnelor după minusul din fața parantezei;
-5. rotunjirea prea devreme a unui rezultat;
-6. scrierea rezultatului fără pași, ceea ce face dificilă identificarea erorii;
-7. neglijarea unităților în probleme.
+### Greșeala 3: rest incorect
 
-## 10. Rezumat de reținut
+Într-o împărțire cu rest, restul trebuie să fie mai mic decât împărțitorul.
 
-- Numărul din dreapta pe axă este mai mare.
-- Modulul este distanța față de zero.
-- Puterile și parantezele se rezolvă înaintea operațiilor de același nivel.
-- La fracții, adunarea cere numitor comun, iar împărțirea folosește inversa.
-- Un procent este o parte din 100.
-- Orice rezultat important trebuie verificat.
+### Greșeala 4: unități incompatibile
 
-## Autoevaluare
+Nu aduna metri cu centimetri fără transformare.
 
-Fără să consulți teoria, explică în cuvintele tale:
+### Greșeala 5: răspuns fără interpretare
 
-1. de ce `-2>-5`;
-2. de ce `18:3·2=12`;
-3. de ce `1/2+1/3` nu este `2/5`;
-4. care este diferența dintre o reducere cu 20% și scăderea a 20 de lei.
+Dacă ai calculat numărul de caiete, răspunsul trebuie să spună câte caiete sunt, nu doar să prezinte numărul.
 
+## 14. Rezumatul lecției
+
+- Numerele naturale sunt `0,1,2,...`.
+- Adunarea și înmulțirea sunt comutative și asociative.
+- Împărțirea cu rest verifică relația `a=b·q+r`, cu `0≤r<b`.
+- Parantezele și puterile au prioritate.
+- Înmulțirea și împărțirea se fac înaintea adunării și scăderii.
+- Estimarea și operația inversă sunt metode eficiente de control.
+- Unitățile trebuie uniformizate înaintea calculelor.
+
+## Test de înțelegere
+
+Răspunde în scris, fără calculator:
+
+1. De ce `3+4·5` nu este egal cu `(3+4)·5`?
+2. Ce condiție trebuie să îndeplinească restul unei împărțiri?
+3. Cum verifici rezultatul unei scăderi?
+4. Cum transformi `2 m și 35 cm` într-o singură unitate?
+5. Ce operație sugerează expresia „de 7 ori mai multe”?
+
+## 15. Strategii de calcul rapid și sigur
+
+Calculul rapid nu înseamnă să sari peste etape, ci să alegi o reprezentare care reduce numărul de operații. La adunări, grupează numerele care formează zeci, sute sau mii. De exemplu, `238+762+145` se poate calcula ca `(238+762)+145=1000+145=1145`. La înmulțiri, folosește descompunerea: `25·48 = 25·(4·12)=100·12=1200` sau `48·19=48·(20-1)=960-48=912`.
+
+La scădere, transformă uneori operația într-o completare. Pentru `1000-376`, poți observa că de la 376 la 400 sunt 24, iar de la 400 la 1000 sunt 600, deci rezultatul este 624. Metoda este utilă mai ales când numărul din care scazi are zerouri.
+
+La împărțire, caută mai întâi multiplii cunoscuți. Pentru `864:24`, observă că `24=6·4`, iar `864:6=144`, apoi `144:4=36`. La examen este acceptată orice metodă corectă, dar operațiile intermediare trebuie să fie controlabile.
+
+## 16. Paritatea și ultima cifră
+
+Un număr natural este par dacă se termină în 0, 2, 4, 6 sau 8 și impar dacă se termină în 1, 3, 5, 7 sau 9. Paritatea ajută la verificarea rezultatului: par plus par este par, impar plus impar este par, iar par plus impar este impar. Produsul este par dacă cel puțin unul dintre factori este par.
+
+De exemplu, dacă aduni două numere impare, rezultatul nu poate fi impar. Dacă obții un rezultat care contrazice paritatea, ai făcut o eroare de calcul sau ai copiat greșit datele.
+
+Ultima cifră oferă un control rapid al înmulțirii. Pentru `37·24`, produsul trebuie să se termine în `7·4=28`, adică în 8. Rezultatul 888 este posibil din punctul de vedere al ultimei cifre, dar 887 nu poate fi corect.
+
+## 17. Estimarea rezultatului
+
+Înainte să calculezi exact, estimează ordinul de mărime. Dacă ai de calculat `398·21`, poți aproxima prin `400·20=8000`; rezultatul exact ar trebui să fie apropiat de 8000. Calculul este `398·21=8358`, deci rezultatul este plauzibil. Dacă ai obține 835, ai observa imediat că lipsește o cifră.
+
+La împărțire, dacă împarți un număr de ordinul miilor la un număr de ordinul zecilor, câtul va fi de ordinul sutelor. De exemplu, `7560:24` trebuie să fie în jur de 300, iar rezultatul 315 este rezonabil. Un rezultat de 31 sau 3150 nu este compatibil cu estimarea.
+
+Estimarea nu este demonstrație și nu poate înlocui calculul exact. Ea este o plasă de siguranță. În rezolvarea de examen, poți efectua întâi estimarea mentală, apoi scrii calculul precis.
+
+## 18. Paranteze și expresii cu mai multe operații
+
+Când o expresie conține mai multe operații, respectă ordinea: parantezele, puterile, înmulțirile și împărțirile de la stânga la dreapta, apoi adunările și scăderile de la stânga la dreapta.
+
+În expresia `48-3·(5+7)`, întâi calculezi paranteza: `5+7=12`, apoi produsul `3·12=36`, apoi diferența `48-36=12`. Nu calcula `48-3` înaintea produsului.
+
+Dacă există paranteze una în alta, începe cu cea mai interioară. În `2·[15-(3+4)]`, obții `3+4=7`, apoi `15-7=8`, apoi `2·8=16`.
+
+La examen, rescrierea expresiei pe rânduri este preferabilă calculului în minte. Fiecare rând trebuie să păstreze aceeași valoare ca rândul precedent.
+
+## 19. Probleme cu mai multe etape
+
+Unele probleme nu cer o singură operație. Separă întrebarea în etape și notează ce reprezintă fiecare rezultat. Exemplu: o bibliotecă are 8 rafturi, fiecare cu 36 de cărți. Se împrumută 47 de cărți, iar apoi se aduc 25. Numărul inițial este `8·36=288`; după împrumut rămân `288-47=241`; după aducerea cărților sunt `241+25=266`.
+
+Este greșit să scrii doar numărul final fără să poți explica etapele. Dacă problema cere „câte cărți sunt acum?”, răspunsul trebuie să includă unitatea și să fie legat de situație: „În bibliotecă sunt 266 de cărți.”
+
+În problemele cu obiecte, rezultatele intermediare trebuie să aibă sens. Nu poți avea `-3 elevi`, `2,5 biciclete` sau `0,4 autobuze` dacă problema se referă la obiecte întregi. Un rezultat zecimal poate fi corect dacă se referă la lungime, masă, timp sau bani, dar trebuie interpretat.
+
+## 20. Proprietăți utile pentru verificare
+
+Adunarea și înmulțirea sunt comutative: `a+b=b+a` și `a·b=b·a`. Sunt și asociative: `(a+b)+c=a+(b+c)` și `(a·b)·c=a·(b·c)`. Aceste proprietăți permit regruparea operațiilor.
+
+Scăderea și împărțirea nu sunt comutative: `a-b` nu este, în general, egal cu `b-a`, iar `a:b` nu este egal cu `b:a`. De asemenea, nu ai voie să regrupezi arbitrar termenii într-o scădere sau într-o împărțire.
+
+Distributivitatea este esențială: `a(b+c)=ab+ac` și `a(b-c)=ab-ac`. De exemplu, `7·98=7(100-2)=700-14=686`. Verificarea inversă se poate face prin `686:7=98`.
+
+## 21. Date inutile și date lipsă
+
+Într-o problemă de examen pot apărea informații care nu sunt necesare pentru întrebarea pusă. Nu trebuie să folosești fiecare număr în orice calcul. Citește exact cerința. Dacă se cere numărul total de obiecte, o informație despre culoarea lor poate fi irelevantă.
+
+În schimb, dacă pentru calcul lipsește o dimensiune, caută o relație ascunsă în text. „Lungimea este cu 5 mai mare decât lățimea” înseamnă `L=l+5`. „De trei ori mai multe” înseamnă `3x`, iar „cu trei mai multe” înseamnă `x+3`; cele două formulări nu sunt echivalente.
+
+## 22. Model de rezolvare completă
+
+Un depozit primește 12 cutii cu câte 24 de caiete. În prima zi distribuie 85 de caiete, iar în a doua zi distribuie cu 2 mai puține decât în prima zi. Câte caiete rămân?
+
+Numărul inițial este `12·24=288`. În a doua zi se distribuie `85-2=83` caiete. Numărul rămas este `288-85-83=120` caiete.
+
+Rezolvarea trebuie verificată: numărul distribuit este `85+83=168`, iar `288-168=120`. Rezultatul este întreg, pozitiv și mai mic decât numărul inițial, deci este compatibil cu situația.
+
+La orice exercițiu cu numere naturale, citește integral cerința, subliniază datele și unitățile, notează întrebarea, alege operațiile, estimează rezultatul, efectuează calculul în scris, verifică și formulează răspunsul complet. Această rutină devine rapid automată și reduce greșelile de neatenție.
 

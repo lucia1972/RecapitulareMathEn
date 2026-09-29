@@ -1,66 +1,141 @@
-# Lecția 11 — Teorema lui Pitagora și trigonometrie
+# Lecția 11 — Sisteme de două ecuații
 
-## Obiective
+## Locul lecției în program
 
-Vei identifica ipotenuza și catetele, vei aplica teorema lui Pitagora în ambele sensuri și vei folosi sinusul, cosinusul și tangenta unui unghi ascuțit într-un triunghi dreptunghic.
+Un sistem de ecuații este necesar atunci când avem două mărimi necunoscute și două condiții independente. Problemele cu numere, prețuri, vârste, animale, bilete sau dimensiuni pot fi modelate printr-un sistem.
 
-## 1. Triunghiul dreptunghic
+## Competențe urmărite
 
-Triunghiul dreptunghic are un unghi de 90°. Latura opusă unghiului drept se numește **ipotenuză** și este întotdeauna cea mai lungă. Celelalte două laturi sunt catetele.
+Vei putea:
 
-Pentru unghiul ascuțit `A`, cateta alăturată este cateta care formează unghiul, iar cateta opusă este cea aflată în fața lui.
+- să identifici două necunoscute;
+- să construiești un sistem dintr-un enunț;
+- să rezolvi prin substituție;
+- să rezolvi prin reducere;
+- să alegi metoda convenabilă;
+- să verifici ambele ecuații;
+- să interpretezi geometric soluția.
 
-## 2. Teorema lui Pitagora
+## 1. Ce este un sistem
 
-Într-un triunghi dreptunghic cu catetele `a` și `b` și ipotenuza `c`:
+Un sistem de două ecuații cu necunoscutele `x` și `y` caută perechea `(x,y)` care verifică simultan ambele ecuații.
 
-`a²+b²=c²`.
+Exemplu:
 
-Pentru a calcula o catetă:
+`x+y=10`;
 
-`a²=c²-b²`, deci `a=√(c²-b²)`.
+`x-y=2`.
 
-### Exemplu
+Perechea `(6,4)` verifică ambele: `6+4=10` și `6-4=2`.
 
-Dacă `a=6` și `b=8`, atunci `c²=36+64=100`, deci `c=10`.
+O pereche care verifică o singură ecuație nu este soluție a sistemului.
 
-## 3. Reciproca teoremei
+## 2. Metoda substituției
 
-Dacă pentru trei laturi pozitive cea mai mare verifică `c²=a²+b²`, triunghiul este dreptunghic, iar unghiul opus lui `c` este drept.
+Izolăm o necunoscută într-o ecuație și înlocuim expresia obținută în cealaltă.
 
-Triplete utile: `3,4,5`, `5,12,13`, `6,8,10`, `8,15,17` și multiplii lor.
+Pentru:
 
-## 4. Sinus, cosinus și tangentă
+`x+y=7`;
 
-Pentru un unghi ascuțit `A`:
+`x-y=1`,
 
-- `sin A = cateta opusă / ipotenuză`;
-- `cos A = cateta alăturată / ipotenuză`;
-- `tg A = cateta opusă / cateta alăturată`.
+din prima obținem `x=7-y`. Înlocuim în a doua:
 
-Alege raportul în funcție de laturile cunoscute. Nu folosi formula pentru un unghi înainte să identifici corect cateta opusă și cateta alăturată.
+`7-y-y=1`,
 
-## 5. Valori importante
+`7-2y=1`, `y=3`, apoi `x=4`.
 
-Pentru unghiurile de 30°, 45° și 60°:
+Metoda este potrivită când un coeficient este 1 sau -1.
 
-- `sin 30°=1/2`, `cos 30°=√3/2`, `tg 30°=√3/3`;
-- `sin 45°=cos 45°=√2/2`, `tg 45°=1`;
-- `sin 60°=√3/2`, `cos 60°=1/2`, `tg 60°=√3`.
+## 3. Metoda reducerii
 
-## 6. Probleme de geometrie
+Adunăm sau scădem ecuațiile astfel încât o necunoscută să dispară.
 
-Desenează figura, marchează unghiul drept, notează datele și scrie formula înainte să înlocuiești numerele. Dacă apare o diagonală într-un dreptunghi, ea este ipotenuza unuia dintre triunghiurile dreptunghice formate.
+Pentru:
 
-## Greșeli frecvente
+`2x+y=10`;
 
-- alegerea greșită a ipotenuzei;
-- folosirea lui `c=a+b` în loc de `c²=a²+b²`;
-- acceptarea rădăcinii negative pentru o lungime;
-- confundarea sinusului cu cosinusul;
-- folosirea teoremei lui Pitagora într-un triunghi care nu este dreptunghic.
+`x-y=2`,
 
-## Autoevaluare
+adunăm și obținem `3x=12`, deci `x=4`. Din a doua ecuație, `y=2`.
 
-Explică de ce într-un triunghi cu laturile 7, 24 și 25 unghiul opus laturii 25 este drept. Apoi identifică, față de un unghi ales, cateta opusă și cateta alăturată.
+Dacă coeficienții nu sunt opuși, înmulțim una sau ambele ecuații cu factori potriviți.
+
+## 4. Alegerea metodei
+
+Folosește substituția când poți izola ușor o necunoscută. Folosește reducerea când coeficienții unei necunoscute sunt egali sau opuși ori pot deveni astfel printr-o înmulțire simplă.
+
+Nu există o singură metodă obligatorie; important este ca pașii să fie echivalenți și verificabili.
+
+## 5. Probleme cu numere
+
+Dacă suma a două numere este 38 și diferența lor este 10, alegem `x` și `y`:
+
+`x+y=38`, `x-y=10`.
+
+Adunând, `2x=48`, deci `x=24`, iar `y=14`.
+
+Dacă unul este de trei ori celălalt și suma este 64, putem folosi ecuația `x+y=64`, `x=3y`, dar sistemul este la fel de valid.
+
+## 6. Probleme cu prețuri
+
+Dacă un bilet costă `x` lei și un caiet `y` lei, două bilete și trei caiete costă `2x+3y` lei.
+
+Enunțul „două bilete și trei caiete costă 36 lei, iar un bilet și două caiete costă 22 lei” devine:
+
+`2x+3y=36`;
+
+`x+2y=22`.
+
+După rezolvare, verifică prețurile prin ambele totaluri.
+
+## 7. Probleme cu animale și picioare
+
+Dacă sunt găini și iepuri, numărul total de animale este o ecuație, iar numărul total de picioare este a doua. Dacă `x` este numărul găinilor și `y` al iepurilor:
+
+`x+y=18`, `2x+4y=50`.
+
+Unitățile și coeficienții provin direct din enunț.
+
+## 8. Probleme cu vârste
+
+Alege vârsta unei persoane în prezent. Vârstele peste 5 ani devin `x+5`, iar cele de acum 5 ani `x-5`. Nu uita că raporturile de vârstă se traduc prin înmulțire.
+
+## 9. Verificarea soluției
+
+După ce ai obținut `(x,y)`, înlocuiește în ambele ecuații. Apoi verifică sensul: prețurile, vârstele și numărul de obiecte trebuie să fie admisibile.
+
+## 10. Interpretare geometrică
+
+O ecuație liniară cu două necunoscute reprezintă o dreaptă. Soluția sistemului este punctul de intersecție al celor două drepte.
+
+- o intersecție → o soluție;
+- drepte paralele distincte → nicio soluție;
+- drepte coincidente → infinit de multe soluții.
+
+## 11. Greșeli tipice
+
+- alegerea necunoscutelor fără unități;
+- transcrierea greșită a unei condiții;
+- schimbarea unui singur semn la înmulțirea unei ecuații;
+- raportarea lui `x` și `y` în ordine inversă;
+- verificarea unei singure ecuații;
+- acceptarea unei perechi imposibile.
+
+## 12. Rezumat
+
+- Un sistem caută o pereche care verifică simultan două ecuații.
+- Substituția înlocuiește o necunoscută.
+- Reducerea elimină o necunoscută.
+- Modelarea corectă este partea esențială a problemelor.
+- Verificarea se face în ambele ecuații.
+
+## Test de înțelegere
+
+1. Rezolvă `x+y=11`, `x-y=3`.
+2. Rezolvă `2x+y=13`, `x+y=8`.
+3. Formulează sistemul pentru două numere cu suma 50 și diferența 14.
+4. Formulează sistemul pentru găini și iepuri.
+5. Explică geometric ce înseamnă o soluție a sistemului.
 

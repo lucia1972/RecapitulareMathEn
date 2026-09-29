@@ -1,12 +1,36 @@
-# Fișa 01 — Cub, paralelipiped și prismă
+# Fișa 01 — Congruență: exerciții ghidate
 
-1. Un cub are muchia 4 cm. Calculează aria totală și volumul.
-2. Un paralelipiped are dimensiunile 3, 4 și 12 cm. Calculează diagonala.
-3. O prismă are aria bazei 16 cm², perimetrul bazei 18 cm și înălțimea 10 cm. Calculează ariile laterală și totală.
-4. O prismă triunghiulară are baza un triunghi dreptunghic cu catetele 6 și 8 cm, iar înălțimea prismei este 12 cm. Calculează volumul.
-5. Determină muchia unui cub cu volumul 343 cm³.
+## Problema 1 — LLL
 
-## Răspunsuri
+Două triunghiuri au laturile 5, 7, 9. Ce criteriu aplici?
 
-1. 96 cm², 64 cm³; 2. 13 cm; 3. 180 cm² și 212 cm²; 4. 288 cm³; 5. 7 cm.
+**Rezolvare:** Toate cele trei laturi corespunzătoare sunt egale, deci criteriul este LLL.
+
+## Problema 2 — LUL
+
+`AB=DE`, `AC=DF`, iar `∠A=∠D`. Ce concluzie tragi?
+
+**Rezolvare:** Unghiurile sunt cuprinse între laturile egale, deci `△ABC≡△DEF` prin LUL.
+
+## Problema 3 — Corespondență
+
+Dacă `△ABC≡△DEF`, ce element corespunde lui `BC`?
+
+**Rezolvare:** `B↔E`, `C↔F`, deci `BC↔EF` și `BC=EF`.
+
+## Problema 4 — Triunghi isoscel
+
+Într-un triunghi isoscel `AB=AC`, AD este bisectoarea lui A. Demonstrează `BD=DC`.
+
+**Rezolvare:** `AB=AC`, `AD` este comună și `∠BAD=∠DAC`; prin LUL triunghiurile sunt congruente, deci `BD=DC`.
+
+## Problema 5 — Catetă–ipotenuză
+
+Două triunghiuri dreptunghice au ipotenuzele egale și câte o catetă egală. Ce concluzie tragi?
+
+**Rezolvare:** Sunt congruente prin criteriul catetă–ipotenuză.
+
+## Răspunsuri rapide
+
+1. LLL; 2. congruente prin LUL; 3. EF; 4. demonstrație prin LUL; 5. congruente.
 
