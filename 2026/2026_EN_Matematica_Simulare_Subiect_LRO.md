@@ -1,331 +1,275 @@
-# 2026_EN_Matematica_Simulare_Subiect_LRO
+# Evaluarea Națională 2026 — Matematică
 
-*Transcriere automată din PDF; imaginile și figurile nu au fost analizate.*
+## Simulare — Subiect
 
-Ministerul Educației și Cercetării
-                                Centrul Național pentru Curriculum și Evaluare
+**Anul școlar 2025–2026**
 
-Prezenta lucrare conține ______ pagini
-                                                                Numele:………………………………………….....
- .........................................................................
-                                                                Inițiala prenumelui tatălui: ……………............
-                                                                Prenumele:……………………………..................
- .....................…………………....………………
-                                                                Școala de proveniență: ………........................
- ...........................................................................
-                                                                Centrul de examen:.........................................
-                                                                Localitatea: ………………………………...........
-                                                                Județul: …………………………………….........
-                                                                     Nume și prenume asistent                       Semnătura
+*Transcriere și formatare manuală după PDF-ul original. Figurile sunt păstrate separat în folderul de imagini al acestei variante.*
 
+## SUBIECTUL I
 
+**Încercuiește litera corespunzătoare răspunsului corect. (30 de puncte)**
 
+### 1. (5p)
 
-                             EVALUAREA NAȚIONALĂ
-                      PENTRU ABSOLVENȚII CLASEI A VIII-A
+Rezultatul calculului $12-8:4$ este egal cu:
 
+**a)** $16$  
+**b)** $10$  
+**c)** $5$  
+**d)** $1$
 
-                                         Anul școlar 2025-2026
+### 2. (5p)
 
+Din cei $26$ de elevi ai unei clase, $50\%$ sunt băieți. Numărul băieților din acea clasă este egal cu:
 
+**a)** $5$  
+**b)** $12$  
+**c)** $13$  
+**d)** $20$
 
+### 3. (5p)
 
-                                 Disciplina: Matematică
+Cel mai mare număr natural din intervalul
 
+$$
+\left(\frac{2}{3},\frac{9}{4}\right]
+$$
 
+este egal cu:
 
+**a)** $0$  
+**b)** $1$  
+**c)** $2$  
+**d)** $9$
 
-Probă scrisă la matematică                                                                                                 Simulare
-                                                      1
+### 4. (5p)
 
+Dacă
 
----
+$$
+2x=\frac{3}{2},
+$$
 
-                                                  Ministerul Educației și Cercetării
-                                           Centrul Național pentru Curriculum și Evaluare
+atunci $4x$ este egal cu:
 
+**a)** $\displaystyle\frac{3}{4}$  
+**b)** $\displaystyle\frac{8}{3}$  
+**c)** $3$  
+**d)** $6$
 
+### 5. (5p)
 
+Patru elevi, Alin, Mihai, Ioana și Maria, au calculat produsul numerelor
 
-                                                                     • Toate subiectele sunt obligatorii.
+$$
+a=3+2\sqrt{2}
+\qquad\text{și}\qquad
+b=3-2\sqrt{2}.
+$$
 
-                                                                     • Se acordă zece puncte din oficiu.
+Rezultatele obținute de cei patru elevi sunt prezentate în tabelul de mai jos:
 
-                                                                     • Timpul de lucru efectiv este de două ore.
-
-
-
-
-SUBIECTUL I
-Încercuiește litera corespunzătoare răspunsului corect.                                                     (30 de puncte)
-
- 5p    1. Rezultatul calculului 12 − 8: 4 este egal cu:
-           a) 16
-           b) 10
-           c) 5
-           d) 1
-
- 5p    2. Din cei 26 de elevi ai unei clase, 50% sunt băieți. Numărul băieților din acea clasă este egal cu:
-           a) 5
-           b) 12
-           c) 13
-           d) 20
-
-                                                     2 9
- 5p    3. Cel mai mare număr natural din intervalul ,  este egal cu:
-                                                     3 4
-           a) 0
-           b) 1
-           c)   2
-           d) 9
-
-                       3
- 5p    4. Dacă 2 x =, atunci 4 x este egal cu:
-                       2
-
-
-                 3                             8
-           a)                             b)                               c) 3                   d) 6
-                 4                             3
-
-
-
-Probă scrisă la matematică                                                                                     Simulare
-                                                                 2
-
-
----
-
-                                                Ministerul Educației și Cercetării
-                                         Centrul Național pentru Curriculum și Evaluare
- 5p    5. Patru elevi, Alin, Mihai, Ioana și Maria, au calculat produsul numerelor a = 3 + 2 2 și b = 3 − 2 2.
-       Rezultatele obținute de cei patru elevi sunt prezentate în tabelul de mai jos:
 | Alin | Mihai | Ioana | Maria |
-| --- | --- | --- | --- |
+|:---:|:---:|:---:|:---:|
 | 17 | 6 | 5 | 1 |
-       Conform informațiilor din tabel, rezultatul corect a fost obținut de:
-           a)    Alin
-           b)    Mihai
-           c)    Ioana
-           d)    Maria
- 5p    6. Două pixuri și un caiet costă 20 de lei. Enunțul: „Patru pixuri și două caiete, de același tip, costă 40 de lei.”
-       este:
-           a) adevărat
-           b) fals
-SUBIECTUL al II-lea
-Încercuiește litera corespunzătoare răspunsului corect.                                                    (30 de puncte)
- 5p    1. În figura alăturată, punctele A, B, C și D sunt coliniare, în această ordine, astfel încât lungimea segmentului
-        BC este jumătate din lungimea segmentului AB și lungimea segmentului CD este jumătate din lungimea
-       segmentului BC. Dacă BC = 4 cm, atunci lungimea segmentului AD este egală cu:
 
-            a) 20 cm
-            b) 14 cm
-            c) 12 cm
-            d) 7 cm
- 5p    2. În figura alăturată sunt reprezentate unghiurile adiacente
-       suplementare AOC și COB. Semidreapta OM este bisectoarea
-       unghiului AOC, iar măsura unghiului MOB este egală cu 145.
-       Măsura unghiului BOC este egală cu:
-            a)   35
-            b)   70
-            c)   105
-            d)   110
- 5p    3. În figura alăturată este reprezentat triunghiul isoscel ABC, cu AB = AC și
-       măsura unghiului BAC este egală cu 36. Punctul M aparține laturii AC, astfel
-       încât AM = BM. Măsura unghiului MBC este egală cu:
+Conform informațiilor din tabel, rezultatul corect a fost obținut de:
 
+**a)** Alin  
+**b)** Mihai  
+**c)** Ioana  
+**d)** Maria
 
+### 6. (5p)
 
-            a)   18
-            b)   36
-            c)   54
-            d)   72
+Două pixuri și un caiet costă $20$ de lei. Enunțul „Patru pixuri și două caiete, de același tip, costă $40$ de lei” este:
 
+**a)** adevărat  
+**b)** fals
 
+## SUBIECTUL al II-lea
 
+**Încercuiește litera corespunzătoare răspunsului corect. (30 de puncte)**
 
-Probă scrisă la matematică                                                                                     Simulare
-                                                               3
+### 1. (5p)
 
+În figura alăturată, punctele $A$, $B$, $C$ și $D$ sunt coliniare, în această ordine, astfel încât lungimea segmentului $BC$ este jumătate din lungimea segmentului $AB$, iar lungimea segmentului $CD$ este jumătate din lungimea segmentului $BC$. Dacă $BC=4\text{ cm}$, atunci lungimea segmentului $AD$ este egală cu:
 
----
+![Figura problemei II.1](assets/2026_EN_Matematica_Simulare_Subiect_LRO/problema-II-1-figura.png)
 
-                                                 Ministerul Educației și Cercetării
-                                          Centrul Național pentru Curriculum și Evaluare
- 5p    4. În figura alăturată este reprezentat pătratul ABCD, cu AB = 4 cm. Punctul M este mijlocul laturii BC.
+**a)** $20\text{ cm}$  
+**b)** $14\text{ cm}$  
+**c)** $12\text{ cm}$  
+**d)** $7\text{ cm}$
 
-       Dreptele AM și DC se intersectează în punctul P. Aria triunghiului ABP este egală cu:
+### 2. (5p)
 
-            a)   3 cm2
-            b)   4 cm2
-            c)   8 cm2
-            d) 16 cm2
+În figura alăturată sunt reprezentate unghiurile adiacente suplementare $\angle AOC$ și $\angle COB$. Semidreapta $OM$ este bisectoarea unghiului $AOC$, iar măsura unghiului $MOB$ este egală cu $145^\circ$. Măsura unghiului $BOC$ este egală cu:
 
+![Figura problemei II.2](assets/2026_EN_Matematica_Simulare_Subiect_LRO/problema-II-2-figura.png)
 
+**a)** $35^\circ$  
+**b)** $70^\circ$  
+**c)** $105^\circ$  
+**d)** $110^\circ$
 
- 5p    5. În figura alăturată este reprezentat cercul de centru            O și
-       diametru AB. Punctele C și D aparțin cercului, astfel încât
-       dreptele AB și CD sunt paralele și măsura unghiului BOC este
-       egală cu 60. Măsura unghiului BAD este egală cu:
+### 3. (5p)
 
-            a) 30
-            b) 60
-            c)   90
-            d) 120
+În figura alăturată este reprezentat triunghiul isoscel $ABC$, cu $AB=AC$ și măsura unghiului $BAC$ egală cu $36^\circ$. Punctul $M$ aparține laturii $AC$, astfel încât $AM=BM$. Măsura unghiului $MBC$ este egală cu:
 
- 5p    6. În figura alăturată este reprezentată prisma dreaptă ABCABC, cu baza
-       triunghiul echilateral ABC, cu AA = 3 cm și AB = 4 cm. Lungimea
-       segmentului BC  este egală cu:
+![Figura problemei II.3](assets/2026_EN_Matematica_Simulare_Subiect_LRO/problema-II-3-figura.png)
 
-            a) 3cm
-            b) 4cm
-            c) 5cm
-            d) 7cm
+**a)** $18^\circ$  
+**b)** $36^\circ$  
+**c)** $54^\circ$  
+**d)** $72^\circ$
 
-SUBIECTUL al III-lea
-Scrie rezolvările complete.                                                                                (30 de puncte)
+### 4. (5p)
 
- 5p     1. Pentru a putea așeza elevii unei clase câte doi în fiecare bancă, în această sală de clasă, ar mai trebui adusă
-        încă o bancă în care să fie așezați doi elevi.
-        (2p) a) Verifică dacă în această clasă pot fi 25 de elevi. Justifică răspunsul dat.
+În figura alăturată este reprezentat pătratul $ABCD$, cu $AB=4\text{ cm}$. Punctul $M$ este mijlocul laturii $BC$. Dreptele $AM$ și $DC$ se intersectează în punctul $P$. Aria triunghiului $ABP$ este egală cu:
 
+![Figura problemei II.4](assets/2026_EN_Matematica_Simulare_Subiect_LRO/problema-II-4-figura.png)
 
+**a)** $3\text{ cm}^2$  
+**b)** $4\text{ cm}^2$  
+**c)** $8\text{ cm}^2$  
+**d)** $16\text{ cm}^2$
 
+### 5. (5p)
 
-Probă scrisă la matematică                                                                                    Simulare
-                                                                4
+În figura alăturată este reprezentat cercul de centru $O$ și diametru $AB$. Punctele $C$ și $D$ aparțin cercului, astfel încât dreptele $AB$ și $CD$ sunt paralele, iar măsura unghiului $BOC$ este egală cu $60^\circ$. Măsura unghiului $BAD$ este egală cu:
 
+![Figura problemei II.5](assets/2026_EN_Matematica_Simulare_Subiect_LRO/problema-II-5-figura.png)
 
----
+**a)** $30^\circ$  
+**b)** $60^\circ$  
+**c)** $90^\circ$  
+**d)** $120^\circ$
 
-                                                  Ministerul Educației și Cercetării
-                                           Centrul Național pentru Curriculum și Evaluare
-        (3p) b) Dacă elevii acestei clase se așază câte 4 în bancă, atunci într-una dintre bănci stau doar 2 elevi, iar 5
-        bănci rămân libere. Determină numărul băncilor din această clasă.
+### 6. (5p)
 
+În figura alăturată este reprezentată prisma dreaptă $ABCA'B'C'$, cu baza triunghiul echilateral $ABC$, cu $AA'=3\text{ cm}$ și $AB=4\text{ cm}$. Lungimea segmentului $BC'$ este egală cu:
 
+![Figura problemei II.6](assets/2026_EN_Matematica_Simulare_Subiect_LRO/problema-II-6-figura.png)
 
+**a)** $3\text{ cm}$  
+**b)** $4\text{ cm}$  
+**c)** $5\text{ cm}$  
+**d)** $7\text{ cm}$
 
- 5p                                             1        1  x2 − 6 x + 9
-        2. Se consideră expresia E ( x ) =  2         +      :, unde x este număr real, x  1, x  2 și
-                                            x − 3x + 2 1 − x   x −1
+## SUBIECTUL al III-lea
 
-        x  3.
+**Scrie rezolvările complete. (30 de puncte)**
 
-        (2p) a) Arată că x 2 − 3x + 2 = ( x − 2 )( x − 1), pentru orice număr real x.
+### 1. (5p)
 
+Pentru a putea așeza elevii unei clase câte doi în fiecare bancă, în această sală de clasă, ar mai trebui adusă încă o bancă în care să fie așezați doi elevi.
 
+**a) (2p)** Verifică dacă în această clasă pot fi $25$ de elevi. Justifică răspunsul dat.
 
+**b) (3p)** Dacă elevii acestei clase se așază câte $4$ în bancă, atunci într-una dintre bănci stau doar $2$ elevi, iar $5$ bănci rămân libere. Determină numărul băncilor din această clasă.
 
-        (3p) b) Arată că numărul T = E ( 4 ) + E ( 5) + E (6) + E (7) este mai mic decât −
-                                                                                              2
- .
-                                                                                             2
+### 2. (5p)
 
+Se consideră expresia
 
+$$
+E(x)=
+\left(
+\frac{1}{x^2-3x+2}
+ +
+\frac{1}{1-x}
+\right)
+:\frac{x^2-6x+9}{x-1},
+$$
 
+unde $x$ este număr real,
 
-Probă scrisă la matematică                                                                                    Simulare
-                                                                 5
+$$
+x\ne1,\qquad x\ne2,\qquad x\ne3.
+$$
 
+**a) (2p)** Arată că
 
----
+$$
+x^2-3x+2=(x-2)(x-1),
+$$
 
-                                                Ministerul Educației și Cercetării
-                                         Centrul Național pentru Curriculum și Evaluare
+pentru orice număr real $x$.
 
+**b) (3p)** Arată că numărul
 
+$$
+T=E(4)+E(5)+E(6)+E(7)
+$$
 
+este mai mic decât
 
- 5p     3. În sistemul de axe ortogonale xOy se consideră punctele A ( 2,0 ) și B (10,4 ).
-        (2p) a) Arată că AB = 4 5.
+$$
+-\frac{\sqrt{2}}{2}.
+$$
 
+### 3. (5p)
 
+În sistemul de axe ortogonale $xOy$ se consideră punctele $A(2,0)$ și $B(10,4)$.
 
+**a) (2p)** Arată că
 
-        (3p) b) Determină coordonatele punctului M, situat pe axa Ox, aflat la distanțe egale față de punctele A și B.
+$$
+AB=4\sqrt{5}.
+$$
 
+**b) (3p)** Determină coordonatele punctului $M$, situat pe axa $Ox$, aflat la distanțe egale față de punctele $A$ și $B$.
 
+![Figura problemei III.3](assets/2026_EN_Matematica_Simulare_Subiect_LRO/problema-III-3-figura.png)
 
+### 4. (5p)
 
-Probă scrisă la matematică                                                                                     Simulare
-                                                               6
+În figura alăturată este reprezentat cercul de centru $O$. Punctele $A,B,C,D$ aparțin cercului, astfel încât $ABCD$ este pătrat, cu $AB=4\text{ cm}$. Punctul $M$ este mijlocul arcului mic $AD$, iar dreptele $AD$ și $BM$ se intersectează în punctul $P$.
 
+**a) (2p)** Arată că
 
----
+$$
+MO=2\sqrt{2}\text{ cm}.
+$$
 
-                                                 Ministerul Educației și Cercetării
-                                          Centrul Național pentru Curriculum și Evaluare
- 5p     4. În figura alăturată este reprezentat cercul de centru O. Punctele A, B, C și D aparțin cercului, astfel încât
-        ABCD este pătrat, cu AB = 4 cm. Punctul M este mijlocul arcului mic AD, iar dreptele AD și BM se
-        intersectează în punctul P.
-        (2p) a) Arată că MO = 2 2 cm.
+**b) (3p)** Demonstrează că tangenta unghiului $BPA$ este egală cu
 
+$$
+1+\sqrt{2}.
+$$
 
+![Figura problemei III.4](assets/2026_EN_Matematica_Simulare_Subiect_LRO/problema-III-4-figura.png)
 
+### 5. (5p)
 
-        (3p) b) Demonstrează că tangenta unghiului BPA este egală cu 1 + 2.
+În figura alăturată este reprezentat triunghiul echilateral $ABC$, cu $AB=8\text{ cm}$. Punctul $M$ este mijlocul segmentului $AC$, punctul $P$ este proiecția punctului $M$ pe dreapta $BC$, iar punctul $Q$ este proiecția punctului $P$ pe dreapta $AB$.
 
+**a) (2p)** Arată că
 
+$$
+PC=2\text{ cm}.
+$$
 
+**b) (3p)** Determină aria triunghiului $MPQ$.
 
-Probă scrisă la matematică                                                                                     Simulare
-                                                                7
+![Figura problemei III.5](assets/2026_EN_Matematica_Simulare_Subiect_LRO/problema-III-5-figura.png)
 
+### 6. (5p)
 
----
+În figura alăturată este reprezentat tetraedrul regulat $ABCD$, cu $AB=6\text{ cm}$. Punctul $M$ este mijlocul muchiei $AD$, iar punctul $P$ este simetricul punctului $B$ față de punctul $M$.
 
-                                              Ministerul Educației și Cercetării
-                                       Centrul Național pentru Curriculum și Evaluare
- 5p     5. În figura alăturată este reprezentat triunghiul echilateral ABC, cu AB = 8 cm. Punctul M este mijlocul
-        segmentului AC, punctul P este proiecția punctului M pe dreapta BC și punctul Q este proiecția punctului
-         P pe dreapta AB.
-        (2p) a) Arată că PC = 2 cm.
+**a) (2p)** Arată că
 
+$$
+CP=6\sqrt{2}\text{ cm}.
+$$
 
+**b) (3p)** Arată că sinusul unghiului dreptelor $DP$ și $CM$ este egal cu
 
+$$
+\frac{\sqrt{33}}{6}.
+$$
 
-        (3p) b) Determină aria triunghiului MPQ.
-
-
-
-
-Probă scrisă la matematică                                                                              Simulare
-                                                             8
-
-
----
-
-                                                Ministerul Educației și Cercetării
-                                         Centrul Național pentru Curriculum și Evaluare
- 5p     6. În figura alăturată este reprezentat tetraedrul regulat ABCD, cu AB = 6cm. Punctul M este mijlocul
-        muchiei AD și punctul P este simetricul punctului B față de punctul M.
-        (2p) a) Arată că CP = 6 2 cm.
-
-
-
-
-                                                                                          33
-        (3p) b) Arată că sinusul unghiului dreptelor DP și CM este egal cu.
-                                                                                          6
-
-
-
-
-Probă scrisă la matematică                                                                          Simulare
-                                                               9
-
-
----
-
-                                    Ministerul Educației și Cercetării
-                             Centrul Național pentru Curriculum și Evaluare
-
-
-
-
-Probă scrisă la matematică                                                    Simulare
-                                                  10
-
-
----
+![Figura problemei III.6](assets/2026_EN_Matematica_Simulare_Subiect_LRO/problema-III-6-figura.png)
