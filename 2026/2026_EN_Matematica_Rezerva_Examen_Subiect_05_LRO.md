@@ -205,9 +205,11 @@ $$
 
 ### 3. (5p)
 
-Se consideră funcția $f:\mathbb{R}\to\mathbb{R}$,
+Se consideră funcția
 
 $$
+f:\mathbb{R}\to\mathbb{R},
+\qquad
 f(x)=\frac{3}{2}x+3.
 $$
 
