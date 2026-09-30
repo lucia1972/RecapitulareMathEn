@@ -88,7 +88,7 @@ Probă scrisă la matematică                                                   
               b)   20
               c)   25
               d)   100
-    5p    3. Suma numerelor întregi din intervalul  −2,3, este egală cu:
+    5p    3. Suma numerelor întregi din intervalul [ −2,3], este egală cu:
               a)   −9
               b)   −3
               c)   3
@@ -317,15 +317,15 @@ Probă scrisă la matematică                                                   
 
                                                      Ministerul Educației
                                        Centrul Național de Politici și Evaluare în Educație
-    5p      6. În figura alăturată este reprezentat cubul ABCDABCD cu AB = 6 cm. Punctul M este mijlocul
-            segmentului BC și dreptele BM și BC se intersectează în punctul R. Punctul P aparține
+    5p      6. În figura alăturată este reprezentat cubul ABCDA'B'C'D' cu AB = 6 cm. Punctul M este mijlocul
+            segmentului B'C' și dreptele BM și B'C se intersectează în punctul R. Punctul P aparține
             segmentului AC, astfel încât AP = 2 2 cm.
             (2p) a) Arată că CP = 2 \cdot AP.
 
 
 
 
-            (3p) b) Determină măsura unghiului dreptelor PR și AD.
+            (3p) b) Determină măsura unghiului dreptelor PR și AD'.
 
 
 

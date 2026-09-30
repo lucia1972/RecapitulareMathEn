@@ -102,7 +102,7 @@ Ministerul Educației
     10 20
 5. a) Triunghiul ABE este dreptunghic isoscel, deci BAE = 45\^\circ                                                  1p
      DAE = DAB + BAE = 90\^\circ, deci dreapta DA este perpendiculară pe dreapta AE                                 1p
-     b) BC \cap AE = N , DA BN, DA ⊥ AE \Longrightarrow BN ⊥ AE                                                             1p
+     b) BC \cap AE = \{N \}, DA BN, DA ⊥ AE \Longrightarrow BN ⊥ AE                                                             1p
      În triunghiul dreptunghic isoscel ABE, AE = 10 2 cm, BN înălțime \Longrightarrow BN mediană, deci
              AE                                                                            1p
       BN =      = AN = 5 2 cm
@@ -112,13 +112,13 @@ Ministerul Educației
                                                   AN    5 2
 6. a) AC = 6 2 cm                                                                                              1p
      CP = AC − AP = 4 2 cm = 2 \cdot AP                                                                            1p
-                          B R 1                                                                               1p
-     b) BRC MRB \Longrightarrow          =
+                          B 'R 1                                                                               1p
+     b) BRC MRB' \Longrightarrow          =
                            RC 2
-           AP 1       B R AP
-     Cum      =    \Longrightarrow      =, deci PR AB                                                                  1p
+           AP 1       B 'R AP
+     Cum      =    \Longrightarrow      =, deci PR AB'                                                                  1p
            PC 2       RC PC
-       ( PR, AD) = ( AB, AD) = DAB și, cum DAB este echilateral \Longrightarrow                 ( PR, AD) = 60\^\circ     1p
+       ( PR, AD') = ( AB', AD') = D'AB' și, cum D'AB' este echilateral \Longrightarrow                 ( PR, AD') = 60\^\circ     1p
 
 
 

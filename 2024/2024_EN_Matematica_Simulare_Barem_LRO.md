@@ -97,9 +97,9 @@ SUBIECTUL al III-lea                                                            
    PQ este linie mijlocie în triunghiul ADD ' \Longrightarrow PQ =, deci MN = PQ                                1p
                                                        2
      b) MN AD ', PQ AD ' \Longrightarrow MN PQ                                                                        1p
-     MPCB este paralelogram, deci MB PC și, cum MN \cap MB = M , MN, MB \subset ( MNB ),
+     MPCB este paralelogram, deci MB PC și, cum MN \cap MB = \{M \}, MN, MB \subset ( MNB ),
                                                                                                          1p
-     PQ \cap PC = P, PQ, PC \subset ( PQC ), obținem ( MNB )            ( PQC )
+     PQ \cap PC = \{P\}, PQ, PC \subset ( PQC ), obținem ( MNB )            ( PQC )
      CT \subset ( PQC ) \Longrightarrow CT      ( MNB )                                                                      1p
 
 

@@ -51,7 +51,7 @@ Ministerul Educației
       a) E ( x ) =                   \cdot            =                                                            1p
                     ( x − 2)( x + 2) x 2 + 4
          ( x − 2)( x + 1) x + 1
-      =                    =, pentru orice număr real x \in     \ −2, −1, 2                            1p
+      =                    =, pentru orice număr real x \in     \ \{−2, −1, 2\}                            1p
          ( x − 2)( x + 2) x + 2
 
 
@@ -67,7 +67,7 @@ Ministerul Educației
      b) E ( a ) \in, E ( a ) =         = 1−                                                               1p
                                  a+2       a+2
                             1
-     Cum a + 2 \in      și       \in      \Longrightarrow a + 2 |1, deci a + 2 \in −1,1                                   1p
+     Cum a + 2 \in      și       \in      \Longrightarrow a + 2 |1, deci a + 2 \in \{−1,1\}                                   1p
                            a+2
       a = −1 care nu convine și a = −3 care convine                                                      1p
 3.   a) 3 ( x + 2 ) = −4 − 2 x \Longrightarrow 3 x + 6 = −4 − 2 x                                                      1p
@@ -94,17 +94,17 @@ Ministerul Educației
             2
    b) DQ ⊥ AB, Q \in AB, ABCD = RT \cdot DQ                                                                   1p
             DP \cdot RT                QP \cdot RT
-     DRT =           și RST =, unde P = DQ \cap RT                                          1p
+     DRT =           și RST =, unde \{P\} = DQ \cap RT                                          1p
                  2                    2
                                 DP \cdot RT QP \cdot RT RT \cdot DQ
       DRST = DRT + RST =               +         =         = ABCD                                      1p
                                     2          2         2      2
-6. a) V = DC  = 6 =
+6. a) V = D'C ' = 6 =
                3    3                                                                                    1p
       = 216 cm3                                                                                          1p
-     b) OO este linie mijlocie în triunghiul ABC \Longrightarrow OO AB                                             1p
-     AB ⊥ AB, AB ⊥ AD, AB \cap AD =  A, deci AB ⊥ ( ADC )                                    1p
-     OO AB și AB ⊥ ( ADC ) \Longrightarrow OO ⊥ ( ADC )                                                        1p
+     b) OO' este linie mijlocie în triunghiul AB'C \Longrightarrow OO' AB'                                             1p
+     AB' ⊥ A'B, AB' ⊥ A'D', A'B \cap A'D' = \{ A'\}, deci AB' ⊥ ( A'D'C )                                    1p
+     OO' AB' și AB' ⊥ ( A'D'C ) \Longrightarrow OO' ⊥ ( A'D'C )                                                        1p
 
 
 

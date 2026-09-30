@@ -89,7 +89,7 @@ Probă scrisă la matematică                                                   
               b)   1
               c)   7
               d)   12
-    5p    3. Suma numerelor întregi din intervalul  −2022, 2022 este egală cu:
+    5p    3. Suma numerelor întregi din intervalul [ −2022, 2022] este egală cu:
               a)   −2022
               b)   −2021
               c)   0
@@ -225,10 +225,10 @@ Probă scrisă la matematică                                                   
 
 
    5p                                          2    x  x2 + 4
-         2. Se consideră expresia E ( x ) =       +   : 2, unde x \in \ −2, − 1, 2.
+         2. Se consideră expresia E ( x ) =       +   : 2, unde x \in \ \{−2, − 1, 2\}.
                                                x−2 x+2 x −x−2
                                       x +1
-         (2p) a) Arată că E ( x ) =, pentru orice x \in          \ −2, − 1, 2.
+         (2p) a) Arată că E ( x ) =, pentru orice x \in          \ \{−2, − 1, 2\}.
                                       x+2
 
 
@@ -273,7 +273,7 @@ Probă scrisă la matematică                                                   
 
 
                                          (        )
-         (3p) b) Demonstrează că AM = 4 2 − 3 cm, unde M  = AB \cap PD.
+         (3p) b) Demonstrează că AM = 4 2 − 3 cm, unde \{M \} = AB \cap PD.
 
 
 
@@ -304,14 +304,14 @@ Probă scrisă la matematică                                                   
 
                                                    Ministerul Educației
                                      Centrul Național de Politici și Evaluare în Educație
-   5p 6. În figura alăturată este reprezentat cubul ABCDABC D cu DC  = 6 cm.
-         (2p) a) Arată că volumul cubului ABCDABC D este egal cu 216 cm3.
+   5p 6. În figura alăturată este reprezentat cubul ABCDA'B'C 'D' cu D'C ' = 6 cm.
+         (2p) a) Arată că volumul cubului ABCDA'B'C 'D' este egal cu 216 cm3.
 
 
 
 
-         (3p) b) Demonstrează că dreapta OO este perpendiculară pe planul ( ADC ), unde O = AC \cap BD și
-         O = BC  \cap BC.
+         (3p) b) Demonstrează că dreapta OO' este perpendiculară pe planul ( A'D'C ), unde \{O\} = AC \cap BD și
+         \{O'\} = BC ' \cap B'C.
 
 
 

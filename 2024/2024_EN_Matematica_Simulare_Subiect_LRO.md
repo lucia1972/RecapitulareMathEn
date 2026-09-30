@@ -96,19 +96,19 @@ SUBIECTUL I
            c)    5
            d)    6
 
- 5p    3. Se consideră mulțimile A = 1, 2, 3, 4, 5, 6 și B = 0, 2, 4,6,8. Intersecția mulțimilor A și B este mulțimea:
+ 5p    3. Se consideră mulțimile A = \{1, 2, 3, 4, 5, 6\} și B = \{0, 2, 4,6,8\}. Intersecția mulțimilor A și B este mulțimea:
 
-           a)  0, 2, 4, 6, 8
-            b) 0,1, 2, 3, 4, 5, 6, 8
-            c) 2, 4, 6
-            d) 0, 2, 4, 6
+           a)  \{0, 2, 4, 6, 8\}
+            b) \{0,1, 2, 3, 4, 5, 6, 8\}
+            c) \{2, 4, 6\}
+            d) \{0, 2, 4, 6\}
 
- 5p    4. Mulțimea soluțiilor reale ale inecuației 2 x + 2  4 este:
+ 5p    4. Mulțimea soluțiilor reale ale inecuației 2 x + 2 \ge 4 este:
 
-           a)  ( −, −1
-            b) ( −,1
-            c)  −1, + )
-            d) 1,+ )
+           a)  ( −\infty, −1]
+            b) ( −\infty,1]
+            c) [ −1, +\infty )
+            d) [1,+\infty )
 
 
 Probă scrisă la matematică                                                                                      Simulare
@@ -341,8 +341,8 @@ Probă scrisă la matematică                                                   
 
                                                  Ministerul Educației
                                      Centrul Național de Politici și Evaluare în Educație
- 5p     6. În figura alăturată este reprezentat cubul ABCDABCD. Punctele M, N, P și Q sunt mijloacele
-        segmentelor AA, AD, DD, respectiv AD.
+ 5p     6. În figura alăturată este reprezentat cubul ABCDA'B'C'D'. Punctele M, N, P și Q sunt mijloacele
+        segmentelor AA', A'D', DD', respectiv AD.
          (2p) a) Arată că MN = PQ.
 
 
