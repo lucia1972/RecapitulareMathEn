@@ -1,348 +1,47 @@
-# 2025_EN_Matematica_Rezerva_Examen_Subiect_02_LRO
+# Evaluarea Națională 2025 — Matematică — Rezerva — Varianta 2
 
-*Transcriere automată din PDF; imaginile și figurile nu au fost analizate.*
+## Subiectul I — 30 de puncte
 
-Ministerul Educației și Cercetării
-                                      Centrul Național pentru Curriculum și Evaluare
+1. Cel mai mare număr întreg de două cifre este: a) $-99$; b) $-10$; c) $10$; d) $99$.
 
-                                                                            Numele:…………………………………………...
-Prezenta lucrare conține ______ pagini
- ...........................................................................
-                                                                            Inițiala prenumelui tatălui: ……………............
-                                                                            Prenumele:……………………………...............
- ........................…………………....………………
-       EVALUAREA NAȚIONALĂ PENTRU                                           Școala de proveniență: ………........................
-         ABSOLVENȚII CLASEI a VIII-a...........................................................................
-                                                                            Centrul de examen:.........................................
-                Anul școlar 2024 – 2025
-                                                                            Localitatea: ………………………………...........
-                                                                            Județul: …………………………………….........
-                        Matematică                                              Nume și prenume asistent                         Semnătura
+2. Dacă $\dfrac{x-1}{7}=\dfrac y2$, atunci $2x-7y$ este: a) $0$; b) $1$; c) $2$; d) $5$.
 
+3. Temperatura a crescut de la $-4^\circ C$ la $2^\circ C$ cu: a) $-6^\circ C$; b) $-2^\circ C$; c) $2^\circ C$; d) $6^\circ C$.
 
+4. Cel mai mic dintre $\dfrac72,\dfrac73,\dfrac74,\dfrac75$ este: a) $\dfrac75$; b) $\dfrac74$; c) $\dfrac73$; d) $\dfrac72$.
 
+5. Pentru $a=5-2$ și $b=5+2$, produsul este calculat corect de: Elena — $9$, Sofia — $7$, Petrică — $3$, Tudor — $1$. Răspuns: a) Elena; b) Sofia; c) Petrică; d) Tudor.
 
-                                                                     NUMELE ȘI PRENUMELE
-       A    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                        SEMNĂTURA
-                                                                        PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+6. Afirmația despre diagrama vânzărilor de cărți „Cele mai multe cărți s-au vândut în aprilie.” este: a) adevărată; b) falsă.
 
+## Subiectul al II-lea — 30 de puncte
 
-                                                                     NUMELE ȘI PRENUMELE
-       B    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                        SEMNĂTURA
-                                                                        PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+1. $A,B,C$ sunt coliniare, $AB=4\,\mathrm{cm}$, $BC=14\,\mathrm{cm}$, iar $M,N$ sunt mijloacele lui $AB$, respectiv $BC$. Determină $MN$: a) $9$; b) $7$; c) $4$; d) $2\,\mathrm{cm}$.
 
+2. Unghiurile $AOB$, $BOC$, $COA$ sunt congruente. Măsura lui $AOB$ este: a) $60^\circ$; b) $90^\circ$; c) $120^\circ$; d) $150^\circ$.
 
-                                                                     NUMELE ȘI PRENUMELE
-       C    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                        SEMNĂTURA
-                                                                        PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+3. În triunghiul isoscel $ABC$, $AC=BC$, $\angle ACB=40^\circ$, iar $A,B,D$ sunt coliniare. Determină $\angle CBD$: a) $40^\circ$; b) $70^\circ$; c) $100^\circ$; d) $110^\circ$.
 
+4. Paralelogramul $ABCD$ are $AD=BD=4\sqrt2\,\mathrm{cm}$ și $\angle ADB=90^\circ$. Determină $CD$: a) $4$; b) $4\sqrt2$; c) $4\sqrt3$; d) $8\,\mathrm{cm}$.
 
+5. Un triunghi echilateral este înscris într-un cerc de rază $10\,\mathrm{cm}$. Latura triunghiului este: a) $10\sqrt2$; b) $15$; c) $10\sqrt3$; d) $20\,\mathrm{cm}$.
 
+6. Volumul sferei de rază $3\,\mathrm{cm}$ este: a) $108\pi$; b) $36\pi$; c) $27\pi$; d) $12\pi\,\mathrm{cm}^3$.
 
-Probă scrisă la matematică                                                                                                     Varianta 2
-                                                            1
+## Subiectul al III-lea — 30 de puncte
 
+1. Alin și Maria au împreună suma $S$. Dacă Alin cheltuiește $10$ lei, îi rămân de două ori mai puțini bani decât Mariei. a) Verifică dacă $S=140$ lei. b) Dacă Maria îi dă lui Alin $15$ lei, sumele devin egale. Determină $S$.
 
+2. Pentru $x\ne0,-2,2$,
 
-                                                  Ministerul Educației și Cercetării
-                                           Centrul Național pentru Curriculum și Evaluare
+$$E(x)=\left(\dfrac1{x^2-4}+\dfrac1{x+2}\right):\dfrac1{x^2-4x}.$$
 
+   a) Arată că $\dfrac1{x^2-4}+\dfrac1{x+2}=\dfrac{x-1}{(x+2)(x-2)}$. b) Arată că $N=E(\sqrt2-1)+3E(\sqrt2+1)$ este natural.
 
+3. $f(x)=2-x$. a) Arată că $f(1)f(0)=2$. b) Graficul intersectează axele în $A,B$. Determină distanța de la $C(0,-4)$ la dreapta $AB$.
 
+4. În triunghiul echilateral $ABC$, $AB=6\,\mathrm{cm}$, $G$ este centrul de greutate, iar $M$ este simetricul lui $A$ față de $G$. a) Arată că $\angle ACM=90^\circ$. b) Bisectoarea lui $\angle AMC$ intersectează $AC$ în $T$. Arată că $[ABMT]=10\sqrt3\,\mathrm{cm}^2$.
 
-                                                                  • Toate subiectele sunt obligatorii.
+5. În pătratul $ABCD$, $AB=8\,\mathrm{cm}$, $T\in AD$, $\angle ABT=30^\circ$. Perpendiculara din $A$ pe $BT$ intersectează $BT$, $DC$ în $M$, respectiv $S$. a) Arată că $AT=DS$. b) Arată că $DM>2(\sqrt4-\sqrt3)\,\mathrm{cm}$.
 
-                                                                  • Se acordă zece puncte din oficiu.
-
-                                                                  • Timpul de lucru efectiv este de două ore.
-
-
-
-
-  SUBIECTUL I
-  Încercuiește litera corespunzătoare răspunsului corect.                                                    (30 de puncte)
-    5p 1. Cel mai mare număr întreg de două cifre este:
-              a) −99
-              b) −10
-              c)  10
-              d)  99
-
-                         x −1 y
-    5p    2. Știind că       =, rezultatul calculului 2 x − 7 y este egal cu:
-                           7  2
-              a)   0
-              b)   1
-              c)   2
-              d)   5
-    5p    3. Luni, temperatura înregistrată la ora 9 la o stație meteo a fost de − 4° C, iar marți, la aceeași oră, au fost
-          înregistrate 2° C. Temperatura înregistrată marți este mai mare decât temperatura înregistrată luni cu:
-              a) − 6° C
-              b) − 2° C
-              c)       2° C
-              d)       6° C
-                                7 7 7   7
-    5p    4. Dintre numerele,,  și, cel mai mic este:
-                                2 3 4   5
-                 7
-              a)
-                 5
-                 7
-              b)
-                 4
-                 7
-              c)
-                 3
-                 7
-              d)
-                 2
-
-Probă scrisă la matematică                                                                                      Varianta 2
-                                                                 2
-
-
-
-                                                 Ministerul Educației și Cercetării
-                                          Centrul Național pentru Curriculum și Evaluare
-
-    5p    5. Patru elevi, Elena, Sofia, Petrică și Tudor, calculează produsul numerelor a = 5 − 2 și b = 5 + 2, iar
-          rezultatele obținute sunt prezentate în tabelul de mai jos:
-| Elena | Sofia Petrică Tudor |  |  |
-| --- | --- | --- | --- |
-| 9 | 7 | 3 | 1 |
-          Conform informațiilor din tabel, rezultatul corect a fost obținut de:
-             a) Elena
-             b) Sofia
-             c) Petrică
-             d) Tudor
-    5p    6. În diagrama de mai jos sunt prezentate informații despre numărul de cărți vândute într-o librărie în
-          primele cinci luni ale anului 2025.
-                                                         Număr de cărți
-                                                         3000
-
-                                                         2500
-
-                                                         2000
-
-                                                         1500
-
-                                                         1000
-
-                                                           500
-
-                                                             0
-                                                                      Ianuarie   Februarie   Martie   Aprilie   Mai
-
-          Afirmația: „Conform informațiilor din diagramă, cele mai multe cărți au fost vândute în luna aprilie.” este:
-              a) adevărată
-              b) falsă
-
-  SUBIECTUL al II-lea
-  Încercuiește litera corespunzătoare răspunsului corect.                                          (30 de puncte)
-    5p 1. În figura alăturată, punctele A, B și C sunt coliniare, în această ordine, astfel încât AB = 4cm și
-          BC = 14cm. Știind că punctul M este mijlocul segmentului AB, iar punctul N este mijlocul segmentului
-          BC, lungimea segmentului MN este egală cu:
-             a) 9 cm
-              b) 7 cm
-              c)   4 cm
-              d) 2 cm
-
-    5p 2. În figura alăturată sunt reprezentate unghiurile congruente AOB,
-       BOC și COA. Măsura unghiului AOB este egală cu:
-
-              a)   60°
-              b)   90°
-              c)   120°
-              d)   150°
-
-
-
-
-Probă scrisă la matematică                                                                                      Varianta 2
-                                                                  3
-
-
-
-                                              Ministerul Educației și Cercetării
-                                       Centrul Național pentru Curriculum și Evaluare
-    5p 3. În figura alăturată este reprezentat triunghiul isoscel ABC, cu AC = BC
-          și măsura unghiului ACB este de 40°. Punctele A, B și D sunt coliniare,
-          în această ordine. Măsura unghiului CBD este egală cu:
-
-              a)   40°
-              b)   70°
-              c)   100°
-              d)   110°
-
-    5p 4. În figura alăturată este reprezentat paralelogramul ABCD, cu AD = BD = 4 2 cm. Măsura unghiului
-          ADB este egală cu 90°. Lungimea segmentului CD este egală cu:
-            a) 4 cm
-              b) 4 2 cm
-              c)   4 3 cm
-              d) 8cm
-
-    5p 5. În figura alăturată este reprezentat cercul de centru O și raza de 10cm.
-          Triunghiul echilateral ABC este înscris în acest cerc. Lungimea laturii
-          triunghiului echilateral ABC este egală cu:
-              a) 10 2 cm
-              b) 15cm
-              c) 10 3 cm
-              d) 20cm
-
-    5p 6. În figura alăturată este reprezentată o sferă cu raza de 3cm. Volumul
-          sferei este egal cu:
-              a) 108π cm 3
-              b) 36π cm3
-              c)   27π cm 3
-              d) 12π cm 3
-
-
-  SUBIECTUL al III-lea
-  Scrieți rezolvările complete.                                                                     (30 de puncte)
-   5p 1. Doi copii, Alin și Maria, au împreună o sumă de bani S. Sumele de bani ale fiecărui copil sunt exprimate
-         prin numere naturale. Dacă Alin ar cheltui 10 lei, atunci lui Alin i-ar rămâne de două ori mai puțini bani
-         decât are Maria.
-         (2p) a) Este posibil ca suma S să fie egală cu 140 de lei? Justifică răspunsul dat.
-
-
-
-
-Probă scrisă la matematică                                                                              Varianta 2
-                                                             4
-
-
-
-                                                Ministerul Educației și Cercetării
-                                         Centrul Național pentru Curriculum și Evaluare
-         (3p) b) Determină suma S, știind că, dacă Maria i-ar da 15 lei lui Alin, atunci cei doi copii ar avea sume
-         egale de bani.
-
-
-
-
-                                         1             1         1
-   5p 2. Se consideră expresia E ( x) =  2        +         : 3, unde x este număr real, x ≠ 0, x ≠ −2 și x ≠ 2.
-                                         x − 4 x + 2  x − 4x
-                         1         1            x −1
-      (2p) a) Arată că 2      +        =, pentru orice număr real x, x ≠ −2 și x ≠ 2.
-                       x −4     x  + 2    ( x + 2 )( x − 2 )
-
-
-
-
-         (3p) b) Arată că numărul N = E   ( 2 − 1) + 3 ⋅ E ( 2 + 1) este natural.
-
-
-
-
-Probă scrisă la matematică                                                                                    Varianta 2
-                                                               5
-
-
-
-                                                    Ministerul Educației și Cercetării
-                                             Centrul Național pentru Curriculum și Evaluare
-   5p 3. Se consideră funcția f: ℝ → ℝ, f ( x ) = 2 − x.
-         (2p) a) Arată că f (1) ⋅ f ( 0 ) = 2.
-
-
-
-
-         (3p) b) Reprezentarea geometrică a graficului funcției f intersectează axele Ox și Oy ale sistemului de
-         axe ortogonale xOy în punctele A, respectiv B. Determină distanța de la punctul C ( 0, −4 ) la dreapta AB.
-
-
-
-
-Probă scrisă la matematică                                                                                Varianta 2
-                                                                   6
-
-
-
-                                              Ministerul Educației și Cercetării
-                                       Centrul Național pentru Curriculum și Evaluare
-   5p 4. În figura alăturată este reprezentat triunghiul echilateral ABC, cu AB = 6 cm. Punctul G este centrul de
-      greutate al triunghiului ABC și punctul M este simetricul punctului A față de punctul G.
-      (2p) a) Arată că măsura unghiului ACM este egală cu 90°.
-
-
-
-
-         (3p) b) Bisectoarea unghiului AMC intersectează dreapta AC în punctul T. Arată că aria patrulaterului
-          ABMT este egală cu 10 3 cm 2.
-
-
-
-
-Probă scrisă la matematică                                                                             Varianta 2
-                                                             7
-
-
-
-                                              Ministerul Educației și Cercetării
-                                       Centrul Național pentru Curriculum și Evaluare
-   5p 5. În figura alăturată este reprezentat pătratul ABCD, cu AB = 8 cm. Punctul T aparține laturii AD, astfel
-      încât măsura unghiului ABT este egală cu 30°. Perpendiculara din punctul A pe dreapta BT intersectează
-      dreptele BT și DC în punctele M, respectiv S.
-      (2p) a) Demonstrează că segmentele AT și DS sunt congruente.
-
-
-
-
-                                 (       )
-         (3p) b) Arată că DM > 2 4 − 3 cm.
-
-
-
-
-Probă scrisă la matematică                                                                              Varianta 2
-                                                             8
-
-
-
-                                              Ministerul Educației și Cercetării
-                                       Centrul Național pentru Curriculum și Evaluare
-   5p 6. În figura alăturată este reprezentat cubul ABCDA′B′C ′D′, cu AB = 4 cm. Punctul M este mijlocul
-         segmentului AB și punctul P este mijlocul segmentului C ′C.
-         (2p) a) Arată că lungimea segmentului CM este egală cu 2 5 cm.
-
-
-
-
-         Â
-
-
-
-
-         (3p) b) Arată că măsura unghiului dreptelor BO și MP este egală cu 60°, unde A′C ′ ∩ B′D′ = {O}.
-
-
-
-
-Probă scrisă la matematică                                                                            Varianta 2
-                                                             9
-
-
-
-                                    Ministerul Educației și Cercetării
-                             Centrul Național pentru Curriculum și Evaluare
-
-
-
-
-Probă scrisă la matematică                                                    Varianta 2
-                                                  10
+6. În cubul $ABCDA'B'C'D'$, $AB=4\,\mathrm{cm}$, $M$ este mijlocul lui $AB$, iar $P$ este mijlocul lui $C'C$. a) Arată că $CM=2\sqrt5\,\mathrm{cm}$. b) Determină măsura unghiului dintre $BO$ și $MP$, unde $O$ este centrul bazei.
