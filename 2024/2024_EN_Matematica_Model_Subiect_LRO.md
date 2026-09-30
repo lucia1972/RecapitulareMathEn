@@ -67,3 +67,13 @@ $$E(x)=\left(\dfrac{x-2}{9+3x}+\dfrac{3}{x+3}+\dfrac{2}{3x}\right):\left(\dfrac{
 6. Paralelipipedul dreptunghic $ABCDA'B'C'D'$ are $AB=AA'=4\,\mathrm{cm}$ și $BC=2\,\mathrm{cm}$. a) Arată că aria totală este $64\,\mathrm{cm}^2$. b) Arată că $NP\parallel(ACD')$, unde $N$ și $P$ sunt proiecțiile lui $C'$ pe dreptele $B'D'$, respectiv $CB'$.
 
    ![Problema III.6](assets/2024_EN_Matematica_Model_Subiect_LRO/pagina-09.png)
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2024_EN_Matematica_Model_Subiect_LRO/pagina-03.png) · [Pagina 4](assets/2024_EN_Matematica_Model_Subiect_LRO/pagina-04.png)
+- [Pagina 5](assets/2024_EN_Matematica_Model_Subiect_LRO/pagina-05.png) · [Pagina 6](assets/2024_EN_Matematica_Model_Subiect_LRO/pagina-06.png)
+- [Pagina 7](assets/2024_EN_Matematica_Model_Subiect_LRO/pagina-07.png) · [Pagina 8](assets/2024_EN_Matematica_Model_Subiect_LRO/pagina-08.png)
+- [Pagina 9](assets/2024_EN_Matematica_Model_Subiect_LRO/pagina-09.png) · [Pagina 10](assets/2024_EN_Matematica_Model_Subiect_LRO/pagina-10.png)

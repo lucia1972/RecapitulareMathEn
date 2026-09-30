@@ -45,3 +45,13 @@ $$E(x)=\left(\dfrac1{(x+1)(x+2)}+\dfrac1{x+2}\right):\dfrac{x+3}{5(x+1)}.$$
 5. În dreptunghiul $ABCD$, $AB=9\sqrt{10}\,\mathrm{cm}$, $AC=30\,\mathrm{cm}$. $O=AC\cap BD$, $M$ este mijlocul lui $CD$, $E=BC\cap AM$, $P=OE\cap CD$, $S=AM\cap BD$. a) Arată că aria este $270\,\mathrm{cm}^2$. b) Arată că $SP=10\,\mathrm{cm}$.
 
 6. În cubul $ABCDA'B'C'D'$, $AB=10\,\mathrm{cm}$. a) Arată că unghiul dintre $AB'$ și $BC'$ este $60^\circ$. b) Calculează distanța de la $C$ la planul $(BDC')$.
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2023_EN_Matematica_Examen_Subiect_01_LRO/pagina-03.png) · [Pagina 4](assets/2023_EN_Matematica_Examen_Subiect_01_LRO/pagina-04.png)
+- [Pagina 5](assets/2023_EN_Matematica_Examen_Subiect_01_LRO/pagina-05.png) · [Pagina 6](assets/2023_EN_Matematica_Examen_Subiect_01_LRO/pagina-06.png)
+- [Pagina 7](assets/2023_EN_Matematica_Examen_Subiect_01_LRO/pagina-07.png) · [Pagina 8](assets/2023_EN_Matematica_Examen_Subiect_01_LRO/pagina-08.png)
+- [Pagina 9](assets/2023_EN_Matematica_Examen_Subiect_01_LRO/pagina-09.png) · [Pagina 10](assets/2023_EN_Matematica_Examen_Subiect_01_LRO/pagina-10.png)

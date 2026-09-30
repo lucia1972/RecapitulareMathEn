@@ -49,3 +49,13 @@ $$E(x)=\left(\dfrac2{x-3}-\dfrac3x+\dfrac2{x+3}\right):\dfrac1{x^2-3x}.$$
 5. În trapezul dreptunghic $ABCD$, $AB\parallel DC$, $\angle DAB=90^\circ$, $AB=8\,\mathrm{cm}$ și $AD=DC=4\,\mathrm{cm}$. $M$ este mijlocul lui $DC$, iar $P=AM\cap BD$. a) Arată că $BC=4\sqrt2\,\mathrm{cm}$. b) Calculează aria patrulaterului $MPBC$.
 
 6. În cubul $ABCDA'B'C'D'$, $AB=8\,\mathrm{cm}$. $O=AC\cap BD$, $E=A'B\cap AB'$, iar $F$ este mijlocul lui $CC'$. a) Arată că volumul este $512\,\mathrm{cm}^3$. b) Demonstrează că $FO\perp DE$.
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2025_EN_Matematica_Examen_Subiect_07_LRO/pagina-03.png) · [Pagina 4](assets/2025_EN_Matematica_Examen_Subiect_07_LRO/pagina-04.png)
+- [Pagina 5](assets/2025_EN_Matematica_Examen_Subiect_07_LRO/pagina-05.png) · [Pagina 6](assets/2025_EN_Matematica_Examen_Subiect_07_LRO/pagina-06.png)
+- [Pagina 7](assets/2025_EN_Matematica_Examen_Subiect_07_LRO/pagina-07.png) · [Pagina 8](assets/2025_EN_Matematica_Examen_Subiect_07_LRO/pagina-08.png)
+- [Pagina 9](assets/2025_EN_Matematica_Examen_Subiect_07_LRO/pagina-09.png) · [Pagina 10](assets/2025_EN_Matematica_Examen_Subiect_07_LRO/pagina-10.png)

@@ -79,3 +79,13 @@ a) Arată că $x^2+x-12=(x-3)(x+4)$. b) Determină $N=E(2)+E(4)+E(6)+\cdots+E(16
 6. În cubul $ABCDEFGH$, $AB=6\,\mathrm{cm}$, iar $M,N$ sunt mijloacele muchiilor $AE$, respectiv $DH$. a) Arată că volumul este $216\,\mathrm{cm}^3$. b) Calculează distanța de la $H$ la planul $(CMN)$.
 
    ![Problema III.6](assets/2025_EN_Matematica_Model_Subiect_LRO/figura-III-6.png)
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2025_EN_Matematica_Model_Subiect_LRO/pagina-03.png) · [Pagina 4](assets/2025_EN_Matematica_Model_Subiect_LRO/pagina-04.png)
+- [Pagina 5](assets/2025_EN_Matematica_Model_Subiect_LRO/pagina-05.png) · [Pagina 6](assets/2025_EN_Matematica_Model_Subiect_LRO/pagina-06.png)
+- [Pagina 7](assets/2025_EN_Matematica_Model_Subiect_LRO/pagina-07.png) · [Pagina 8](assets/2025_EN_Matematica_Model_Subiect_LRO/pagina-08.png)
+- [Pagina 9](assets/2025_EN_Matematica_Model_Subiect_LRO/pagina-09.png) · [Pagina 10](assets/2025_EN_Matematica_Model_Subiect_LRO/pagina-10.png)

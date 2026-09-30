@@ -45,3 +45,13 @@ $$E(x)=\left(\dfrac2{x-2}+\dfrac{x}{x+2}\right):\dfrac{x^2+4}{x^2-x-2}.$$
 5. În trapezul $ABCD$, $AB\parallel CD$, $AB=6\,\mathrm{cm}$, $CD=4\,\mathrm{cm}$, iar $R,S,T$ sunt mijloacele laturilor $AD,AB,BC$. a) Arată că $RT=5\,\mathrm{cm}$. b) Arată că $[DRST]=\frac12[ABCD]$.
 
 6. În cubul $ABCDA'B'C'D'$, $D'C'=6\,\mathrm{cm}$. a) Arată că volumul este $216\,\mathrm{cm}^3$. b) Demonstrează că $OO'\perp(A'D'C)$, unde $O=AC\cap BD$ și $O'=BC'\cap B'C$.
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2023_EN_Matematica_Model_Subiect_LRO/pagina-03.png) · [Pagina 4](assets/2023_EN_Matematica_Model_Subiect_LRO/pagina-04.png)
+- [Pagina 5](assets/2023_EN_Matematica_Model_Subiect_LRO/pagina-05.png) · [Pagina 6](assets/2023_EN_Matematica_Model_Subiect_LRO/pagina-06.png)
+- [Pagina 7](assets/2023_EN_Matematica_Model_Subiect_LRO/pagina-07.png) · [Pagina 8](assets/2023_EN_Matematica_Model_Subiect_LRO/pagina-08.png)
+- [Pagina 9](assets/2023_EN_Matematica_Model_Subiect_LRO/pagina-09.png) · [Pagina 10](assets/2023_EN_Matematica_Model_Subiect_LRO/pagina-10.png)

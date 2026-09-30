@@ -45,3 +45,13 @@ $$E(x)=\left(\dfrac1x+\dfrac2{x+1}-\dfrac3{x+2}\right):\dfrac{2x+1}{x^2+3x+2}.$$
 5. În triunghiul $ABC$, $AB=AC=10\,\mathrm{cm}$, $\angle BAC=120^\circ$, $M$ este mijlocul lui $BC$, iar $S$ este simetricul lui $M$ față de $A$. a) Arată că $BC=10\sqrt3\,\mathrm{cm}$. b) Arată că $d(M,SC)<7\,\mathrm{cm}$.
 
 6. Paralelipipedul dreptunghic $ABCDA'B'C'D'$ are $AB=2\sqrt3\,\mathrm{cm}$, $BC=2\,\mathrm{cm}$, $AA'=4\,\mathrm{cm}$, iar $M$ este mijlocul lui $BC$. a) Arată că volumul este $16\sqrt3\,\mathrm{cm}^3$. b) Demonstrează că $A'C\parallel( MAB')$.
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2023_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-03.png) · [Pagina 4](assets/2023_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-04.png)
+- [Pagina 5](assets/2023_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-05.png) · [Pagina 6](assets/2023_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-06.png)
+- [Pagina 7](assets/2023_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-07.png) · [Pagina 8](assets/2023_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-08.png)
+- [Pagina 9](assets/2023_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-09.png) · [Pagina 10](assets/2023_EN_Matematica_Rezerva_Examen_Subiect_05_LRO/pagina-10.png)

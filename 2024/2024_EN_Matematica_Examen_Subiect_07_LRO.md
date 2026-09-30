@@ -45,3 +45,13 @@ $$E(x)=\left(\dfrac{1}{x^2-3x+2}+\dfrac{1}{x-1}\right)(x^2-4).$$
 5. În cercul cu centrul $O$, $CD$ este diametru, $BO\perp CD$, iar $M$ aparține arcului mic $BC$. Dreptele $DM$ și $BO$ se intersectează în $N$, $DN=2MN$, $MN=4\,\mathrm{cm}$. a) Arată că $\angle CMD=90^\circ$. b) Calculează aria triunghiului $DON$.
 
 6. În prisma dreaptă $ABCA'B'C'$, baza este triunghiul echilateral $ABC$, $AB=12\,\mathrm{cm}$, $AA'=3\sqrt3\,\mathrm{cm}$, iar $M$ este mijlocul lui $AB$. a) Arată că aria laterală este $108\sqrt3\,\mathrm{cm}^2$. b) Determină distanța de la $M$ la planul $(A'B'C)$.
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2024_EN_Matematica_Examen_Subiect_07_LRO/pagina-03.png) · [Pagina 4](assets/2024_EN_Matematica_Examen_Subiect_07_LRO/pagina-04.png)
+- [Pagina 5](assets/2024_EN_Matematica_Examen_Subiect_07_LRO/pagina-05.png) · [Pagina 6](assets/2024_EN_Matematica_Examen_Subiect_07_LRO/pagina-06.png)
+- [Pagina 7](assets/2024_EN_Matematica_Examen_Subiect_07_LRO/pagina-07.png) · [Pagina 8](assets/2024_EN_Matematica_Examen_Subiect_07_LRO/pagina-08.png)
+- [Pagina 9](assets/2024_EN_Matematica_Examen_Subiect_07_LRO/pagina-09.png) · [Pagina 10](assets/2024_EN_Matematica_Examen_Subiect_07_LRO/pagina-10.png)

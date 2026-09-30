@@ -53,3 +53,13 @@ $$E(x)=\left(\dfrac{x^2-9}{x^2-16}-1\right):\left(\dfrac1{x+4}+\dfrac1{x-4}-\dfr
 5. În rombul $ABCD$, $\angle BAD=45^\circ$, iar triunghiul dreptunghic isoscel $ABE$ are $AB=BE=10\,\mathrm{cm}$, cu $C,E$ de părți opuse ale lui $AB$. a) Arată că $DA\perp AE$. b) Arată că $\tan\angle CAE=\sqrt2+1$.
 
 6. În cubul $ABCDA'B'C'D'$, $AB=6\,\mathrm{cm}$, $M$ este mijlocul lui $B'C'$, $R=BM\cap B'C$, iar $P\in AC$, $AP=2\sqrt2\,\mathrm{cm}$. a) Arată că $CP=2AP$. b) Determină unghiul dintre $PR$ și $AD'$.
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2023_EN_Matematica_Simulare_Subiect_LRO/pagina-03.png) · [Pagina 4](assets/2023_EN_Matematica_Simulare_Subiect_LRO/pagina-04.png)
+- [Pagina 5](assets/2023_EN_Matematica_Simulare_Subiect_LRO/pagina-05.png) · [Pagina 6](assets/2023_EN_Matematica_Simulare_Subiect_LRO/pagina-06.png)
+- [Pagina 7](assets/2023_EN_Matematica_Simulare_Subiect_LRO/pagina-07.png) · [Pagina 8](assets/2023_EN_Matematica_Simulare_Subiect_LRO/pagina-08.png)
+- [Pagina 9](assets/2023_EN_Matematica_Simulare_Subiect_LRO/pagina-09.png) · [Pagina 10](assets/2023_EN_Matematica_Simulare_Subiect_LRO/pagina-10.png)

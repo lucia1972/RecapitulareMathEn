@@ -237,3 +237,13 @@ este natural.
 **b) (3p)** Determină măsura unghiului dreptelor $MN$ și $BD$.
 
 ![Figura problemei III.6](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-III-6.png)
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2025_EN_Matematica_Simulare_Subiect_LRO/pagina-03.png) · [Pagina 4](assets/2025_EN_Matematica_Simulare_Subiect_LRO/pagina-04.png)
+- [Pagina 5](assets/2025_EN_Matematica_Simulare_Subiect_LRO/pagina-05.png) · [Pagina 6](assets/2025_EN_Matematica_Simulare_Subiect_LRO/pagina-06.png)
+- [Pagina 7](assets/2025_EN_Matematica_Simulare_Subiect_LRO/pagina-07.png) · [Pagina 8](assets/2025_EN_Matematica_Simulare_Subiect_LRO/pagina-08.png)
+- [Pagina 9](assets/2025_EN_Matematica_Simulare_Subiect_LRO/pagina-09.png) · [Pagina 10](assets/2025_EN_Matematica_Simulare_Subiect_LRO/pagina-10.png)

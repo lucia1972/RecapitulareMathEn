@@ -45,3 +45,13 @@ $$E(x)=\left(\dfrac{2}{x-2}+\dfrac{x}{x+2}\right):\dfrac{x^2+4}{x^2+4x+4}.$$
 5. În trapezul $ABCD$, $AB\parallel CD$, $AB=2AD=4\,\mathrm{cm}$, $\angle BAD=90^\circ$, $\angle ABC=30^\circ$. În exterior se construiesc pătratele $ABEF$ și $BCHG$. a) Arată că $BC=4\,\mathrm{cm}$. b) Demonstrează că $AEGC$ este trapez isoscel.
 
 6. În cubul $ABCDA'B'C'D'$, $AB=8\,\mathrm{cm}$, iar $O=AC\cap BD$. a) Calculează volumul. b) Determină distanța de la $O$ la planul $(CMD)$, unde $M$ este mijlocul lui $A'B'$.
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2024_EN_Matematica_Rezerva_Examen_Subiect_02_LRO/pagina-03.png) · [Pagina 4](assets/2024_EN_Matematica_Rezerva_Examen_Subiect_02_LRO/pagina-04.png)
+- [Pagina 5](assets/2024_EN_Matematica_Rezerva_Examen_Subiect_02_LRO/pagina-05.png) · [Pagina 6](assets/2024_EN_Matematica_Rezerva_Examen_Subiect_02_LRO/pagina-06.png)
+- [Pagina 7](assets/2024_EN_Matematica_Rezerva_Examen_Subiect_02_LRO/pagina-07.png) · [Pagina 8](assets/2024_EN_Matematica_Rezerva_Examen_Subiect_02_LRO/pagina-08.png)
+- [Pagina 9](assets/2024_EN_Matematica_Rezerva_Examen_Subiect_02_LRO/pagina-09.png) · [Pagina 10](assets/2024_EN_Matematica_Rezerva_Examen_Subiect_02_LRO/pagina-10.png)

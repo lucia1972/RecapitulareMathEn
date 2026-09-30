@@ -63,3 +63,13 @@ $$b=3\cdot(3^2\cdot3^3\cdot3^4):9^4-25^4:5^7.$$
 5. În paralelogramul $ABCD$, $AB=15\,\mathrm{cm}$, $P\in AB$, $PB=2AP$, iar $O=AC\cap BD$. Dacă $N=AC\cap DP$: a) arată că $AP=5\,\mathrm{cm}$; b) determină $\dfrac{[ANP]}{[DNO]}$.
 
 6. În cubul $ABCDA'B'C'D'$, punctele $M,N,P,Q$ sunt mijloacele segmentelor $AA'$, $A'D'$, $DD'$, respectiv $AD$. a) Arată că $MN=PQ$. b) Dacă $T$ este mijlocul lui $PQ$, demonstrează că $CT\parallel(MNB)$.
+
+
+## Figuri și pagini scanate
+
+Imaginile aparțin exact acestui subiect și sunt păstrate în folderul cu același nume:
+
+- [Pagina 3](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-03.png) · [Pagina 4](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-04.png)
+- [Pagina 5](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-05.png) · [Pagina 6](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-06.png)
+- [Pagina 7](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-07.png) · [Pagina 8](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-08.png)
+- [Pagina 9](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-09.png) · [Pagina 10](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-10.png)
