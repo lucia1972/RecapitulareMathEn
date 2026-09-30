@@ -1,369 +1,65 @@
-# 2024_EN_Matematica_Simulare_Subiect_LRO
+# Evaluarea Națională 2024 — Matematică — Simulare
 
-*Transcriere automată din PDF; imaginile și figurile nu au fost analizate.*
+## Subiectul I — 30 de puncte
 
-Ministerul Educației
-                                     Centrul Național de Politici și Evaluare în Educație
+1. $5^2-2(25-5)$ este: a) $12$; b) $92$; c) $100$; d) $1000$.
 
+2. Dacă $\dfrac{x-2}{5}=\dfrac{y}{3}$, atunci $3x-5y$ este: a) $0$; b) $2$; c) $5$; d) $6$.
 
+3. Pentru $A=\{1,2,3,4,5,6\}$ și $B=\{0,2,4,6,8\}$, $A\cap B$ este: a) $\{0,2,4,6,8\}$; b) $\{0,1,2,3,4,5,6,8\}$; c) $\{2,4,6\}$; d) $\{0,2,4,6\}$.
 
-                                                                         Numele:………………………………………….....
-Prezenta lucrare conține ______ pagini.........................................................................
-                                                                         Inițiala prenumelui tatălui: ……………............
-                                                                         Prenumele:……………………………..................
- .....................…………………....………………
-       EVALUAREA NAȚIONALĂ PENTRU                                        Școala de
-         ABSOLVENȚII CLASEI a VIII-a                                     proveniență:...................................................…
-                                                                         ….........................................................................
- ......................
-                Anul școlar 2023 – 2024
-                                                                         Centrul de examen:.........................................
-                                                                         Localitatea: ………………………………...........
-                        Matematică
-                                                                         Județul: …………………………………….........
-                                                                              Nume și prenume asistent                       Semnătura
+4. Mulțimea soluțiilor reale ale inecuației $2x+2\ge4$ este: a) $(-\infty,-1]$; b) $(-\infty,1]$; c) $[-1,+\infty)$; d) $[1,+\infty)$.
 
+5. Pentru $a=2-4\sqrt3+2\sqrt{12}+1$, rezultatele elevilor Ana, Ioan, Dana și Vlad sunt, în aceeași ordine, $0$, $4$, $4\sqrt3$, $8\sqrt3$. Răspunsul corect este: a) Ana; b) Ioan; c) Dana; d) Vlad.
 
+6. Conform diagramei din figura de mai jos, afirmația „jumătate dintre elevi au obținut cel puțin nota 8” este: a) adevărată; b) falsă.
 
+   ![Diagrama problemei I.6](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-02.png)
 
-                                                                       NUMELE ȘI PRENUMELE
-       A    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                          SEMNĂTURA
-                                                                          PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+## Subiectul al II-lea — 30 de puncte
 
+Figurile subiectului sunt păstrate în [pagina 3](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-03.png) și [pagina 4](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-04.png).
 
-                                                                       NUMELE ȘI PRENUMELE
-       B    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                          SEMNĂTURA
-                                                                          PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+1. Punctele $A,B,C,D$ sunt coliniare, $BC=2AB$, $CD=2BC$, $AB=2\,\mathrm{cm}$, iar $M$ și $N$ sunt mijloacele segmentelor $AB$, respectiv $CD$. Determină $MN$.
 
+   a) $4\,\mathrm{cm}$; b) $5\,\mathrm{cm}$; c) $7\,\mathrm{cm}$; d) $9\,\mathrm{cm}$.
 
-                                                                       NUMELE ȘI PRENUMELE
-       C    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                          SEMNĂTURA
-                                                                          PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+2. Unghiurile adiacente $AOB$ și $BOC$ sunt complementare, $OM$ este bisectoarea lui $AOB$, iar $\angle BOC=3\angle AOM$. Determină $\angle AOB$.
 
+   a) $18^\circ$; b) $36^\circ$; c) $40^\circ$; d) $54^\circ$.
 
+3. În triunghiul $ABC$, $AB=10\,\mathrm{cm}$, $AC=12\,\mathrm{cm}$, iar bisectoarele din $B$ și $C$ se intersectează în $I$. Paralela prin $I$ la $BC$ intersectează $AB$, $AC$ în $D$, respectiv $E$. Determină perimetrul triunghiului $ADE$.
 
+   a) $11\,\mathrm{cm}$; b) $20\,\mathrm{cm}$; c) $22\,\mathrm{cm}$; d) $24\,\mathrm{cm}$.
 
-Probă scrisă la matematică                                                                                                         Simulare
-                                                              1
+4. În dreptunghiul $ABCD$, $AB=3\sqrt2\,\mathrm{cm}$, triunghiul $BEC$ este dreptunghic în $E$, $F$ este mijlocul lui $BC$, iar $EF=4\,\mathrm{cm}$. Aria trapezului $AFCD$ este: a) $6\sqrt2$; b) $12\sqrt2$; c) $18\sqrt2$; d) $24\sqrt2\,\mathrm{cm}^2$.
 
+5. Un cerc are centrul $O$ și raza $3\,\mathrm{cm}$. Punctul $P$ este la $6\,\mathrm{cm}$ de $O$, iar $PA$ și $PB$ sunt tangente. Măsura arcului mic $AB$ este: a) $60^\circ$; b) $90^\circ$; c) $120^\circ$; d) $150^\circ$.
 
+6. În piramida patrulateră regulată $VABCD$, $VA=AB$, $O=AC\cap BD$, iar $M$ este mijlocul lui $VB$. Măsura unghiului dreptelor $OM$ și $CD$ este: a) $0^\circ$; b) $30^\circ$; c) $45^\circ$; d) $60^\circ$.
 
-                                                     Ministerul Educației
-                                         Centrul Național de Politici și Evaluare în Educație
+## Subiectul al III-lea — 30 de puncte
 
+Figurile sunt păstrate în [paginile 7–9](assets/2024_EN_Matematica_Simulare_Subiect_LRO/pagina-07.png).
 
+1. Maria are cărți care, grupate câte $8$, câte $12$ sau câte $18$, lasă de fiecare dată restul $5$. a) Verifică dacă poate avea $53$ de cărți. b) Determină cel mai mic număr natural de trei cifre cu această proprietate.
 
+2. Se consideră
 
-                                                                      • Toate subiectele sunt obligatorii.
+$$E(x)=(2x+3)^2+(x-2)(x+2)-3(1-x)+2.$$
 
-                                                                      • Se acordă zece puncte din oficiu.
+   a) Arată că $E(0)=4$. b) Arată că $N=E(n)+6$ este divizibil cu $10$ pentru orice $n\in\mathbb N$.
 
-                                                                      • Timpul de lucru efectiv este de două ore.
+3. Se consideră numărul natural de trei cifre $\overline{abc}$, cu cifre nenule,
 
+$$a=5\left(\dfrac12+\dfrac13+\dfrac16\right)-\dfrac23:\dfrac13,$$
 
+$$b=3\cdot(3^2\cdot3^3\cdot3^4):9^4-25^4:5^7.$$
 
+   a) Arată că $a=3$. b) Determină $\overline{abc}$, știind că numerele $\overline{ac}$ și $\overline{cb}$ sunt direct proporționale cu $4$ și $3$.
 
-SUBIECTUL I
-Încercuiește litera corespunzătoare răspunsului corect.                                                      (30 de puncte)
+4. În triunghiul dreptunghic $ABC$, $\angle A=90^\circ$, $\angle B=40^\circ$, $BE$ este bisectoare, $E\in AC$. Perpendiculara din $A$ pe $BC$ intersectează $BC$ în $D$, iar cea din $E$ în $F$; $M=BE\cap AD$. a) Arată că $\angle EMA=70^\circ$. b) Arată că $AMFE$ este romb.
 
- 5p    1. Rezultatul calculului 52 − 2 \cdot ( 25 − 5) este:
+5. În paralelogramul $ABCD$, $AB=15\,\mathrm{cm}$, $P\in AB$, $PB=2AP$, iar $O=AC\cap BD$. Dacă $N=AC\cap DP$: a) arată că $AP=5\,\mathrm{cm}$; b) determină $\dfrac{[ANP]}{[DNO]}$.
 
-           a)    12
-           b)    92
-           c)    100
-           d)    1000
-
-                 x−2 y
- 5p    2. Dacă      =, atunci rezultatul calculului 3x − 5 y este:
-                  5  3
-           a)    0
-           b)    2
-           c)    5
-           d)    6
-
- 5p    3. Se consideră mulțimile A = \{1, 2, 3, 4, 5, 6\} și B = \{0, 2, 4,6,8\}. Intersecția mulțimilor A și B este mulțimea:
-
-           a)  \{0, 2, 4, 6, 8\}
-            b) \{0,1, 2, 3, 4, 5, 6, 8\}
-            c) \{2, 4, 6\}
-            d) \{0, 2, 4, 6\}
-
- 5p    4. Mulțimea soluțiilor reale ale inecuației 2 x + 2 \ge 4 este:
-
-           a)  ( −\infty, −1]
-            b) ( −\infty,1]
-            c) [ −1, +\infty )
-            d) [1,+\infty )
-
-
-Probă scrisă la matematică                                                                                      Simulare
-                                                                  2
-
-
-
-                                                    Ministerul Educației
-                                        Centrul Național de Politici și Evaluare în Educație
-
- 5p    5. Patru elevi, Ana, Ioan, Dana și Vlad determină numărul a = 2 − 4 3 + 2               ( 12 + 1). Rezultatele obținute de
-       cei patru elevi sunt prezentate în tabelul de mai jos:
-| Ana | Ioan | Dana | Vlad |
-| --- | --- | --- | --- |
-| 0 | 4 | 4 3 | 8 3 |
-        Conform informațiilor din tabel, elevul care a determinat corect numărul a este:
-          a) Ana
-          b) Ioan
-          c) Dana
-          d) Vlad
- 5p    6. În diagrama de mai jos sunt prezentate rezultatele obținute de elevii unei clase, la un test de matematicӑ.
-                                   7
-                                                                                 Număr de elevi
-                                   6
-                                   5
-                                   4
-                                   3
-                                   2
-                                   1
-                                   0
-                                       Nota 4 Nota 5 Nota 6 Nota 7 Nota 8 Nota 9 Nota 10
-
-
-       Afirmația: „Conform informațiilor din diagramă, jumătate din numărul elevilor acestei clase a obținut la testul
-       de matematică cel puțin nota 8.” este:
-           a) adevărată
-           b) falsă
-
-SUBIECTUL al II-lea
-Încercuiește litera corespunzătoare răspunsului corect.                                                           (30 de puncte)
-
- 5p    1. În figura alăturată punctele A, B, C și D sunt coliniare, în această ordine, astfel încât BC = 2 AB,
-       CD = 2BC și AB = 2cm. Punctul M este mijlocul segmentului AB și punctul N este mijlocul segmentului
-       CD. Lungimea segmentului MN este egală cu:
-          a) 4cm
-            b) 5cm
-            c) 7 cm
-            d) 9cm
-
- 5p    2. În figura alăturată sunt reprezentate unghiurile adiacente complementare AOB și BOC. Semidreapta OM
-       este bisectoarea unghiului AOB și BOC = 3 \cdot AOM. Măsura unghiului AOB este egală cu:
-
-
-            a)   18\^\circ
-            b)   36\^\circ
-            c)   40\^\circ
-            d)   54\^\circ
-
-
-
-
-Probă scrisă la matematică                                                                                            Simulare
-                                                                 3
-
-
-
-                                                   Ministerul Educației
-                                       Centrul Național de Politici și Evaluare în Educație
- 5p    3. În figura alăturată este reprezentat triunghiul ABC cu AB = 10cm și AC = 12cm. Semidreapta BI este
-       bisectoarea unghiului ABC și semidreapta CI este bisectoarea unghiului ACB. Paralela prin punctul I la
-       dreapta BC intersectează dreptele AB și AC în punctele D, respectiv E. Perimetrul triunghiului ADE este
-       egal cu:
-
-
-            a) 11cm
-            b) 20cm
-            c)   22cm
-            d) 24cm
-
-
- 5p    4. În figura alăturată este reprezentat dreptunghiul ABCD, cu AB = 3 2 cm și triunghiul BEC dreptunghic în
-        E. Punctul F este mijlocul segmentului BC și EF = 4cm.
-       Aria trapezului AFCD este egală cu:
-
-
-            a) 6 2 cm 2
-            b) 12 2 cm 2
-            c) 18 2 cm 2
-            d) 24 2 cm 2
-
-
-
-
- 5p    5. În figura alăturată este reprezentat cercul cu centrul în punctul O și raza egală cu 3 cm. Punctul P este situat
-       la o distanță de 6 cm de centrul cercului. Dreptele PA și PB sunt tangente la cerc în punctele A și B. Măsura
-       arcului mic AB este egală cu:
-
-
-
-            a)   60\^\circ
-            b)   90\^\circ
-            c)   120\^\circ
-            d)   150\^\circ
-
-
-
-
- 5p    6. În figura alăturată este reprezentată piramida patrulateră regulată VABCD cu baza ABCD, VA = AB și O
-       este punctul de intersecție a dreptelor AC și DB. Dacă punctul M este mijlocul segmentului VB, atunci
-       măsura unghiului dreptelor OM și CD este egală cu:
-
-
-
-            a)   0\^\circ
-            b)   30\^\circ
-            c)   45\^\circ
-            d)   60\^\circ
-
-
-
-
-Probă scrisă la matematică                                                                                    Simulare
-                                                                4
-
-
-
-                                                      Ministerul Educației
-                                          Centrul Național de Politici și Evaluare în Educație
-SUBIECTUL al III-lea
-Scrie rezolvările complete.                                                                                        (30 de puncte)
- 5p     1. Maria aranjează cărțile din bibliotecă și observă că dacă le grupează câte 8, câte 12 sau câte 18 îi rămân de
-        fiecare dată 5 cărți.
-        (2p) a) Verifică dacă Maria poate avea în bibliotecă 53 de cărți. Justifică răspunsul dat.
-
-
-
-
-        (3p) b) Determină numărul cărților din biblioteca Mariei, știind că acesta este cel mai mic număr natural de
-        trei cifre cu proprietățile din enunț.
-
-
-
-
-        2. Se consideră expresia E ( x ) = ( 2 x + 3) + ( x − 2 )( x + 2 ) − 3 (1 − x ) + 2, unde x este număr real.
-                                                      2
- 5p
-
-        (2p) a) Arată că E ( 0 ) = 4.
-
-
-
-
-        (3p) b) Arată că numărul N = E ( n ) + 6 este divizibil cu 10, pentru orice număr natural n.
-
-
-
-
-Probă scrisă la matematică                                                                                              Simulare
-                                                                   5
-
-
-
-                                                        Ministerul Educației
-                                            Centrul Național de Politici și Evaluare în Educație
-
-
-
-
-                                                                                    1 1 1 2 1
- 5p     3. Se consideră numărul natural abc cu a, b, c cifre nenule, unde a = 5 \cdot  + +  −: și
-                                                                                    2 3 6 3 3
-            (                )
-        b = 3 \cdot 32 \cdot 33 \cdot 34: 94 − 254: 57.
-
-        (2p) a) Arată că a = 3.
-
-
-
-
-        (3p) b) Determină numărul abc, știind că numerele ac și cb sunt direct proporționale cu numerele 4 și 3.
-
-
-
-
-Probă scrisă la matematică                                                                              Simulare
-                                                                     6
-
-
-
-                                                 Ministerul Educației
-                                     Centrul Național de Politici și Evaluare în Educație
- 5p     4. În figura alăturată este reprezentat triunghiul dreptunghic ABC, cu A = 90\^\circ și B = 40\^\circ. Semidreapta
-         BE este bisectoarea unghiului ABC, punctul E aparține segmentului AC. Perpendiculara din punctul A pe
-         BC intersectează dreapta BC în punctul D, iar perpendiculara din punctul E pe BC intersectează dreapta
-         BC în punctul F. Dreptele BE și AD se intersectează în punctul M.
-        (2p) a) Arată că măsura unghiului EMA este egală cu 70\^\circ.
-
-
-
-
-        (3p) b) Arată că patrulaterul AMFE este romb.
-
-
-
-
-Probă scrisă la matematică                                                                           Simulare
-                                                              7
-
-
-
-                                                  Ministerul Educației
-                                      Centrul Național de Politici și Evaluare în Educație
- 5p     5. În figura alăturată este reprezentat paralelogramul ABCD cu AB = 15 cm. Punctul P aparține laturii AB,
-        astfel încât PB = 2 AP și O este punctul de intersecție a dreptelor AC și BD.
-        (2p) a) Arată că lungimea segmentului AP este egală cu 5 cm.
-
-
-
-
-        (3p) b) Determină raportul dintre aria triunghiului ANP și aria triunghiului DNO, unde N este punctul de
-        intersecție a dreptelor AC și DP.
-
-
-
-
-Probă scrisă la matematică                                                                              Simulare
-                                                               8
-
-
-
-                                                 Ministerul Educației
-                                     Centrul Național de Politici și Evaluare în Educație
- 5p     6. În figura alăturată este reprezentat cubul ABCDA'B'C'D'. Punctele M, N, P și Q sunt mijloacele
-        segmentelor AA', A'D', DD', respectiv AD.
-         (2p) a) Arată că MN = PQ.
-
-
-
-
-        (3p) b) Știind că punctul T este mijlocul segmentului PQ, demonstrează că dreapta CT este paralelă cu
-        planul ( MNB ).
-
-
-
-
-Probă scrisă la matematică                                                                         Simulare
-                                                              9
-
-
-
-                                         Ministerul Educației
-                             Centrul Național de Politici și Evaluare în Educație
-
-
-
-
-Probă scrisă la matematică                                                          Simulare
-                                                     10
+6. În cubul $ABCDA'B'C'D'$, punctele $M,N,P,Q$ sunt mijloacele segmentelor $AA'$, $A'D'$, $DD'$, respectiv $AD$. a) Arată că $MN=PQ$. b) Dacă $T$ este mijlocul lui $PQ$, demonstrează că $CT\parallel(MNB)$.
