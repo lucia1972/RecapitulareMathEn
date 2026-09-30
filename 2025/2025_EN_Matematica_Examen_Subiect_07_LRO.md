@@ -1,343 +1,51 @@
-# 2025_EN_Matematica_Examen_Subiect_07_LRO
+# Evaluarea Națională 2025 — Matematică — Varianta 7
 
-*Transcriere automată din PDF; imaginile și figurile nu au fost analizate.*
+## Subiectul I — 30 de puncte
 
-Ministerul Educației și Cercetării
-                                     Centrul Național pentru Curriculum și Evaluare
+1. $4+12:2$ este: a) $6$; b) $8$; c) $10$; d) $12$.
 
-                                                                           Numele:…………………………………………...
-Prezenta lucrare conține ______ pagini
- ...........................................................................
-                                                                           Inițiala prenumelui tatălui: ……………............
-                                                                           Prenumele:……………………………...............
- ........................…………………....………………
-       EVALUAREA NAȚIONALĂ PENTRU                                          Școala de proveniență: ………........................
-         ABSOLVENȚII CLASEI a VIII-a...........................................................................
-                                                                           Centrul de examen:.........................................
-                Anul școlar 2024 – 2025
-                                                                           Localitatea: ………………………………...........
-                                                                           Județul: …………………………………….........
-                        Matematică                                             Nume și prenume asistent                         Semnătura
+2. Dacă $\dfrac a2=\dfrac23$, atunci $\dfrac a4$ este: a) $\dfrac13$; b) $\dfrac43$; c) $2$; d) $3$.
 
+3. Produsul numerelor $-2$ și $5$ este: a) $-10$; b) $-3$; c) $3$; d) $10$.
 
+4. Soluția ecuației $6x-2=1$ este: a) $-\dfrac13$; b) $-\dfrac12$; c) $\dfrac13$; d) $\dfrac12$.
 
+5. Pentru $a=3^2+4^2$ și $b=3^2\cdot4^2$, suma $a+b$ este calculată corect de: Ana — $17$, Maria — $19$, Dan — $37$, Vlad — $43$. Răspuns: a) Ana; b) Maria; c) Dan; d) Vlad.
 
-                                                                    NUMELE ȘI PRENUMELE
-       A    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                       SEMNĂTURA
-                                                                       PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+6. Conform diagramei, afirmația „5 elevi au obținut exact 80 de puncte” este: a) adevărată; b) falsă.
 
+## Subiectul al II-lea — 30 de puncte
 
-                                                                    NUMELE ȘI PRENUMELE
-       B    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                       SEMNĂTURA
-                                                                       PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+1. $B$ este mijlocul lui $AC$, iar $D$ este simetricul lui $B$ față de $C$. Dacă $AD=12\,\mathrm{cm}$, atunci $AC$ este: a) $3$; b) $4$; c) $6$; d) $8\,\mathrm{cm}$.
 
+2. Unghiurile adiacente $AOB$ și $BOC$ verifică $\angle BOC=2\angle AOB$, $\angle AOC=120^\circ$, iar $OM$ este bisectoarea lui $BOC$. Determină $\angle AOM$: a) $30^\circ$; b) $40^\circ$; c) $60^\circ$; d) $80^\circ$.
 
-                                                                    NUMELE ȘI PRENUMELE
-       C    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                       SEMNĂTURA
-                                                                       PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+3. Triunghiul isoscel $ABC$ are $\angle BAC=120^\circ$. Punctul $E\in BC$, $CE=4\,\mathrm{cm}$, iar $AB\perp AE$. Determină $BC$: a) $16$; b) $12$; c) $8$; d) $6\,\mathrm{cm}$.
 
+4. Dreptunghiul $ABCD$ are $AB=3BC$ și perimetrul $32\,\mathrm{cm}$. Aria este: a) $16$; b) $32$; c) $48$; d) $64\,\mathrm{cm}^2$.
 
+5. Triunghiul echilateral $ABC$ este înscris într-un cerc, iar $D$ aparține arcului mic $BC$. Determină $\angle BDC$: a) $60^\circ$; b) $90^\circ$; c) $120^\circ$; d) $150^\circ$.
 
+6. Secțiunea axială a conului circular drept este triunghiul echilateral $VAB$, cu $AB=6\,\mathrm{cm}$. Aria laterală este: a) $18\pi$; b) $27\pi$; c) $36\pi$; d) $54\pi\,\mathrm{cm}^2$.
 
-Probă scrisă la matematică                                                                                                        Varianta 7
-                                                           1
+## Subiectul al III-lea — 30 de puncte
 
+1. Prețul unui pix este $75\%$ din prețul unui caiet, iar prețul unui creion este $40\%$ din prețul unui pix. a) Verifică dacă 8 pixuri costă cât 5 caiete. b) Dacă 3 caiete, 4 pixuri și 5 creioane costă $45$ lei, determină prețul unui caiet.
 
+2. Pentru $x\ne-3,0,3$,
 
-                                                    Ministerul Educației și Cercetării
-                                             Centrul Național pentru Curriculum și Evaluare
+$$E(x)=\left(\dfrac2{x-3}-\dfrac3x+\dfrac2{x+3}\right):\dfrac1{x^2-3x}.$$
 
+   a) Arată că
 
+   $$\dfrac2{x-3}-\dfrac3x+\dfrac2{x+3}=\dfrac{x^2+27}{x(x-3)(x+3)}.$$
 
+   b) Demonstrează că $E(n)>6$ pentru orice $n\in\mathbb N$, $n\ne0,3$.
 
-                                                                   • Toate subiectele sunt obligatorii.
+3. $f:\mathbb R\to\mathbb R$, $f(x)=2x-4$. a) Arată că $f(2)-f(0)=4$. b) Graficul intersectează axele în $A$ și $B$, iar $C$ este simetricul lui $A$ față de axa $Oy$. Arată că $P_{ABC}=4(\sqrt5+1)$.
 
-                                                                   • Se acordă zece puncte din oficiu.
+4. În pătratul $ABCD$, triunghiul $ACE$ este echilateral, iar $D$ și $E$ sunt de aceeași parte a lui $AC$. Perimetrul pătratului este $48\,\mathrm{cm}$. a) Arată că $P_{ACE}=36\sqrt2\,\mathrm{cm}$. b) Arată că $d(D,AE)=3\sqrt2(\sqrt3-1)\,\mathrm{cm}$.
 
-                                                                   • Timpul de lucru efectiv este de două ore.
+5. În trapezul dreptunghic $ABCD$, $AB\parallel DC$, $\angle DAB=90^\circ$, $AB=8\,\mathrm{cm}$ și $AD=DC=4\,\mathrm{cm}$. $M$ este mijlocul lui $DC$, iar $P=AM\cap BD$. a) Arată că $BC=4\sqrt2\,\mathrm{cm}$. b) Calculează aria patrulaterului $MPBC$.
 
-
-
-
-SUBIECTUL I
-Încercuiește litera corespunzătoare răspunsului corect.                                                       (30 de puncte)
-
- 5p    1. Rezultatul calculului 4 + 12: 2 este egal cu:
-            a) 6
-            b) 8
-            c) 10
-            d) 12
-                         a 2         a
- 5p    2. Știind că       =, atunci   este egal cu:
-                         2 3         4
-                 1                           4
-            a)                          b)                               c) 2                          d) 3
-                 3                           3
- 5p    3. Produsul numerelor −2 și 5 este egal cu:
-            a) −10
-            b) −3
-            c) 3
-            d) 10
- 5p    4. Soluția ecuației 6 x − 2 = 1 este numărul:
-                     1                           1                             1                          1
-            a) −                          b) −                            c)                        d)
-                     3                           2                             3                          2
- 5p    5. Patru elevi, Ana, Maria, Dan și Vlad, calculează suma numerelor a = 32 + 42 și b = 32 ⋅ 42. Rezultatele
-       obținute sunt prezentate în tabelul de mai jos:
-| Ana | Maria | Dan | Vlad |
-| --- | --- | --- | --- |
-| 17 | 19 | 37 | 43 |
-        Conform informațiilor din tabel, rezultatul corect a fost obținut de:
-          a) Ana
-          b) Maria
-          c) Dan
-          d) Vlad
-
-Probă scrisă la matematică                                                                                        Varianta 7
-                                                                   2
-
-
-
-                                                    Ministerul Educației și Cercetării
-                                             Centrul Național pentru Curriculum și Evaluare
- 5p    6. În diagrama de mai jos, sunt prezentate rezultatele obținute de elevii participanți la un concurs.
-
-                        Număr de elevi
-                        7
-                        6
-                        5
-                        4
-                        3
-                        2
-                        1
-                        0
-                                 40          50          60          70           80              90         100
-                             de puncte   de puncte   de puncte   de puncte    de puncte       de puncte   de puncte
-
-       Afirmația „Conform informațiilor din diagramă, 5 dintre elevii participanți au obținut exact 80 de puncte.”
-       este:
-            a) adevărată
-            b) falsă
-
-SUBIECTUL al II-lea
-Încercuiește litera corespunzătoare răspunsului corect.                                                               (30 de puncte)
-
-  5p    1. În figura alăturată, punctul B este mijlocul segmentului AC și punctul D este simetricul punctului B față
-        de C. Știind că AD = 12 cm, lungimea segmentului AC este egală cu:
-             a) 3 cm
-             b) 4 cm
-             c) 6 cm
-             d) 8 cm
-
-  5p    2. În figura alăturată sunt reprezentate unghiurile adiacente AOB
-        și BOC, ∢BOC = 2 ⋅ ∢AOB. Măsura unghiului AOC este egală
-        cu 120° și semidreapta OM este bisectoarea unghiului BOC.
-        Măsura unghiului AOM este egală cu:
-
-
-             a)   30°
-             b)   40°
-             c)   60°
-             d)   80°
-  5p    3. În figura alăturată este reprezentat triunghiul isoscel ABC, cu ∢BAC = 120°. Punctul E aparține
-        segmentului BC, astfel încât CE = 4cm, iar dreptele AB și AE sunt perpendiculare. Lungimea segmentului
-         BC este egală cu:
-
-
-             a) 16 cm
-             b) 12 cm
-             c) 8 cm
-             d) 6 cm
-
-
-
-Probă scrisă la matematică                                                                                                 Varianta 7
-                                                                   3
-
-
-
-                                                 Ministerul Educației și Cercetării
-                                          Centrul Național pentru Curriculum și Evaluare
-  5p    4. În figura alăturată este reprezentat dreptunghiul ABCD, cu AB = 3 ⋅ BC. Perimetrul dreptunghiului ABCD
-        este egal cu 32 cm. Aria dreptunghiului ABCD este egală cu:
-
-
-             a) 16 cm 2
-             b) 32 cm 2
-             c)   48 cm 2
-             d) 64 cm 2
-
-  5p    5. În figura alăturată este reprezentat triunghiul echilateral ABC, înscris în
-        cercul de centru O. Punctul D aparține arcului mic BC. Măsura unghiului
-        BDC este egală cu:
-
-
-             a)   60°
-             b)   90°
-             c)   120°
-             d)   150°
-
-
-  5p    6. În figura alăturată este reprezentat conul circular drept cu secțiunea
-        axială triunghiul echilateral VAB, cu AB = 6 cm. Aria laterală a conului
-        este egală cu:
-
-             a) 18π cm 2
-             b) 27π cm 2
-             c) 36π cm 2
-             d) 54π cm 2
-
-
-
-SUBIECTUL al III-lea
-Scrieți rezolvările complete.                                                                            (30 de puncte)
-
-  5p     1. Ana a cumpărat de la o librărie caiete, pixuri și creioane. Prețul unui pix este egal cu 75% din prețul unui
-         caiet, iar prețul unui creion este egal cu 40% din prețul unui pix.
-         (2p) a) Este posibil ca prețul a opt pixuri să fie egal cu prețul a cinci caiete? Justifică răspunsul dat.
-
-
-
-
-Probă scrisă la matematică                                                                                        Varianta 7
-                                                                4
-
-
-
-                                                  Ministerul Educației și Cercetării
-                                           Centrul Național pentru Curriculum și Evaluare
-
-         (3p) b) Dacă Ana a plătit pentru trei caiete, patru pixuri și cinci creioane suma de 45 de lei, determină prețul
-         unui caiet.
-
-
-
-
-                                             2     3   2       1
-  5p     2. Se consideră expresia E ( x ) =       − +      : 2, unde x este număr real, x ≠ −3, x ≠ 0 și
-                                             x − 3 x x + 3  x − 3x
-         x≠3.
-                               2   3   2        x 2 + 27
-         (2p) a) Arată că         − +     =, pentru orice număr real x, x ≠ −3, x ≠ 0 și x ≠ 3.
-                             x − 3 x x + 3 x ( x − 3)( x + 3)
-
-
-
-
-         (3p) b) Demonstrează că E (n) > 6, pentru orice număr natural n, n ≠ 0, n ≠ 3.
-
-
-
-
-Probă scrisă la matematică                                                                                     Varianta 7
-                                                                 5
-
-
-
-                                                    Ministerul Educației și Cercetării
-                                             Centrul Național pentru Curriculum și Evaluare
-
-
-
-
-  5p     3. Se consideră funcția f: ℝ → ℝ, f ( x ) = 2 x − 4.
-         (2p) a) Arată că f ( 2 ) − f ( 0 ) = 4.
-
-
-
-
-         (3p) b) Reprezentarea geometrică a graficului funcției f intersectează axele Ox și Oy ale sistemului de axe
-         ortogonale xOy în punctele A, respectiv B. Punctul C este simetricul punctului A față de axa Oy. Arată
-         că perimetrul triunghiului ABC este egal cu 4         ( 5 + 1).
-
-
-
-
-Probă scrisă la matematică                                                                                Varianta 7
-                                                                   6
-
-
-
-                                               Ministerul Educației și Cercetării
-                                        Centrul Național pentru Curriculum și Evaluare
-  5p     4. În figura alăturată este reprezentat pătratul ABCD și triunghiul echilateral ACE, astfel încât punctele D
-         și E sunt situate de aceeași parte a dreptei AC. Perimetrul pătratului ABCD este egal cu 48cm.
-         (2p) a) Arată că perimetrul triunghiului ACE este egal cu 36 2 cm.
-
-
-
-
-         (3p) b) Arată că distanța de la punctul D la dreapta AE este egală cu 3 2       ( 3 − 1) cm.
-
-
-
-
-Probă scrisă la matematică                                                                                  Varianta 7
-                                                              7
-
-
-
-                                              Ministerul Educației și Cercetării
-                                       Centrul Național pentru Curriculum și Evaluare
-
-  5p     5. În figura alăturată este reprezentat trapezul dreptunghic ABCD, cu AB DC, ∢DAB = 90°, AB = 8 cm
-         și AD = DC = 4cm. Punctul M este mijlocul segmentului DC și P este punctul de intersecție a dreptelor
-         AM și BD.
-         (2p) a) Arată că BC = 4 2 cm.
-
-
-
-
-         (3p) b) Calculează aria patrulaterului MPBC.
-
-
-
-
-Probă scrisă la matematică                                                                           Varianta 7
-                                                             8
-
-
-
-                                                Ministerul Educației și Cercetării
-                                         Centrul Național pentru Curriculum și Evaluare
-  5p      6. În figura alăturată este reprezentat cubul ABCDA′B ′C ′D ′, cu AB = 8 cm. Dreptele AC și BD se
-          intersectează în punctul O, iar dreptele A′B și AB′ se intersectează în punctul E. Punctul F este mijlocul
-          segmentului CC ′.
-          (2p) a) Arată că volumul cubului ABCDA′B ′C ′D ′ este egal cu 512 cm 3.
-
-
-
-
-          (3p) b) Demonstrează că dreptele FO și DE sunt perpendiculare.
-
-
-
-
-Probă scrisă la matematică                                                                                  Varianta 7
-                                                               9
-
-
-
-                                    Ministerul Educației și Cercetării
-                             Centrul Național pentru Curriculum și Evaluare
-
-
-
-
-Probă scrisă la matematică                                                    Varianta 7
-                                                  10
+6. În cubul $ABCDA'B'C'D'$, $AB=8\,\mathrm{cm}$. $O=AC\cap BD$, $E=A'B\cap AB'$, iar $F$ este mijlocul lui $CC'$. a) Arată că volumul este $512\,\mathrm{cm}^3$. b) Demonstrează că $FO\perp DE$.
