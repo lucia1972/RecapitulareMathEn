@@ -1,351 +1,47 @@
-# 2024_EN_Matematica_Rezerva_Examen_Subiect_02_LRO
+# Evaluarea Națională 2024 — Matematică — Rezerva — Varianta 2
 
-*Transcriere automată din PDF; imaginile și figurile nu au fost analizate.*
+## Subiectul I — 30 de puncte
 
-Ministerul Educației
-                                     Centrul Național de Politici și Evaluare în Educație
+1. $14-14:(4-2)$ este: a) $0$; b) $7$; c) $14$; d) $21$.
 
+2. Dacă $\dfrac6a=\dfrac b2$, $a\ne0$, atunci $\dfrac{ab}{ab+1}$ este: a) $\dfrac{12}{13}$; b) $1$; c) $\dfrac{12}{11}$; d) $12$.
 
+3. Divizorii naturali ai lui $15$ sunt: a) $\{3,5\}$; b) $\{0,3,5,15\}$; c) $\{1,3,5,15\}$; d) $\{3,5,15\}$.
 
-Prezenta lucrare conține ______ pagini                                   Numele:………………………………………….....
- ...........................................................................
-                                                                         Inițiala prenumelui tatălui: ……………............
-                                                                         Prenumele:……………………………..................
- .....................…………………....………………....
-       EVALUAREA NAȚIONALĂ PENTRU                                        Școala de
-         ABSOLVENȚII CLASEI a VIII-a                                     proveniență:...................................................…
-                                                                         ….........................................................................
-                Anul școlar 2023 – 2024............................................................................
-                                                                         Centrul de examen:.........................................
+4. Soluțiile ecuației $2x^2=8$ sunt: a) $\{-2\}$; b) $\{-2,2\}$; c) $\{2\}$; d) $\{4\}$.
 
-                        Matematică                                       Localitatea: ………………………………...........
-                                                                         Județul: …………………………………….........
-                                                                              Nume și prenume asistent                        Semnătura
+5. Pentru $a=\dfrac23$, $b=0,5$, $c=0,1(3)$, $d=\dfrac14$, ordonarea corectă este: a) George; b) Anca; c) Marius; d) Alina.
 
+6. Ioana și Maria au împreună $28$ de ani. Afirmația „Peste 3 ani vor avea împreună $31$ de ani.” este: a) adevărată; b) falsă.
 
+## Subiectul al II-lea — 30 de puncte
 
+1. $AB<BC<CD$, $BC=7\,\mathrm{cm}$, iar lungimile sunt numere naturale consecutive; $M$ este mijlocul lui $AB$. Determină $MD$: a) $10$; b) $13$; c) $18$; d) $21\,\mathrm{cm}$.
 
-                                                                       NUMELE ȘI PRENUMELE
-       A    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                            SEMNĂTURA
-                                                                          PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+2. Dreptele $a\parallel b$, $CD\perp AB$, $D\in AB$, $\angle DAE=67^\circ$. Determină $\angle DCB$: a) $23^\circ$; b) $33^\circ$; c) $67^\circ$; d) $113^\circ$.
 
+3. Triunghiul $ABC$ este dreptunghic în $A$, $\angle C=75^\circ$, $E\in AC$, iar $BC$ este bisectoarea lui $\angle ABE$. Determină $\angle BEC$: a) $15^\circ$; b) $30^\circ$; c) $60^\circ$; d) $105^\circ$.
 
-                                                                       NUMELE ȘI PRENUMELE
-       B    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                            SEMNĂTURA
-                                                                          PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+4. În dreptunghiul $ABCD$, $AC=20\,\mathrm{cm}$, iar diagonalele formează $\angle AOB=30^\circ$. Aria dreptunghiului este: a) $20$; b) $25$; c) $100$; d) $200\,\mathrm{cm}^2$.
 
+5. În cercul cu diametrul $DB=50\,\mathrm{cm}$, coarda $AC=30\,\mathrm{cm}$ este perpendiculară pe $DB$ în $E$. Determină $OE$: a) $20$; b) $15$; c) $12$; d) $10\,\mathrm{cm}$.
 
-                                                                       NUMELE ȘI PRENUMELE
-       C    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                            SEMNĂTURA
-                                                                          PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+6. Un con circular drept are $VO=8\,\mathrm{cm}$ și $VA=10\,\mathrm{cm}$. Volumul este: a) $60\pi$; b) $96\pi$; c) $120\pi$; d) $360\pi\,\mathrm{cm}^3$.
 
+## Subiectul al III-lea — 30 de puncte
 
+1. Pentru un concert s-au vândut $225$ de bilete: adulți la $25$ lei și copii la $20$ lei, încasarea fiind $5150$ lei. a) Verifică dacă s-au vândut $205$ bilete pentru adulți. b) Determină numărul biletelor pentru copii.
 
+2. Pentru $x\ne-2,2$,
 
-Probă scrisă la matematică                                                                                                        Varianta 2
-                                                              1
+$$E(x)=\left(\dfrac{2}{x-2}+\dfrac{x}{x+2}\right):\dfrac{x^2+4}{x^2+4x+4}.$$
 
+   a) Arată că $\dfrac2{x-2}+\dfrac{x}{x+2}=\dfrac{x^2+4}{(x-2)(x+2)}$. b) Determină numerele naturale $n\ne2$ pentru care $N=E(n)-1$ este natural.
 
+3. $f:\mathbb R\to\mathbb R$, $f(x)=x+2$. a) Arată că $2f(1)=f(4)$. b) Graficul intersectează axele în $A$ și $B$. Determină distanța de la $M(4,0)$ la dreapta $AB$.
 
-                                                      Ministerul Educației
-                                          Centrul Național de Politici și Evaluare în Educație
+4. În pătratul $ABCD$, $M\in CD$, prin $M$ se duce paralela la $AD$, intersectând $AB$ în $N$. Bisectoarele unghiurilor $ANM$ și $MNB$ intersectează $AD$, respectiv $BC$, în $P$, respectiv $Q$. a) Arată că $\angle PNQ=90^\circ$. b) Demonstrează că $P,O,Q$ sunt coliniare, unde $O=AC\cap BD$.
 
+5. În trapezul $ABCD$, $AB\parallel CD$, $AB=2AD=4\,\mathrm{cm}$, $\angle BAD=90^\circ$, $\angle ABC=30^\circ$. În exterior se construiesc pătratele $ABEF$ și $BCHG$. a) Arată că $BC=4\,\mathrm{cm}$. b) Demonstrează că $AEGC$ este trapez isoscel.
 
-
-
-                                                                       • Toate subiectele sunt obligatorii.
-
-                                                                       • Se acordă zece puncte din oficiu.
-
-                                                                       • Timpul de lucru efectiv este de două ore.
-
-
-
-
-SUBIECTUL I
-Încercuiește litera corespunzătoare răspunsului corect.                                                       (30 de puncte)
-
- 5p    1. Rezultatul calculului 14 − 14: ( 4 − 2 ) este:
-            a) 0
-            b) 7
-            c) 14
-            d) 21
- 5p              6 b                              a⋅b
-       2. Dacă      =, a ≠ 0, atunci raportul         este egal cu:
-                 a 2                            a ⋅b +1
-                  12
-            a)
-                  13
-            b)   1
-                 12
-            c)
-                 11
-            d)   12
- 5p    3. Mulțimea divizorilor naturali ai numărului 15 este:
-            a) {3,5}
-            b) {0,3,5,15}
-            c) {1,3,5,15}
-            d) {3,5,15}
- 5p    4. Mulțimea soluțiilor reale ale ecuației 2 x 2 = 8 este:
-            a) {−2}
-            b) {−2, 2}
-            c) {2}
-            d) {4}
-
-
-
-Probă scrisă la matematică                                                                                     Varianta 2
-                                                                   2
-
-
-
-                                                    Ministerul Educației
-                                        Centrul Național de Politici și Evaluare în Educație
- 5p                                                                                            2
-       5. Patru elevi, George, Anca, Marius și Alina, ordonează crescător numerele a =, b = 0,5, c = 0,1( 3) și
-                                                                                               3
-            1
-       d=. Răspunsurile date de cei patru elevi sunt prezentate în tabelul de mai jos:
-| 4 |  |  |  |
-| --- | --- | --- | --- |
-| George | Anca | Marius | Alina |
-| d <c<b<a | c<d <a<b | c<d <b<a | d <b<a<c |
-       Dintre cei patru elevi, cel care a răspuns corect este:
-            a) George
-            b) Anca
-            c) Marius
-            d) Alina
-
- 5p    6. În prezent, Ioana și Maria au împreună 28 de ani. Afirmația,,Peste 3 ani, Ioana și Maria vor avea împreună
-       31 de ani.” este:
-            a) adevărată
-            b) falsă
-
-SUBIECTUL al II-lea
-Încercuiește litera corespunzătoare răspunsului corect.                                                    (30 de puncte)
-
- 5p    1. În figura alăturată punctele A, B, C și D sunt coliniare, în această ordine, astfel încât AB < BC < CD și
-        BC = 7 cm. Lungimile segmentelor AB, BC și CD, exprimate în centimetri, sunt trei numere naturale
-       consecutive, iar punctul M este mijlocul segmentului AB. Lungimea segmentului MD este egală cu:
-            a) 10 cm
-            b) 13 cm
-            c) 18 cm
-            d) 21 cm
-
- 5p    2. În figura alăturată sunt reprezentate dreptele paralele a și b. Punctele A și E aparțin dreptei a, iar punctele
-        B și C aparțin dreptei b. Dreapta CD este perpendiculară pe dreapta AB, punctul D aparține segmentului
-        AB, iar măsura unghiului DAE este egală cu 67°. Măsura unghiului DCB este egală cu:
-
-
-
-
-            a) 23°
-            b) 33°
-            c)   67°
-            d) 113°
-
-
-
-
-Probă scrisă la matematică                                                                                   Varianta 2
-                                                                 3
-
-
-
-                                                   Ministerul Educației
-                                       Centrul Național de Politici și Evaluare în Educație
- 5p    3. În figura alăturată este reprezentat triunghiul ABC, dreptunghic în A, cu măsura unghiului C egală cu 75°.
-       Punctul E aparține semidreptei AC astfel încât semidreapta BC este bisectoarea unghiului ABE. Măsura
-       unghiului BEC este egală cu:
-
-
-
-            a) 15°
-            b) 30°
-            c)   60°
-            d) 105°
-
-
-
- 5p    4. În figura alăturată este reprezentat dreptunghiul ABCD, cu AC = 20 cm și O punctul de intersecție a
-       dreptelor AC și BD. Măsura unghiului AOB este egală cu 30°. Aria dreptunghiului ABCD este egală cu:
-
-            a) 20 cm 2
-            b) 25 cm 2
-            c) 100 cm 2
-            d) 200 cm 2
-
-
- 5p    5. În figura alăturată este reprezentat cercul cu centrul în punctul O. Diametrul DB are lungimea egală cu
-       50 cm. Coarda AC are lungimea egală cu 30 cm și este perpendiculară pe diametrul BD. Dacă E este punctul
-       de intersecție a dreptelor AC și BD, atunci lungimea segmentului OE este egală cu:
-
-
-
-            a) 20 cm
-            b) 15cm
-            c) 12cm
-            d) 10cm
-
-
-
-
- 5p    6. În figura alăturată este reprezentat un con circular drept cu înălțimea VO = 8cm și secțiunea axială triunghiul
-       VAB, cu VA = 10 cm. Volumul conului este egal cu:
-
-
-            a) 60π cm3
-            b) 96π cm3
-            c) 120π cm3
-            d) 360π cm3
-
-
-
-Probă scrisă la matematică                                                                                  Varianta 2
-                                                                4
-
-
-
-                                                       Ministerul Educației
-                                           Centrul Național de Politici și Evaluare în Educație
-SUBIECTUL al III-lea
-Scrie rezolvările complete.                                                                                   (30 de puncte)
-
- 5p     1. Pentru un concert s-au vândut în total 225 de bilete pentru adulți și copii. Prețul unui bilet pentru adulți a
-        fost de 25 de lei, iar prețul unui bilet pentru copii a fost de 20 de lei. Suma obținută din vânzarea biletelor a
-        fost de 5150 de lei.
-        (2p) a) Verifică dacă au fost vândute 205 bilete pentru adulți. Justifică răspunsul dat.
-
-
-
-
-        (3p) b) Determină numărul biletelor pentru copii care au fost vândute.
-
-
-
-
- 5p                                         2       x      x2 + 4
-        2. Se consideră expresia E ( x ) =       +      :, unde x este număr real, x ≠ −2 și x ≠ 2.
-                                            x − 2 x + 2  x2 + 4x + 4
-                               2     x        x2 + 4
-        (2p) a) Arată că          +     =, pentru orice număr real x, x ≠ −2 și x ≠ 2.
-                             x − 2 x + 2 ( x − 2 )( x + 2 )
-
-
-
-
-Probă scrisă la matematică                                                                                     Varianta 2
-                                                                    5
-
-
-
-                                                       Ministerul Educației
-                                           Centrul Național de Politici și Evaluare în Educație
-
-        (3p) b) Determină numerele naturale n, n ≠ 2, pentru care N = E ( n ) − 1 este număr natural.
-
-
-
-
-        3. Se consideră funcția f: ℝ → ℝ, f ( x ) = x + 2.
- 5p
-        (2p) a) Arată că 2 ⋅ f (1) = f ( 4 ).
-
-
-
-
-        (3p) b) Reprezentarea geometrică a graficului funcției f intersectează axele Ox și Oy ale sistemului de axe
-        ortogonale xOy în punctele A, respectiv B. Determină distanța de la punctul M ( 4,0) la dreapta AB.
-
-
-
-
-Probă scrisă la matematică                                                                                Varianta 2
-                                                                    6
-
-
-
-                                                   Ministerul Educației
-                                       Centrul Național de Politici și Evaluare în Educație
- 5p     4. În figura alăturată este reprezentat pătratul ABCD. Punctul M aparține laturii CD, iar paralela prin M la
-        dreapta AD intersectează latura AB în punctul N. Bisectoarea unghiului ANM intersectează latura AD în
-        punctul P, iar bisectoarea unghiului MNB intersectează latura BC în punctul Q.
-        (2p) a) Arată că măsura unghiului PNQ este egală cu 90°.
-
-
-
-
-        (3p) b) Demonstrează că punctele P, O și Q sunt coliniare, unde O este punctul de intersecție a dreptelor
-        AC și BD.
-
-
-
-
-Probă scrisă la matematică                                                                               Varianta 2
-                                                                7
-
-
-
-                                                  Ministerul Educației
-                                      Centrul Național de Politici și Evaluare în Educație
- 5p     5. În figura alăturată este reprezentat trapezul ABCD cu AB CD, AB = 2 ⋅ AD = 4cm, măsura unghiului
-        BAD egală cu 90° și măsura unghiului ABC egală cu 30°. În exteriorul trapezului se construiesc pătratele
-        ABEF și BCHG.
-        (2p) a) Arată că BC = 4cm.
-
-
-
-
-        (3p) b) Demonstrează că patrulaterul AEGC este trapez isoscel.
-
-
-
-
-Probă scrisă la matematică                                                                           Varianta 2
-                                                               8
-
-
-
-                                                   Ministerul Educației
-                                       Centrul Național de Politici și Evaluare în Educație
- 5p     6. În figura alăturată este reprezentat cubul ABCDA ' B ' C ' D ' cu AB = 8cm și O punctul de intersecție a
-        dreptelor AC și BD.
-        (2p) a) Calculează volumul cubului ABCDA ' B ' C ' D '.
-
-
-
-
-        (3p) b) Determină distanța de la punctul O la planul ( CMD ), unde punctul M este mijlocul segmentului
-        A' B '.
-
-
-
-
-Probă scrisă la matematică                                                                            Varianta 2
-                                                                9
-
-
-
-                                         Ministerul Educației
-                             Centrul Național de Politici și Evaluare în Educație
-
-
-
-
-Probă scrisă la matematică                                                          Varianta 2
-                                                     10
+6. În cubul $ABCDA'B'C'D'$, $AB=8\,\mathrm{cm}$, iar $O=AC\cap BD$. a) Calculează volumul. b) Determină distanța de la $O$ la planul $(CMD)$, unde $M$ este mijlocul lui $A'B'$.
