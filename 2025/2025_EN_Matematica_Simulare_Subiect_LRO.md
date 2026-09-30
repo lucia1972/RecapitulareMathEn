@@ -1,344 +1,239 @@
-# 2025_EN_Matematica_Simulare_Subiect_LRO
+# Evaluarea Națională 2025 — Matematică
 
-*Transcriere automată din PDF; imaginile și figurile nu au fost analizate.*
+## Simulare — Subiect
 
-Ministerul Educației și Cercetării
-                                     Centrul Național de Politici și Evaluare în Educație
+**Anul școlar 2024–2025**
 
+*Transcriere și formatare manuală după PDF-ul original. Figurile sunt păstrate separat în folderul de imagini al acestei variante.*
 
+## SUBIECTUL I
 
-Prezenta lucrare conține ______ pagini                                   Numele:………………………………………….....
- .........................................................................
-                                                                         Inițiala prenumelui tatălui: ……………............
-                                                                         Prenumele:……………………………..................
- .....................…………………....………………
-       EVALUAREA NAȚIONALĂ PENTRU                                        Școala de
-         ABSOLVENȚII CLASEI a VIII-a                                     proveniență:...................................................…
-                                                                         ….........................................................................
-                Anul școlar 2024 – 2025......................
-                                                                         Centrul de examen:.........................................
+**Încercuiește litera corespunzătoare răspunsului corect. (30 de puncte)**
 
-                        Matematică                                       Localitatea: ………………………………...........
-                                                                         Județul: …………………………………….........
-                                                                              Nume și prenume asistent                       Semnătura
+### 1. (5p)
 
+Rezultatul calculului $25-2\cdot5$ este egal cu:
 
+**a)** $10$  
+**b)** $15$  
+**c)** $35$  
+**d)** $115$
 
+### 2. (5p)
 
-                                                                       NUMELE ȘI PRENUMELE
-       A    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                          SEMNĂTURA
-                                                                          PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+Numărul care reprezintă $10\%$ din $50$ este egal cu:
 
+**a)** $40$  
+**b)** $10$  
+**c)** $5$  
+**d)** $1$
 
-                                                                       NUMELE ȘI PRENUMELE
-       B    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                          SEMNĂTURA
-                                                                          PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+### 3. (5p)
 
+Dimineața, temperatura aerului a fost de $-1^\circ\text{C}$, iar la prânz a fost de $+2^\circ\text{C}$. Temperatura măsurată la prânz a fost mai mare decât temperatura măsurată dimineața cu:
 
-                                                                       NUMELE ȘI PRENUMELE
-       C    COMISIA DE EVALUARE      NOTA (CIFRE ȘI LITERE)                                                          SEMNĂTURA
-                                                                          PROFESORULUI
-            EVALUATOR I
-            EVALUATOR II
-            EVALUATOR III
-            EVALUATOR IV
-            NOTA FINALĂ
+**a)** $-3^\circ\text{C}$  
+**b)** $-1^\circ\text{C}$  
+**c)** $1^\circ\text{C}$  
+**d)** $3^\circ\text{C}$
 
+### 4. (5p)
 
+Soluția ecuației
 
+$$
+x+\frac{1}{4}=\frac{1}{2}
+$$
 
-Probă scrisă la matematică                                                                                                         Simulare
-                                                              1
+este:
 
+**a)** $\frac{1}{6}$  
+**b)** $\frac{1}{4}$  
+**c)** $\frac{1}{2}$  
+**d)** $\frac{3}{4}$
 
----
+### 5. (5p)
 
-                                               Ministerul Educației și Cercetării
-                                       Centrul Național de Politici și Evaluare în Educație
+Patru elevi, Andreea, Iris, Mihai și Radu, calculează media aritmetică a numerelor
 
+$$
+a=4-\sqrt{2}
+\qquad\text{și}\qquad
+b=4+\sqrt{2}.
+$$
 
+Rezultatele sunt prezentate în tabel:
 
-
-                                                                    • Toate subiectele sunt obligatorii.
-
-                                                                    • Se acordă zece puncte din oficiu.
-
-                                                                    • Timpul de lucru efectiv este de două ore.
-
-
-
-
-SUBIECTUL I
-
-Încercuiește litera corespunzătoare răspunsului corect.                                                    (30 de puncte)
-
- 5p 1. Rezultatul calculului 25 − 2  5 este egal cu:
-           a)    10
-           b)    15
-           c)    35
-           d)    115
- 5p 2. Numărul care reprezintă 10% din 50 este egal cu:
-           a)    40
-           b)    10
-           c)    5
-           d)    1
- 5p 3. Într-o zi, dimineața, temperatura aerului a fost de −1 C, iar la prânz a fost de +2 C. În acea zi, temperatura
-    măsurată la prânz a fost mai mare decât temperatura măsurată dimineața cu:
-           a) −3 C
-           b) −1 C
-           c) 1 C
-           d) 3 C
-
-                              1 1
- 5p 4. Soluția ecuației x +    = este:
-                              4 2
-                 1                          1                                 1                      3
-            a)                         b)                                c)                     d)
-                 6                          4                                 2                      4
-
-
-
-
-Probă scrisă la matematică                                                                                   Simulare
-                                                                2
-
-
----
-
-                                               Ministerul Educației și Cercetării
-                                       Centrul Național de Politici și Evaluare în Educație
- 5p 5. Patru elevi, Andreea, Iris, Mihai și Radu, calculează media aritmetică a numerelor a = 4 − 2 și b = 4 + 2.
-    Rezultatele calculelor făcute de cei patru elevi sunt evidențiate în tabelul de mai jos:
 | Andreea | Iris | Mihai | Radu |
-| --- | --- | --- | --- |
-| 4 | 2 | 2 | 14 |
-       Dintre cei patru elevi, cel care a calculat corect media aritmetică a numerelor a și b este:
-           a)   Andreea
-           b)   Iris
-           c)   Mihai
-           d)   Radu
- 5p 6. În diagrama de mai jos sunt prezentate informații despre numărul de elevi care au făcut opțiuni pentru
-    practicarea sporturilor de tip fotbal, baschet, tenis și șah, în cadrul unui club sportiv școlar.
+|:---:|:---:|:---:|:---:|
+| $4$ | $\sqrt{2}$ | $2$ | $\sqrt{14}$ |
 
+Rezultatul corect a fost obținut de:
 
+**a)** Andreea  
+**b)** Iris  
+**c)** Mihai  
+**d)** Radu
 
+### 6. (5p)
 
-       Afirmația „Conform informațiilor din diagramă, în acest club sportiv școlar, numărul elevilor care au făcut
-       opțiuni pentru practicarea fotbalului este egal cu numărul elevilor care au făcut opțiuni pentru practicarea
-       șahului.” este:
-           a) adevărată
-           b) falsă
+În diagrama de mai jos sunt prezentate numerele de elevi care au optat pentru fotbal, baschet, tenis și șah.
 
- SUBIECTUL al II-lea
-Încercuiește litera corespunzătoare răspunsului corect.                                               (30 de puncte)
+![Diagrama problemei I.6](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-I-6.png)
 
- 5p 1. În figura alăturată sunt reprezentate punctele distincte și coliniare A, B, C și D, în această ordine.
-    Segmentele AB, BC și CD sunt congruente, iar lungimea segmentului AD este egală cu 24 cm. Lungimea
-    segmentului CD este egală cu:
-           a)   4 cm
-           b)   6 cm
-           c)   8 cm
-           d)   12 cm
- 5p 2. În figura alăturată sunt reprezentate unghiurile adiacente
-    suplementare AOB și BOC. Știind că        BOC = 60 și că
-    semidreapta OD este opusă semidreptei OB, măsura unghiului
-    DOC este egală cu:
+Afirmația „Numărul elevilor care au optat pentru fotbal este egal cu numărul elevilor care au optat pentru șah” este:
 
+**a)** adevărată  
+**b)** falsă
 
-           a)   160
-           b)   120
-           c)   60
-           d)   30
+## SUBIECTUL al II-lea
 
-Probă scrisă la matematică                                                                               Simulare
-                                                                3
+**Încercuiește litera corespunzătoare răspunsului corect. (30 de puncte)**
 
+### 1. (5p)
 
----
+Punctele distincte și coliniare $A$, $B$, $C$ și $D$ sunt în această ordine. Segmentele $AB$, $BC$ și $CD$ sunt congruente, iar $AD=24\text{ cm}$. Lungimea segmentului $CD$ este egală cu:
 
-                                                 Ministerul Educației și Cercetării
-                                         Centrul Național de Politici și Evaluare în Educație
- 5p 3. În figura alăturată este reprezentat triunghiul echilateral ABC.
-    Semidreapta BE este bisectoarea unghiului ABC și punctul D este
-    mijlocul segmentului BC. Dreptele AD și BE se intersectează în punctul
-    P. Măsura unghiului DPE este egală cu:
+![Figura problemei II.1](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-II-1.png)
 
-           a)   30
-           b)   60
-           c)   120
-           d)   150
- 5p 4. În figura alăturată este reprezentat trapezul isoscel ABCD, cu AB CD, CD = 40 cm și AB = 100 cm.
-    Lungimea liniei mijlocii a trapezului ABCD este egală cu:
+**a)** $4\text{ cm}$  
+**b)** $6\text{ cm}$  
+**c)** $8\text{ cm}$  
+**d)** $12\text{ cm}$
 
-           a) 20 cm
-           b) 50 cm
-           c)   70 cm
-           d) 140 cm
+### 2. (5p)
 
- 5p 5. În figura alăturată este reprezentat cercul de centru O. Punctele A și B
-    sunt situate pe cerc, astfel încât măsura unghiului AOB este egală cu 60 și
-     AB = 12 cm. Aria discului de centru O și rază OA este egală cu:
-           a) 288 cm 2
-           b) 144 cm 2
-           c) 36 cm 2
-           d) 24 cm 2
+În figura alăturată sunt reprezentate unghiurile adiacente suplementare $AOB$ și $BOC$. Știind că $\angle BOC=60^\circ$ și că semidreapta $OD$ este opusă semidreptei $OB$, măsura unghiului $DOC$ este egală cu:
 
- 5p 6. În figura alăturată este reprezentat cubul ABCDEFGH. Lungimea
-    segmentului EG este egală cu 4 2 cm. Suma lungimilor tuturor
-      muchiilor cubului este egală cu:
+![Figura problemei II.2](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-II-2.png)
 
+**a)** $160^\circ$  
+**b)** $120^\circ$  
+**c)** $60^\circ$  
+**d)** $30^\circ$
 
+### 3. (5p)
 
-           a) 96 cm
-           b) 72 cm
-           c)   48 cm
-           d) 16 cm
+În figura alăturată este reprezentat triunghiul echilateral $ABC$. Semidreapta $BE$ este bisectoarea unghiului $ABC$, iar punctul $D$ este mijlocul segmentului $BC$. Dreptele $AD$ și $BE$ se intersectează în punctul $P$. Măsura unghiului $DPE$ este egală cu:
 
-  SUBIECTUL al III-lea
-  Scrie rezolvările complete.                                                                        (30 de puncte)
+![Figura problemei II.3](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-II-3.png)
 
- 5p    1. Un bunic dorește să împartă suma de 126 de lei celor trei nepoți ai săi: Ana, Bogdan și Costin. Ana va primi
-       jumătate din suma pe care o vor primi împreună Bogdan și Costin.
-       (2p) a) Verifică dacă Ana poate primi de la bunicul ei 40 de lei. Justifică răspunsul dat.
+**a)** $30^\circ$  
+**b)** $60^\circ$  
+**c)** $120^\circ$  
+**d)** $150^\circ$
 
+### 4. (5p)
 
+În figura alăturată este reprezentat trapezul isoscel $ABCD$, cu $AB\parallel CD$, $CD=40\text{ cm}$ și $AB=100\text{ cm}$. Lungimea liniei mijlocii a trapezului $ABCD$ este egală cu:
 
+![Figura problemei II.4](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-II-4.png)
 
-Probă scrisă la matematică                                                                               Simulare
-                                                                  4
+**a)** $20\text{ cm}$  
+**b)** $50\text{ cm}$  
+**c)** $70\text{ cm}$  
+**d)** $140\text{ cm}$
 
+### 5. (5p)
 
----
+În figura alăturată este reprezentat cercul de centru $O$. Punctele $A$ și $B$ sunt situate pe cerc, astfel încât $\angle AOB=60^\circ$ și $AB=12\text{ cm}$. Aria discului de centru $O$ și rază $OA$ este egală cu:
 
-                                                 Ministerul Educației și Cercetării
-                                         Centrul Național de Politici și Evaluare în Educație
-       (3p) b) Determină suma pe care o va primi Bogdan de la bunicul său, știind că este cu 10% mai mare decât suma
-       pe care o va primi Costin de la bunicul său.
+![Figura problemei II.5](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-II-5.png)
 
+**a)** $288\pi\text{ cm}^2$  
+**b)** $144\pi\text{ cm}^2$  
+**c)** $36\pi\text{ cm}^2$  
+**d)** $24\pi\text{ cm}^2$
 
+### 6. (5p)
 
+În figura alăturată este reprezentat cubul $ABCDEFGH$. Lungimea segmentului $EG$ este egală cu $4\sqrt{2}\text{ cm}$. Suma lungimilor tuturor muchiilor cubului este egală cu:
 
-                                           x −1 x +1              4
- 5p    2. Se consideră expresia E ( x ) =        +       − 2: 2, unde x este număr real, x  −2, x  −1 și x  1.
-                                           x + 1   x − 1      x  + x−2
-       (2p) a) Arată că ( x − 1)( x + 2 ) = x 2 + x − 2, pentru orice număr real x.
+![Figura problemei II.6](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-II-6.png)
 
+**a)** $96\text{ cm}$  
+**b)** $72\text{ cm}$  
+**c)** $48\text{ cm}$  
+**d)** $16\text{ cm}$
 
+## SUBIECTUL al III-lea
 
+**Scrie rezolvările complete. (30 de puncte)**
 
-       (3p) b) Arată că numărul N = E (2)  E (3) ...  E (9)  E (10) este natural.
+### 1. (5p)
 
+Un bunic dorește să împartă suma de $126$ de lei celor trei nepoți ai săi: Ana, Bogdan și Costin. Ana va primi jumătate din suma pe care o vor primi împreună Bogdan și Costin.
 
+**a) (2p)** Verifică dacă Ana poate primi $40$ de lei. Justifică răspunsul dat.
 
+**b) (3p)** Determină suma pe care o va primi Bogdan, știind că este cu $10\%$ mai mare decât suma pe care o va primi Costin.
 
-Probă scrisă la matematică                                                                                     Simulare
-                                                                  5
+### 2. (5p)
 
+Se consideră expresia
 
----
+$$
+E(x)=
+\left(
+\frac{x-1}{x+1}
++\frac{x+1}{x-1}
+-2
+\right)
+:\frac{4}{x^2+x-2},
+$$
 
-                                               Ministerul Educației și Cercetării
-                                       Centrul Național de Politici și Evaluare în Educație
+unde $x$ este număr real, $x\ne-2$, $x\ne-1$ și $x\ne1$.
 
+**a) (2p)** Arată că
 
+$$
+(x-1)(x+2)=x^2+x-2,
+$$
 
+pentru orice număr real $x$.
 
- 5p    3. În sistemul de axe ortogonale xOy se consideră punctele A ( 2,0 ) și B ( 6,3).
-       (2p) a) Arată că AB = 5.
+**b) (3p)** Arată că numărul
 
+$$
+N=E(2)\cdot E(3)\cdot\ldots\cdot E(9)\cdot E(10)
+$$
 
+este natural.
 
+### 3. (5p)
 
-       (3p) b) Calculează distanța de la punctul M (5,0) la dreapta AB.
+În sistemul de axe ortogonale $xOy$ se consideră punctele $A(2,0)$ și $B(6,3)$.
 
+**a) (2p)** Arată că $AB=5$.
 
+**b) (3p)** Calculează distanța de la punctul $M(5,0)$ la dreapta $AB$.
 
+### 4. (5p)
 
-Probă scrisă la matematică                                                                    Simulare
-                                                                6
+În figura alăturată este reprezentat pătratul $ABCD$, cu $AB=10\text{ cm}$. Punctul $M$ este mijlocul segmentului $AD$, iar punctul $N$ este proiecția punctului $B$ pe dreapta $CM$.
 
+**a) (2p)** Arată că aria triunghiului $MBC$ este egală cu $50\text{ cm}^2$.
 
----
+**b) (3p)** Arată că perimetrul triunghiului $MAN$ este mai mic decât $22\text{ cm}$.
 
-                                              Ministerul Educației și Cercetării
-                                      Centrul Național de Politici și Evaluare în Educație
- 5p    4. În figura alăturată este reprezentat pătratul ABCD, cu AB = 10 cm. Punctul M este mijlocul segmentului
-        AD și punctul N este proiecția punctului B pe dreapta CM.
-       (2p) a) Arată că aria triunghiului MBC este egală cu 50 cm2.
+![Figura problemei III.4](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-III-4.png)
 
+### 5. (5p)
 
+În figura alăturată este reprezentat triunghiul $ABC$, dreptunghic în $A$, cu $AB=9\text{ cm}$ și $AC=12\text{ cm}$. Punctul $M$ se află pe latura $AB$, $BM=3\text{ cm}$. Paralela prin $M$ la dreapta $AC$ intersectează dreapta $BC$ în punctul $P$, punctul $G$ este centrul de greutate al triunghiului $ABC$, iar $E$ este punctul de intersecție al dreptelor $AG$ și $BC$.
 
+**a) (2p)** Arată că $BC=15\text{ cm}$.
 
-       (3p) b) Arată că perimetrul triunghiului MAN este mai mic decât 22 cm.
+**b) (3p)** Calculează aria patrulaterului $MGEP$.
 
+![Figura problemei III.5](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-III-5.png)
 
+### 6. (5p)
 
+În figura alăturată este reprezentat tetraedrul regulat $ABCD$, cu $AB=20\text{ cm}$, iar punctele $M$ și $N$ sunt mijloacele muchiilor $AB$, respectiv $CD$.
 
-Probă scrisă la matematică                                                                            Simulare
-                                                               7
+**a) (2p)** Arată că $MN=10\sqrt{2}\text{ cm}$.
 
+**b) (3p)** Determină măsura unghiului dreptelor $MN$ și $BD$.
 
----
-
-                                              Ministerul Educației și Cercetării
-                                      Centrul Național de Politici și Evaluare în Educație
- 5p    5. În figura alăturată este reprezentat triunghiul ABC, dreptunghic în A, cu AB = 9 cm și AC = 12 cm. Punctul
-        M se află pe latura AB, BM = 3 cm. Paralela prin M la dreapta AC intersectează dreapta BC în punctul P,
-       punctul G este centrul de greutate a triunghiului ABC și E este punctul de intersecție a dreptelor AG și BC.
-       (2p) a) Arată că lungimea segmentului BC este egală cu 15 cm.
-
-
-
-
-       (3p) b) Calculează aria patrulaterului MGEP.
-
-
-
-
-Probă scrisă la matematică                                                                                Simulare
-                                                               8
-
-
----
-
-                                             Ministerul Educației și Cercetării
-                                     Centrul Național de Politici și Evaluare în Educație
- 5p    6. În figura alăturată este reprezentat un tetraedru regulat ABCD, cu AB = 20 cm, iar punctele M și N sunt
-       mijloacele muchiilor AB, respectiv CD.
-       (2p) a) Arată că lungimea segmentului MN este egală cu 10 2 cm.
-
-
-
-
-       (3p) b) Determină măsura unghiului dreptelor MN și BD.
-
-
-
-
-Probă scrisă la matematică                                                                             Simulare
-                                                              9
-
-
----
-
-                                     Ministerul Educației și Cercetării
-                             Centrul Național de Politici și Evaluare în Educație
-
-
-
-
-Probă scrisă la matematică                                                          Simulare
-                                                     10
-
-
----
+![Figura problemei III.6](assets/2025_EN_Matematica_Simulare_Subiect_LRO/figura-III-6.png)
