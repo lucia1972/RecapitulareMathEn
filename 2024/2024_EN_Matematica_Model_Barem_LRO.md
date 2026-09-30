@@ -1,151 +1,72 @@
-# 2024_EN_Matematica_Model_Barem_LRO
+# Evaluarea Națională 2024 — Matematică — Model — Barem
 
-*Transcriere automată din PDF; imaginile și figurile nu au fost analizate.*
+Se acordă 10 puncte din oficiu.
 
-Ministerul Educației
-                                         Centrul Național de Politici și Evaluare în Educație
-                     EVALUAREA NAȚIONALĂ PENTRU ABSOLVENȚII CLASEI a VIII-a
-                                      Anul școlar 2023 - 2024
-                                           Matematică
-                                                                                                             Model
-                                         BAREM DE EVALUARE ȘI DE NOTARE
-     •  Se acordă zece puncte din oficiu. Nota finală se calculează prin împărțirea la zece a punctajului total
-        acordat pentru lucrare.
-     SUBIECTUL I ȘI SUBIECTUL al II-lea:
-     • Se punctează doar rezultatul, astfel: pentru fiecare răspuns se acordă fie cinci puncte, fie zero puncte.
-     • Nu se acordă punctaje intermediare.
-     SUBIECTUL al III-lea
-     •    Pentru orice soluție corectă, chiar dacă este diferită de cea din barem, se acordă punctajul corespunzător.
-     •    Nu se acordă fracțiuni de punct, dar se pot acorda punctaje intermediare pentru rezolvări parțiale, în
-          limitele punctajului indicat în barem.
-     SUBIECTUL I                                                                                     (30 de puncte)
-1.        b)                                                                                                       5p
-2.        c)                                                                                                       5p
-3.        b)                                                                                                       5p
-4.        d)                                                                                                       5p
-5.        a)                                                                                                       5p
-6.        b)                                                                                                       5p
+## Răspunsuri
 
-     SUBIECTUL al II-lea                                                                            (30 de puncte)
- 1.       a)                                                                                                       5p
- 2.       d)                                                                                                       5p
- 3.       b)                                                                                                       5p
- 4.       c)                                                                                                       5p
- 5.       b)                                                                                                       5p
- 6.       c)                                                                                                       5p
-     SUBIECTUL al III-lea                                                                            (30 de puncte)
+- Subiectul I: **1-b, 2-c, 3-b, 4-d, 5-a, 6-b**.
+- Subiectul al II-lea: **1-a, 2-d, 3-b, 4-c, 5-b, 6-c**.
 
-     1.         30     20  24 x
-          a)       x−    \cdot x =  este suma cheltuită de Mihai în a doua zi, unde x reprezintă întreaga
-               100    100  100                                                                        1p
-          sumă de bani
-           24 x 25 x 1
-                   = \cdot x, de unde obținem că Mihai nu a cheltuit în a doua zi un sfert din întreaga sumă
-           100 100 4                                                                                       1p
-          de bani
-           x 6x  6x        
-          b) +     +  + 20  + 44 = x                                                                             1p
-           5 25  25        
-        17 x
-             + 64 = x                                                                                              1p
-         25
-        x = 200 de lei                                                                                             1p
-     2. a) x − 2 + 3 =                 x
-                                           −
-                                              2
-                                                 +
-                                                       3
-                                                             =                                                     1p
-           9 + 3 x x + 3 x + 3 x 3 ( x + 3) x + 3 x ( x + 3)
-                          2
+## Subiectul al III-lea
 
+### 1. Cheltuieli
 
-               x 2 − 6 x + 9 ( x − 3)
-                                     2
-          =                 =, pentru orice număr real x, x \ne −3 și x \ne 0                            1p
-                3 x ( x + 3) 3 x ( x + 3)
+Notăm totalul cu $x$. În a doua zi se cheltuie
 
-     Probă scrisă la matematică                                                                           Model
-     Barem de evaluare și de notare
-                                                           Pagina 1 din 2
+$$\dfrac{30}{100}\cdot\dfrac{80}{100}x=\dfrac{24}{100}x.$$
 
+Deoarece $\dfrac{24}{100}x<\dfrac{25}{100}x$, suma nu este un sfert din total. Pentru total:
 
+$$\dfrac{x}{5}+\dfrac{6x}{25}+\left(\dfrac{6x}{25}+20\right)+44=x,$$
 
-                                               Ministerul Educației
-                                 Centrul Național de Politici și Evaluare în Educație
+de unde $x=200$ lei.
 
-                x 2 + 9 − 6 x ( x − 3)
-                                            2
-         x 3
-    b)    + −2=              =                                                                                    1p
-         3 x         3x           3x
+### 2. Expresia
 
-     E ( x) =
-               ( x − 3)
-                        2
-                          \cdot
-                               3x
-                                      =
-                                         1
- , pentru orice număr real x, x \ne −3, x \ne 0, x \ne 3                  1p
-              3 x ( x + 3) ( x − 3) 2   x+3
-                 5
-    5 \cdot E ( n) =   este număr natural, deci n + 3 = 1 sau n + 3 = 5 și, cum n este număr natural,
-               n+3                                                                                1p
-   obținem n = 2
-3. a) f ( −2 ) = 0                                                                                1p
-    2023 \cdot f ( −2 ) = 2023 \cdot 0 = 0                                                                                1p
-    b) A ( −2,0 ) și B ( 0, 2 ) sunt punctele de intersecție a graficului funcției f cu axele Ox, respectiv Oy   1p
-    În triunghiul dreptunghic isoscel AOB, OM mediană, deci OM bisectoare \Longrightarrow MOB = 45\^\circ                            1p
-     NP ⊥ Ox, P \in Ox \Longrightarrow P ( 3,0 ), iar       MON = MOB + BOP + PON = 45\^\circ + 90\^\circ + 45\^\circ = 180\^\circ,
-                                                                                                                  1p
-    de unde rezultă că punctele N, O și M sunt coliniare
-4. a) În triunghiul dreptunghic ABC, AC = AB2 + BC 2 = 122 + 92 =                                                1p
-    = 225 = 15cm                                                                                                  1p
-    b) QN AB CD, PM BC AD și QAM = PCN = 90\^\circ, deci AMEQ și CNEP sunt
-                                                                                                                  1p
-    dreptunghiuri
-                                 PE PC EC 1                                                                       1p
-    PC AM \Longrightarrow PEC MEA \Longrightarrow              =     =    =
-                                 ME AM EA 2
-    ME = 2 \cdot PE, AM = 2 \cdot PC \Longrightarrow AMEQ = AM \cdot ME = 4 \cdot PC \cdot PE = 4 \cdot CNEP                                           1p
-5. a) În triunghiul dreptunghic ABC, AC = AB 2 + BC 2 = 4 2 cm                                                   1p
-     PABC = AB + AC + BC = 2 2 + 4 2 + 2 6 =2 2 3 + 3 cm     (       )                                           1p
-                                                                          AB
-    b) EM mediană în triunghiul dreptunghic isoscel AEB \Longrightarrow EM =                = 2 cm, BE bisectoarea
-                                                                            2                                     1p
-     ABC, EM ⊥ AB, M \in AB și EN ⊥ BC, N \in BC, de unde obținem EM = EN = 2 cm
-                                        AB \cdot BC AB \cdot EM BC \cdot EN
-     AEC = ABC − AEB − BEC =
-                                            2
-                                                  −
-                                                         2
-                                                                −
-                                                                      2
-                                                                                    (
-                                                                           = 2 3 − 1 cm 2  )                      1p
+a)
 
-            AC \cdot EP                                                  3 −1     6− 2
-     AEC =, unde EP ⊥ AC, P \in AC, de unde EP =              =        cm                             1p
-                 2                                                     2       2
-6. a) t = 2 \cdot ( AB \cdot AA + BC \cdot AA + AB \cdot BC ) = 2 \cdot (16 + 8 + 8) =                                              1p
+$$\dfrac{x-2}{9+3x}+\dfrac{3}{x+3}+\dfrac{2}{3x}=\dfrac{(x-3)^2}{3x(x+3)}.$$
 
-    = 2 \cdot 32 = 64cm2                                                                                              1p
-    b) BCD  BCC \Longrightarrow BD = BC                                                                              1p
-                                                         BC 2
-    În triunghiul BCD dreptunghic, BN =                         și în triunghiul BC C dreptunghic,
-                                                         BD
-                                                                                                                  1p
-            BC 2
-     BP =, de unde BN = BP
-             BC
-                            BN BP
-    În triunghiul BDC,       =      \Longrightarrow NP DC, DC \subset ( ACD ) \Longrightarrow NP               ( ACD )                      1p
-                            BD BC
+b) Deoarece
 
+$$\dfrac{x}{3}+\dfrac{3}{x}-2=\dfrac{(x-3)^2}{3x},$$
 
+rezultă $E(x)=\dfrac1{x+3}$. Condiția $5E(n)=\dfrac5{n+3}\in\mathbb N$ dă $n+3\in\{1,5\}$, iar $n\in\mathbb N$ implică $n=2$.
 
+### 3. Funcția
 
-Probă scrisă la matematică                                                                              Model
-Barem de evaluare și de notare
-                                                   Pagina 2 din 2
+a) $f(-2)=0$, deci $2023f(-2)=0$.
+
+b) $A(-2,0)$ și $B(0,2)$. Mijlocul este $M(-1,1)$. Dreapta $OM$ are ecuația $y=-x$, iar $N(3,-3)$ aparține acesteia; prin urmare $N,O,M$ sunt coliniare.
+
+### 4. Dreptunghiul
+
+a)
+
+$$AC=\sqrt{AB^2+BC^2}=\sqrt{12^2+9^2}=15\,\mathrm{cm}.$$
+
+b) Patrulaterele $AMEQ$ și $CNEP$ sunt dreptunghiuri. Din asemănarea triunghiurilor $PEC$ și $MEA$ rezultă $ME=2PE$ și $AM=2PC$, astfel
+
+$$[AMEQ]=AM\cdot ME=4\cdot PC\cdot PE=4[CNEP].$$
+
+### 5. Triunghiurile dreptunghice
+
+a)
+
+$$AC=\sqrt{(2\sqrt2)^2+(2\sqrt6)^2}=4\sqrt2,$$
+
+deci
+
+$$P_{ABC}=2\sqrt2+4\sqrt2+2\sqrt6=2\sqrt2(3+\sqrt3)\,\mathrm{cm}.$$
+
+b) În triunghiul dreptunghic isoscel $AEB$, mediana pe ipotenuză are lungimea $EM=AB/2=\sqrt2$. Folosind ariile triunghiurilor, rezultă
+
+$$d(E,AC)=\dfrac{3-\sqrt3}{2}\,\mathrm{cm}.$$
+
+### 6. Paralelipipedul
+
+a)
+
+$$S=2(AB\cdot AA'+BC\cdot AA'+AB\cdot BC)=2(16+8+8)=64\,\mathrm{cm}^2.$$
+
+b) Triunghiurile dreptunghice $B'C'D'$ și $B'C'C$ sunt congruente, deci $B'D'=B'C$. Din teorema catetei rezultă $B'N=B'P$. Prin teorema lui Thales, $NP\parallel D'C$, iar $D'C\subset(ACD')$; deci $NP\parallel(ACD')$.
