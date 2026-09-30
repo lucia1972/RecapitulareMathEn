@@ -39,13 +39,13 @@ SUBIECTUL al II-lea                                                             
 SUBIECTUL al III-lea                                                                                (30 de puncte)
 
   1. a) Restul împărțirii lui 53 la 18 este 17                                                                     1p
-     17  5, deci Maria nu poate avea în bibliotecă 53 de cărți                                                   1p
+     17 \ne 5, deci Maria nu poate avea în bibliotecă 53 de cărți                                                   1p
        b) n = 8c1 + 5 = 12c2 + 5 = 18c3 + 5, unde n este numărul cărților din bibliotecă, iar c1, c2 și c3
                                                                                                                    1p
        sunt numere naturale
        n − 5 este multiplu comun al numerelor 8, 12 și 18, deci n = 72k + 5, unde k este număr natural          1p
        Cum n este cel mai mic număr natural de trei cifre cu proprietățile din enunț, obținem n = 149              1p
-  2. a) E ( 0 ) = ( 2  0 + 3)2 + ( 0 − 2 )( 0 + 2 ) − 3 (1 − 0 ) + 2 =                                            1p
+  2. a) E ( 0 ) = ( 2 \cdot 0 + 3)2 + ( 0 − 2 )( 0 + 2 ) − 3 (1 − 0 ) + 2 =                                            1p
        = 9− 4−3+ 2 = 4                                                                                             1p
        b) E ( n ) + 6 = 4n + 12n + 9 + n − 4 − 3 + 3n + 2 + 6 = 5n + 15n + 10, pentru orice număr natural n
                             2                2                            2
@@ -59,49 +59,48 @@ SUBIECTUL al III-lea                                                            
                                                             Pagina 1 din 2
 
 
----
 
                                                Ministerul Educației
                                  Centrul Național de Politici și Evaluare în Educație
 3.              3 2 1 2 3
-     a) a = 5   + +  −  =                                                                            1p
+     a) a = 5 \cdot  + +  − \cdot =                                                                            1p
                 6 6 6 3 1
      =5−2 =3                                                                                             1p
                                                                         3c cb
-     b) 3c și cb sunt direct proporționale cu numerele 4 și 3            =                              1p
+     b) 3c și cb sunt direct proporționale cu numerele 4 și 3 \Longrightarrow           =                              1p
                                                                         4   3
      b = 310: 38 − 58: 57 = 9 − 5 = 4                                                                  1p
-     37c = 74  c = 2, de unde obținem abc = 342                                                        1p
-4. a)     ABE = EBC = 20, deci        BMD = 70                                                        1p
-        BMD = EMA = 70                                                                                  1p
-     b) EF ⊥ BC, AD ⊥ BC  EF AD                                                                        1p
-        AEB = 70  AEM = EMA  EAM este isoscel, deci AE = AM                                          1p
-     EFB  EAB  EF = EA și, cum AM = EA și EF AM, obținem că AMFE este romb                          1p
+     37c = 74 \Longrightarrow c = 2, de unde obținem abc = 342                                                        1p
+4. a)     ABE = EBC = 20\^\circ, deci        BMD = 70\^\circ                                                        1p
+        BMD = EMA = 70\^\circ                                                                                  1p
+     b) EF ⊥ BC, AD ⊥ BC \Longrightarrow EF AD                                                                        1p
+        AEB = 70\^\circ \Longrightarrow AEM = EMA \Longrightarrow EAM este isoscel, deci AE = AM                                          1p
+     EFB  EAB \Longrightarrow EF = EA și, cum AM = EA și EF AM, obținem că AMFE este romb                          1p
 5. a) AB = 3 AP                                                                                          1p
      3 AP = 15, de unde obținem AP = 5 cm                                                               1p
                             AN NP AP 1            AC              AC
-     b) ANP CND            =  =  =, deci AN =    și, cum AO =, obținem AN = NO
+     b) ANP CND \Longrightarrow           =  =  =, deci AN =    și, cum AO =, obținem AN = NO
                             CN ND CD 3             4               2                                     1p
 
                                                                                         PS NP 1
-     PS ⊥ AN, S  AN și DV ⊥ NO, V  NO și, cum SNP                 VND, obținem     =  =           1p
+     PS ⊥ AN, S \in AN și DV ⊥ NO, V \in NO și, cum SNP                 VND, obținem     =  =           1p
                                                                                         DV ND 3
-               AN  PS
+               AN \cdot PS
         ANP     2       AN PS 1
-             =         =     =                                                                          1p
+             =         =   \cdot  =                                                                          1p
         DNO
-               NO  DV NO DV 3
+               NO \cdot DV NO DV 3
                  2
-6. a) MN este linie mijlocie în triunghiul AA' D '  MN = AD '                                           1p
+6. a) MN este linie mijlocie în triunghiul AA' D ' \Longrightarrow MN = AD '                                           1p
                                                              2
                                                       AD '
-   PQ este linie mijlocie în triunghiul ADD '  PQ =, deci MN = PQ                                1p
+   PQ este linie mijlocie în triunghiul ADD ' \Longrightarrow PQ =, deci MN = PQ                                1p
                                                        2
-     b) MN AD ', PQ AD '  MN PQ                                                                        1p
-     MPCB este paralelogram, deci MB PC și, cum MN  MB = M , MN, MB  ( MNB ),
+     b) MN AD ', PQ AD ' \Longrightarrow MN PQ                                                                        1p
+     MPCB este paralelogram, deci MB PC și, cum MN \cap MB = M , MN, MB \subset ( MNB ),
                                                                                                          1p
-     PQ  PC = P, PQ, PC  ( PQC ), obținem ( MNB )            ( PQC )
-     CT  ( PQC )  CT      ( MNB )                                                                      1p
+     PQ \cap PC = P, PQ, PC \subset ( PQC ), obținem ( MNB )            ( PQC )
+     CT \subset ( PQC ) \Longrightarrow CT      ( MNB )                                                                      1p
 
 
 
@@ -109,6 +108,3 @@ SUBIECTUL al III-lea                                                            
 Probă scrisă la matematică                                                                    Simulare
 Barem de evaluare și de notare
                                                    Pagina 2 din 2
-
-
----

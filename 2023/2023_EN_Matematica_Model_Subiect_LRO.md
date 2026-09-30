@@ -58,7 +58,6 @@ Probă scrisă la matematică                                                   
                                                               1
 
 
----
 
                                                         Ministerul Educației
                                           Centrul Național de Politici și Evaluare în Educație
@@ -112,7 +111,6 @@ Probă scrisă la matematică                                                   
                                                                    2
 
 
----
 
                                                       Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
@@ -143,20 +141,20 @@ Probă scrisă la matematică                                                   
               d) 16 cm
 
     5p 2. În figura alăturată sunt reprezentate unghiurile opuse la vârf AOC și BOD. Măsura unghiului AOB
-       este egală cu 120. Măsura unghiului BOD este egală cu:
+       este egală cu 120\^\circ. Măsura unghiului BOD este egală cu:
 
 
 
-              a)   30
+              a)   30\^\circ
               b)   60°
-              c)   90
-              d)   120
+              c)   90\^\circ
+              d)   120\^\circ
 
 
 
 
     5p 3. În figura alăturată este reprezentat triunghiul ABC, dreptunghic în A, cu
-       BC = 6 cm și măsura unghiului B este egală cu 60. Lungimea
+       BC = 6 cm și măsura unghiului B este egală cu 60\^\circ. Lungimea
           segmentului AB este egală cu:
 
 
@@ -171,27 +169,26 @@ Probă scrisă la matematică                                                   
                                                                  3
 
 
----
 
                                                      Ministerul Educației
                                        Centrul Național de Politici și Evaluare în Educație
     5p 4. În figura alăturată este reprezentat paralelogramul ABCD, cu AD = BD și cu măsura unghiului DAB
-       este egală cu 45. Măsura unghiului CBD este egală
+       este egală cu 45\^\circ. Măsura unghiului CBD este egală
        cu:
 
 
-              a)   135
-              b)   90
-              c)   60
-              d)   45
+              a)   135\^\circ
+              b)   90\^\circ
+              c)   60\^\circ
+              d)   45\^\circ
 
     5p 5. În figura alăturată este reprezentat triunghiul AMB, cu AB = 8 2 cm, înscris într-un cerc care are
           raza egală cu 8cm. Măsura unghiului AMB este egală cu:
 
-              a)   15
-              b)   30
-              c)   45
-              d)   60
+              a)   15\^\circ
+              b)   30\^\circ
+              c)   45\^\circ
+              d)   60\^\circ
 
 
     5p 6. În figura alăturată este reprezentat un con circular drept care are secțiunea axială un triunghi echilateral
@@ -219,7 +216,6 @@ Probă scrisă la matematică                                                   
                                                                 4
 
 
----
 
                                                         Ministerul Educației
                                           Centrul Național de Politici și Evaluare în Educație
@@ -229,16 +225,16 @@ Probă scrisă la matematică                                                   
 
 
    5p                                          2    x  x2 + 4
-         2. Se consideră expresia E ( x ) =       +   : 2, unde x  \ −2, − 1, 2.
+         2. Se consideră expresia E ( x ) =       +   : 2, unde x \in \ −2, − 1, 2.
                                                x−2 x+2 x −x−2
                                       x +1
-         (2p) a) Arată că E ( x ) =, pentru orice x           \ −2, − 1, 2.
+         (2p) a) Arată că E ( x ) =, pentru orice x \in          \ −2, − 1, 2.
                                       x+2
 
 
 
 
-         (3p) b) Determină numerele întregi a pentru care E ( a ) .
+         (3p) b) Determină numerele întregi a pentru care E ( a ) \in.
 
 
 
@@ -247,12 +243,11 @@ Probă scrisă la matematică                                                   
                                                                    5
 
 
----
 
                                                         Ministerul Educației
                                           Centrul Național de Politici și Evaluare în Educație
    5p 3. Se consideră funcția f:        →, f ( x) = x + 2.
-         (2p) a) Rezolvă ecuația 3  f ( x ) = −4 − 2 x.
+         (2p) a) Rezolvă ecuația 3 \cdot f ( x ) = −4 − 2 x.
 
 
 
@@ -268,18 +263,17 @@ Probă scrisă la matematică                                                   
                                                                    6
 
 
----
 
                                                    Ministerul Educației
                                      Centrul Național de Politici și Evaluare în Educație
    5p 4. În figura alăturată este reprezentat pătratul ABCD cu AB = 4cm și triunghiul echilateral ABP.
-         (2p) a) Arată că măsura unghiului DPB este egală cu 45.
+         (2p) a) Arată că măsura unghiului DPB este egală cu 45\^\circ.
 
 
 
 
                                          (        )
-         (3p) b) Demonstrează că AM = 4 2 − 3 cm, unde M  = AB  PD.
+         (3p) b) Demonstrează că AM = 4 2 − 3 cm, unde M  = AB \cap PD.
 
 
 
@@ -288,7 +282,6 @@ Probă scrisă la matematică                                                   
                                                               7
 
 
----
 
                                                     Ministerul Educației
                                       Centrul Național de Politici și Evaluare în Educație
@@ -308,7 +301,6 @@ Probă scrisă la matematică                                                   
                                                                8
 
 
----
 
                                                    Ministerul Educației
                                      Centrul Național de Politici și Evaluare în Educație
@@ -318,8 +310,8 @@ Probă scrisă la matematică                                                   
 
 
 
-         (3p) b) Demonstrează că dreapta OO este perpendiculară pe planul ( ADC ), unde O = AC  BD și
-         O = BC   BC.
+         (3p) b) Demonstrează că dreapta OO este perpendiculară pe planul ( ADC ), unde O = AC \cap BD și
+         O = BC  \cap BC.
 
 
 
@@ -328,7 +320,6 @@ Probă scrisă la matematică                                                   
                                                               9
 
 
----
 
                                            Ministerul Educației
                              Centrul Național de Politici și Evaluare în Educație
@@ -338,6 +329,3 @@ Probă scrisă la matematică                                                   
 
 Probă scrisă la matematică                                                          Model
                                                      10
-
-
----

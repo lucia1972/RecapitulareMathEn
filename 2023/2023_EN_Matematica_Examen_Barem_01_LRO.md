@@ -64,7 +64,6 @@ Ministerul Educației
                                                     Pagina 1 din 2
 
 
----
 
                                                 Ministerul Educației
                                   Centrul Național de Politici și Evaluare în Educație
@@ -77,19 +76,19 @@ Ministerul Educației
     x+3        8
    x = −7 sau x = 7, care convin, deci suma soluțiilor ecuației este egală cu 0                              1p
 3. a) f ( 4 ) = 1                                                                                             1p
-     f ( 6 ) = −1  f ( 4 ) + f ( 6 ) = 0                                                                     1p
+     f ( 6 ) = −1 \Longrightarrow f ( 4 ) + f ( 6 ) = 0                                                                     1p
     b) A ( 5, 0 ) și B ( 0,5 )                                                                                1p
 
    În triunghiul dreptunghic AOB, AB = AO 2 + OB 2 = 5 2                                                     1p
              d ( P, AB ) ⋅ AB AO ⋅ PB 5 ⋅ 8
    A∆PAB =                   =        =     = 20, de unde obținem d ( P, AB ) = 4 2                         1p
                      2          2        2
-4. a) BD bisectoarea ∢ABC  ∢ABC = 30°                                                                        1p
+4. a) BD bisectoarea ∢ABC \Longrightarrow ∢ABC = 30°                                                                        1p
     ABCD trapez, deci ∢BCD = 150°                                                                             1p
-   b) CD AB, BD secantă  ∢CDB = ∢ABD, deci ∆BCD este isoscel cu CD = BC = 10cm                             1p
-   CE ⊥ AB, E ∈ AB  AECD dreptunghi, deci AD = CE, AE = CD
+   b) CD AB, BD secantă \Longrightarrow ∢CDB = ∢ABD, deci ∆BCD este isoscel cu CD = BC = 10cm                             1p
+   CE ⊥ AB, E ∈ AB \Longrightarrow AECD dreptunghi, deci AD = CE, AE = CD
                                                                 BC
-   Triunghiul CEB este dreptunghic în E, ∢CBE = 30°  CE =        = 5 cm, BE = 5 3 cm, deci
+   Triunghiul CEB este dreptunghic în E, ∢CBE = 30° \Longrightarrow CE =        = 5 cm, BE = 5 3 cm, deci
                                                                  2                                            1p
                    (
     AB − AD = 5 + 5 3 cm     )
@@ -100,15 +99,15 @@ Ministerul Educației
     b) ∆MCE ≡ ∆MDA, de unde obținem ME = MA                                                 1p
     CM și EO sunt mediane în triunghiul ACE, CD ∩ EO = {P}, deci punctul P este centrul de
                                   MP 1
-    greutate al triunghiului ACE     =
+    greutate al triunghiului ACE \Longrightarrow    =
                                   MC 3
                                                                                                1p
      AM și DO sunt mediane în triunghiul ACD, AM ∩ DO = {S }, deci punctul S este centrul de
                                             MS 1
-    greutate al triunghiului ACD             =
+    greutate al triunghiului ACD \Longrightarrow            =
                                             MA 3
     MP MS 1                                               1
-       =    =, ∢SMP = ∢AMC  ∆SMP ∼ ∆AMC  SP = AC = 10cm                                                    1p
+       =    =, ∢SMP = ∢AMC \Longrightarrow ∆SMP ∼ ∆AMC \Longrightarrow SP = AC = 10cm                                                    1p
     MC MA 3                                               3
 6. a) AB′ DC ′, deci ∢ ( AB ′, BC ′ ) = ∢ ( DC ′, BC ′ )                                                     1p
     Cum BC ′ = DC ′ = DB, obținem că triunghiul BC ′D este echilateral, deci ∢ ( AB′, BC ′ ) =
@@ -120,7 +119,7 @@ Ministerul Educației
                                                                                                               1p
     deci CP reprezintă distanța de la punctul C la planul ( BDC ′ )
                                                                                   CO ⋅ CC ′ 10 3
-    Triunghiul C ′CO este dreptunghic în C  C ′O = 5 6 cm și CP =                         =     cm           1p
+    Triunghiul C ′CO este dreptunghic în C \Longrightarrow C ′O = 5 6 cm și CP =                         =     cm           1p
                                                                                    C ′O       3
 
 
@@ -129,6 +128,3 @@ Ministerul Educației
 Probă scrisă la matematică                                                                            Varianta 1
 Barem de evaluare și de notare
                                                     Pagina 2 din 2
-
-
----

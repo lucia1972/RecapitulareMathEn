@@ -58,7 +58,6 @@ Barem de evaluare și de notare
                                                                     Pagina 1 din 2
 
 
----
 
                                                 Ministerul Educației
                                   Centrul Național de Politici și Evaluare în Educație
@@ -66,21 +65,21 @@ Barem de evaluare și de notare
        Dacă n este număr natural par, nenul, atunci numărul N =                = este natural                   1p
                                                                           E (n) 2
   3. a) f ( 3) = 0                                                                                              1p
-        f ( 9 ) = 2  f ( 3) + f ( 9 ) = 2                                                                      1p
+        f ( 9 ) = 2 \Longrightarrow f ( 3) + f ( 9 ) = 2                                                                      1p
        b) M ( 3,0 ) și N ( 0, −1)                                                                               1p
        Triunghiul MON este dreptunghic în O, deci MN = 10                                                      1p
                                               OM ⋅ ON 3 10
        OP ⊥ MN, unde P ∈ MN, OP =                  =                                                          1p
                                                MN      10
-  4. a) CM este înălțime în triunghiul echilateral ABC  CM = 4 3 cm                                            1p
-       CN este înălțime în triunghiul echilateral CDE  CN = 2 3 cm, deci CM = 2 ⋅ CN                          1p
+  4. a) CM este înălțime în triunghiul echilateral ABC \Longrightarrow CM = 4 3 cm                                            1p
+       CN este înălțime în triunghiul echilateral CDE \Longrightarrow CN = 2 3 cm, deci CM = 2 ⋅ CN                          1p
        b) CM și CN sunt bisectoare în triunghiurile echilaterale ABC, respectiv CDE, deci
        ∢BCM = ∢DCN = 30°, de unde obținem ∢MCN = 120°                                                          1p
                                                               CM CN    3
-        ∢ACD = 120°, deci ∢MCN ≡ ∢ACD și, cum                  =   =     ∆MCN ∼ ∆ACD                          1p
+        ∢ACD = 120°, deci ∢MCN ≡ ∢ACD și, cum                  =   =    \Longrightarrow ∆MCN ∼ ∆ACD                          1p
                                                               AC CD   2
         AMCN 3 75
-            = =    = 75%  p = 75                                                                               1p
+            = =    = 75% \Longrightarrow p = 75                                                                               1p
         AACD 4 100
   5. a) Triunghiul ABC este isoscel, AM mediană, deci AM este înălțime și bisectoare                            1p
                                                                         CM
@@ -109,6 +108,3 @@ Barem de evaluare și de notare
 Probă scrisă la matematică                                                                         Varianta 5
 Barem de evaluare și de notare
                                                     Pagina 2 din 2
-
-
----

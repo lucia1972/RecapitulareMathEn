@@ -61,7 +61,6 @@ Ministerul Educației și Cercetării
                                                    Pagina 1 din 2
 
 
----
 
                                               Ministerul Educației și Cercetării
                                        Centrul Național pentru Curriculum și Evaluare
@@ -83,7 +82,7 @@ Ministerul Educației și Cercetării
 3. a) f ( 2 ) = 0                                                                                          1p
      f ( 0 ) = − 4, deci f ( 2 ) − f ( 0 ) = 0 − ( −4 ) = 4                                                       1p
     b) A ( 2,0 ), B ( 0, −4 )                                                                                     1p
-    Punctul C este simetricul punctului A față de axa Oy  OC = OA = 2, deci CA = 4                               1p
+    Punctul C este simetricul punctului A față de axa Oy \Longrightarrow OC = OA = 2, deci CA = 4                               1p
      AB = BC = 2 5, de unde rezultă că P∆ABC = 2 5 + 2 5 + 4 = 4                ( 5 + 1)                          1p
 4. a) AB = 12cm, AC = 12 2 cm                                                                                     1p
     P∆ACE = 3 ⋅ AC = 36 2 cm                                                                                       1p
@@ -104,10 +103,10 @@ Ministerul Educației și Cercetării
     BC = CN + BN = 4 2 cm
                    2         2                                                                                    1p
                                                 PM DM 1
-    b) DM AB  ∆DPM ∼ ∆BPA                        =   =                                                           1p
+    b) DM AB \Longrightarrow ∆DPM ∼ ∆BPA \Longrightarrow                       =   =                                                           1p
                                                 PA   BA 4
                                                                            PE PM 1
-    EF ⊥ AB, P ∈ EF, E ∈ CD, F ∈ AB, ∆PME ∼ ∆PAF                          =  =, de unde obținem că
+    EF ⊥ AB, P ∈ EF, E ∈ CD, F ∈ AB, ∆PME ∼ ∆PAF \Longrightarrow                         =  =, de unde obținem că
                                                                            PF PA 4                                 1p
         16                 AB ⋅ PF 64
     PF = cm, deci A∆APB =        =   cm 2
@@ -117,18 +116,18 @@ Ministerul Educației și Cercetării
                                                                       5
 6. a) V ABCDA′B′C ′D′ = AB 3 =                                                                                    1p
     = 83 = 512 cm 3                                                                                               1p
-    b) FO este linie mijlocie în triunghiul ACC ′  FO AC ′, deci ∢ ( FO, DE ) = ∢ ( AC ′, DE )                   1p
+    b) FO este linie mijlocie în triunghiul ACC ′ \Longrightarrow FO AC ′, deci ∢ ( FO, DE ) = ∢ ( AC ′, DE )                   1p
 
                                                    AQ QE AE 1
-     AB′ DC ′, deci ∆AQE ∼ ∆C ′QD                    =  =    =, unde {Q} = DE ∩ AC ′, de unde
+     AB′ DC ′, deci ∆AQE ∼ ∆C ′QD \Longrightarrow                   =  =    =, unde {Q} = DE ∩ AC ′, de unde
                                                    C ′Q QD C ′D 2                                                  1p
                 2              2
     obținem QD = ⋅ DE și C ′Q = ⋅ C ′A
                 3              3
                                             8 6              16 3
-    DE = 4 6 cm, C ′A = 8 3 cm  QD =           cm, C ′Q =      cm și, cum C ′D = 8 2 cm și
+    DE = 4 6 cm, C ′A = 8 3 cm \Longrightarrow QD =           cm, C ′Q =      cm și, cum C ′D = 8 2 cm și
                                              3                 3                                                   1p
-    QD 2 + C ′Q 2 = 128 = C ′D 2  ∢DQC ′ = 90°, obținem că ∢ ( FO, DE ) = 90°, deci dreptele FO
+    QD 2 + C ′Q 2 = 128 = C ′D 2 \Longrightarrow ∢DQC ′ = 90°, obținem că ∢ ( FO, DE ) = 90°, deci dreptele FO
     și DE sunt perpendiculare
 
 
@@ -136,6 +135,3 @@ Ministerul Educației și Cercetării
 Probă scrisă la matematică                                                                                Varianta 7
 Barem de evaluare și de notare
                                                          Pagina 2 din 2
-
-
----

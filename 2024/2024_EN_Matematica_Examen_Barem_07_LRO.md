@@ -77,7 +77,6 @@ SUBIECTUL al III-lea                                                            
                                                              Pagina 1 din 2
 
 
----
 
                                                  Ministerul Educației
                                    Centrul Național de Politici și Evaluare în Educație
@@ -103,7 +102,7 @@ SUBIECTUL al III-lea                                                            
                                                                                                       DC AD
           AD
      HD            AD                        3 ⋅ AD
-        = 2  HD =, de unde obținem AH =, deci AH = 3 ⋅ HD                                            1p
+        = 2 \Longrightarrow HD =, de unde obținem AH =, deci AH = 3 ⋅ HD                                            1p
      AD AD          4                            4
       2
 5. a) CD este diametru, deci CD = 180°                                                                            1p
@@ -114,7 +113,7 @@ SUBIECTUL al III-lea                                                            
    b) cos ( ∢NDO ) =, cos ( ∢MDC ) =, deci     =                                                    1p
                        ND                      CD        ND CD
                                      OD     12
-   ND = 8 cm, MD = 12cm               =         OD = 4 3 cm                                                    1p
+   ND = 8 cm, MD = 12cm \Longrightarrow              =        \Longrightarrow OD = 4 3 cm                                                    1p
                                       8   2 ⋅ OD
                                                         ON ⋅ OD
    ON = DN 2 − OD 2 = 4cm și obținem A∆DON =                    = 8 3 cm 2                                        1p
@@ -142,6 +141,3 @@ SUBIECTUL al III-lea                                                            
  Probă scrisă la matematică                                                                              Varianta 7
  Barem de evaluare și de notare
                                                        Pagina 2 din 2
-
-
----

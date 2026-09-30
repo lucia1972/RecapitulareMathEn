@@ -58,7 +58,6 @@ Probă scrisă la matematică                                                   
                                                               1
 
 
----
 
                                                       Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
@@ -117,7 +116,6 @@ Probă scrisă la matematică                                                   
                                                                  2
 
 
----
 
                                                       Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
@@ -149,14 +147,14 @@ Probă scrisă la matematică                                                   
                 c) 15cm
                 d) 20cm
     5p     2. În figura alăturată, unghiurile AOC și BOD sunt opuse
-           la vârf. Măsura unghiului AOC este egală cu 30, iar
+           la vârf. Măsura unghiului AOC este egală cu 30\^\circ, iar
            semidreapta OE este bisectoarea unghiului BOC. Măsura
            unghiului DOE este egală cu:
 
-               a) 75
-               b) 90
-               c) 105
-               d) 150
+               a) 75\^\circ
+               b) 90\^\circ
+               c) 105\^\circ
+               d) 150\^\circ
 
     5p     3. În figura alăturată este reprezentat triunghiul ABC cu AB = 12 cm, BC = 13 cm și AC = 7 cm.
            Punctele M, N și P sunt mijloacele segmentelor AB, BC, respectiv AC.
@@ -174,30 +172,29 @@ Probă scrisă la matematică                                                   
                                                                  3
 
 
----
 
                                                       Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
     5p     4. În figura alăturată este reprezentat patrulaterul ABCD. Dreapta AC este perpendiculară pe dreapta
            BC și dreapta AD este perpendiculară pe dreapta BD. Punctul M este mijlocul segmentului AB și
-           măsura unghiului DCM este egală cu 40.
+           măsura unghiului DCM este egală cu 40\^\circ.
             Măsura unghiului CMD este egală cu:
 
-                a)   80
-                b)   90
-                c)   100
-                d)   120
+                a)   80\^\circ
+                b)   90\^\circ
+                c)   100\^\circ
+                d)   120\^\circ
 
     5p     5. În figura alăturată este reprezentat cercul de centru O și diametru BC. Punctul A aparține cercului,
-           astfel încât măsura arcului mic AC este egală cu 120.
+           astfel încât măsura arcului mic AC este egală cu 120\^\circ.
            Măsura unghiului ACB este egală cu:
 
 
 
-                a)   30
-                b)   60
-                c)   90
-                d)   120
+                a)   30\^\circ
+                b)   60\^\circ
+                c)   90\^\circ
+                d)   120\^\circ
 
 
     5p     6. În figura alăturată este reprezentat un con circular
@@ -223,7 +220,6 @@ Probă scrisă la matematică                                                   
                                                                  4
 
 
----
 
                                                       Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
@@ -237,10 +233,10 @@ Probă scrisă la matematică                                                   
                                                  x − 16   x + 4 x − 4 x 2 − 16 
                                                            
                                    3
-            x  −4, x  4 și x .
+            x \ne −4, x \ne 4 și x \ne.
                                    2
                                           7                                                   3
-             (2p) a) Arată că E ( x ) =, unde x este număr real, x  −4, x  4 și x .
+             (2p) a) Arată că E ( x ) =, unde x este număr real, x \ne −4, x \ne 4 și x \ne.
                                         2x − 3                                                2
 
 
@@ -255,13 +251,12 @@ Probă scrisă la matematică                                                   
                                                                  5
 
 
----
 
                                                      Ministerul Educației
                                        Centrul Național de Politici și Evaluare în Educație
                                                 32          30
                                           1  1                             1  1           −2
- :  −   ( −6 ) și b =                 ( 0,5 ).
+ :  −  \cdot ( −6 ) și b =                \cdot ( 0,5 ).
                                                                        2
     5p      3. Se consideră numerele a =  −                              +
                                           3  3                    1+ 2 1+ 2 + 3 
@@ -279,12 +274,11 @@ Probă scrisă la matematică                                                   
                                                                 6
 
 
----
 
                                                      Ministerul Educației
                                        Centrul Național de Politici și Evaluare în Educație
     5p      4. În figura alăturată este reprezentat triunghiul ABC cu BC = 10cm, AC = 20cm și măsura unghiului
-             ACB este egală cu 30. Punctul D aparține segmentului AC, astfel încât unghiul DBC este congruent
+             ACB este egală cu 30\^\circ. Punctul D aparține segmentului AC, astfel încât unghiul DBC este congruent
             cu BAC.
             (2p) a) Arată că aria triunghiului ABC este egală cu 50 cm2.
 
@@ -300,11 +294,10 @@ Probă scrisă la matematică                                                   
                                                                 7
 
 
----
 
                                                     Ministerul Educației
                                       Centrul Național de Politici și Evaluare în Educație
-    5p      5. În figura alăturată sunt reprezentate rombul ABCD cu măsura unghiului BAD egală cu 45 și
+    5p      5. În figura alăturată sunt reprezentate rombul ABCD cu măsura unghiului BAD egală cu 45\^\circ și
             triunghiul dreptunghic isoscel ABE cu AB = BE = 10cm. Punctele C și E sunt de o parte și de alta a
             dreptei AB.
             (2p) a) Arată că dreapta DA este perpendiculară pe dreapta AE.
@@ -321,14 +314,13 @@ Probă scrisă la matematică                                                   
                                                                8
 
 
----
 
                                                      Ministerul Educației
                                        Centrul Național de Politici și Evaluare în Educație
     5p      6. În figura alăturată este reprezentat cubul ABCDABCD cu AB = 6 cm. Punctul M este mijlocul
             segmentului BC și dreptele BM și BC se intersectează în punctul R. Punctul P aparține
             segmentului AC, astfel încât AP = 2 2 cm.
-            (2p) a) Arată că CP = 2  AP.
+            (2p) a) Arată că CP = 2 \cdot AP.
 
 
 
@@ -342,7 +334,6 @@ Probă scrisă la matematică                                                   
                                                                 9
 
 
----
 
                                            Ministerul Educației
                              Centrul Național de Politici și Evaluare în Educație
@@ -352,6 +343,3 @@ Probă scrisă la matematică                                                   
 
 Probă scrisă la matematică                                                          Simulare
                                                      10
-
-
----

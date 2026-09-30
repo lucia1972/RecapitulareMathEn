@@ -34,7 +34,7 @@ Ministerul Educației
 5.    a)                                                                                                                5p
 6.    b)                                                                                                                5p
  SUBIECTUL al III-lea                                                                                   (30 de puncte)
- 1. a) În 16 apartamente cu patru camere sunt 4  16 = 64 de camere                                1p
+ 1. a) În 16 apartamente cu patru camere sunt 4 \cdot 16 = 64 de camere                                1p
     Cum numărul total de camere din bloc este egal cu 60, deducem că nu este posibil ca blocul să
                                                                                                    1p
     aibă 16 apartamente cu patru camere, deoarece 64  60
@@ -44,8 +44,8 @@ Ministerul Educației
  2. a) E ( x ) = x 2 − 9 − x 2 + 16: x − 4 + x + 4 − 3 =
                       x 2 − 16         ( x − 4 )( x + 4 )                                                               1p
 
-      =            7            
-                                    ( x − 4 )( x + 4 ) =     7, unde x este număr real, x  −4, x  4 și x  3
+      =            7            \cdot
+                                    ( x − 4 )( x + 4 ) =     7, unde x este număr real, x \ne −4, x \ne 4 și x \ne 3
                                                                                                                         1p
            ( x − 4 )( x + 4 )           2x − 3             2x − 3                                              2
 
@@ -53,7 +53,7 @@ Ministerul Educației
                          7, unde n este număr natural
                                                                                                                         1p
                        2n − 3
-        7 , deci 2n − 3 = 1 sau 2n − 3 = 7
+        7 \in, deci 2n − 3 = 1 sau 2n − 3 = 7
                                                                                                                         1p
       2n − 3
       n = 2 sau n = 5, care convin                                                                                     1p
@@ -64,47 +64,46 @@ Ministerul Educației
                                                                  Pagina 1 din 2
 
 
----
 
                                                  Ministerul Educației
                                    Centrul Național de Politici și Evaluare în Educație
                        2
 3.           1
-     a) a =  −   ( −6 ) =
+     a) a =  −  \cdot ( −6 ) =
                           2
                                                                                                                1p
              3
         1
-     =  36 = 4                                                                                                1p
+     = \cdot 36 = 4                                                                                                1p
         9
                               −2
             1 1  5 
-     b) b =  +                =                                                                           1p
+     b) b =  +  \cdot              =                                                                           1p
              3 6   10 
                    2
           3  10                                                                                              1p
-     =       =2
+     =     \cdot  =2
           6  5
      a+b 4+2
         =    =3                                                                                                1p
       2   2
                                                                                                   BC
-4. a) BP ⊥ AC, P  AC, deci triunghiul BPC este dreptunghic,                 BCP = 30ο  BP =      = 5cm     1p
+4. a) BP ⊥ AC, P \in AC, deci triunghiul BPC este dreptunghic,                 BCP = 30ο \Longrightarrow BP =      = 5cm     1p
                                                                                                    2
-                   AC  BP 20  5
+                   AC \cdot BP 20 \cdot 5
           ΔABC =          =       = 50cm 2                                                                     1p
                      2      2
-     b)     BCD  BCA și           CBD  BAC  CBD               CAB                                         1p
+     b)     BCD  BCA și           CBD  BAC \Longrightarrow CBD               CAB                                         1p
      CD BC
        =                                                                                                       1p
      BC AC
    CD 10
-        =     CD = 5cm                                                                                        1p
+        =    \Longrightarrow CD = 5cm                                                                                        1p
     10 20
-5. a) Triunghiul ABE este dreptunghic isoscel, deci BAE = 45                                                  1p
-     DAE = DAB + BAE = 90, deci dreapta DA este perpendiculară pe dreapta AE                                 1p
-     b) BC  AE = N , DA BN, DA ⊥ AE  BN ⊥ AE                                                             1p
-     În triunghiul dreptunghic isoscel ABE, AE = 10 2 cm, BN înălțime  BN mediană, deci
+5. a) Triunghiul ABE este dreptunghic isoscel, deci BAE = 45\^\circ                                                  1p
+     DAE = DAB + BAE = 90\^\circ, deci dreapta DA este perpendiculară pe dreapta AE                                 1p
+     b) BC \cap AE = N , DA BN, DA ⊥ AE \Longrightarrow BN ⊥ AE                                                             1p
+     În triunghiul dreptunghic isoscel ABE, AE = 10 2 cm, BN înălțime \Longrightarrow BN mediană, deci
              AE                                                                            1p
       BN =      = AN = 5 2 cm
               2
@@ -112,14 +111,14 @@ Ministerul Educației
      În triunghiul dreptunghic ACN, tg ( CAE ) =    =        = 2 +1                       1p
                                                   AN    5 2
 6. a) AC = 6 2 cm                                                                                              1p
-     CP = AC − AP = 4 2 cm = 2  AP                                                                            1p
+     CP = AC − AP = 4 2 cm = 2 \cdot AP                                                                            1p
                           B R 1                                                                               1p
-     b) BRC MRB           =
+     b) BRC MRB \Longrightarrow          =
                            RC 2
            AP 1       B R AP
-     Cum      =          =, deci PR AB                                                                  1p
+     Cum      =    \Longrightarrow      =, deci PR AB                                                                  1p
            PC 2       RC PC
-       ( PR, AD) = ( AB, AD) = DAB și, cum DAB este echilateral                  ( PR, AD) = 60     1p
+       ( PR, AD) = ( AB, AD) = DAB și, cum DAB este echilateral \Longrightarrow                 ( PR, AD) = 60\^\circ     1p
 
 
 
@@ -127,6 +126,3 @@ Ministerul Educației
 Probă scrisă la matematică                                                                          Simulare
 Barem de evaluare și de notare
                                                      Pagina 2 din 2
-
-
----

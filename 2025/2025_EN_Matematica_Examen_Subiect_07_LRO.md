@@ -58,7 +58,6 @@ Probă scrisă la matematică                                                   
                                                            1
 
 
----
 
                                                     Ministerul Educației și Cercetării
                                              Centrul Național pentru Curriculum și Evaluare
@@ -113,7 +112,6 @@ Probă scrisă la matematică                                                   
                                                                    2
 
 
----
 
                                                     Ministerul Educației și Cercetării
                                              Centrul Național pentru Curriculum și Evaluare
@@ -172,7 +170,6 @@ Probă scrisă la matematică                                                   
                                                                    3
 
 
----
 
                                                  Ministerul Educației și Cercetării
                                           Centrul Național pentru Curriculum și Evaluare
@@ -221,7 +218,6 @@ Probă scrisă la matematică                                                   
                                                                 4
 
 
----
 
                                                   Ministerul Educației și Cercetării
                                            Centrul Național pentru Curriculum și Evaluare
@@ -252,7 +248,6 @@ Probă scrisă la matematică                                                   
                                                                  5
 
 
----
 
                                                     Ministerul Educației și Cercetării
                                              Centrul Național pentru Curriculum și Evaluare
@@ -277,7 +272,6 @@ Probă scrisă la matematică                                                   
                                                                    6
 
 
----
 
                                                Ministerul Educației și Cercetării
                                         Centrul Național pentru Curriculum și Evaluare
@@ -297,7 +291,6 @@ Probă scrisă la matematică                                                   
                                                               7
 
 
----
 
                                               Ministerul Educației și Cercetării
                                        Centrul Național pentru Curriculum și Evaluare
@@ -319,7 +312,6 @@ Probă scrisă la matematică                                                   
                                                              8
 
 
----
 
                                                 Ministerul Educației și Cercetării
                                          Centrul Național pentru Curriculum și Evaluare
@@ -340,7 +332,6 @@ Probă scrisă la matematică                                                   
                                                                9
 
 
----
 
                                     Ministerul Educației și Cercetării
                              Centrul Național pentru Curriculum și Evaluare
@@ -350,6 +341,3 @@ Probă scrisă la matematică                                                   
 
 Probă scrisă la matematică                                                    Varianta 7
                                                   10
-
-
----

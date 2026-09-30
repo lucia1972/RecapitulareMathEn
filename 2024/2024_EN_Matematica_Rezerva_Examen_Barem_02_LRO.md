@@ -62,7 +62,6 @@ SUBIECTUL al III-lea                                                            
                                                           Pagina 1 din 2
 
 
----
 
                                                 Ministerul Educației
                                   Centrul Național de Politici și Evaluare în Educație
@@ -80,20 +79,20 @@ SUBIECTUL al III-lea                                                            
     AC ∩ DB = {O}, deci punctul O este mijlocul lui DB și, cum DPBQ este paralelogram, rezultă
                                                                                                 1p
    că O este mijlocul segmentului PQ, deci punctele P, O și Q sunt coliniare
-5. a) CM ⊥ AB, M ∈ AB  CM = AD = 2cm                                                          1p
-   ∢MBC = 30  BC = 2CM = 4cm                                                                   1p
+5. a) CM ⊥ AB, M ∈ AB \Longrightarrow CM = AD = 2cm                                                          1p
+   ∢MBC = 30 \Longrightarrow BC = 2CM = 4cm                                                                   1p
     b) BC = AB, de unde obținem ∢CAB = 75                                                                  1p
-     ∢CAE = 120, BE = BG, ∢EBG = 150  ∢BEG = 15, de unde obținem ∢AEG = 60, deci
+     ∢CAE = 120, BE = BG, ∢EBG = 150 \Longrightarrow ∢BEG = 15, de unde obținem ∢AEG = 60, deci
                                                                                                             1p
-     ∢CAE + ∢AEG = 180  AC EG
-     ABEF, CBGH pătrate cu AB = BC  AE = CG și, cum AC EG și AE                        CG  AEGC trapez
+     ∢CAE + ∢AEG = 180 \Longrightarrow AC EG
+     ABEF, CBGH pătrate cu AB = BC \Longrightarrow AE = CG și, cum AC EG și AE                        CG \Longrightarrow AEGC trapez
                                                                                                             1p
     isoscel
 6. a) VABCDA ' B ' C ' D ' = AB 3 =                                                                         1p
      = 8 = 512 cm
         3            3
                                                                                                             1p
-    b) DC ⊥ MP, DC ⊥ OP, MP ∩ OP = { P} și MP, OP ⊂ ( MOP )  DC ⊥ ( MOP ), unde
+    b) DC ⊥ MP, DC ⊥ OP, MP ∩ OP = { P} și MP, OP ⊂ ( MOP ) \Longrightarrow DC ⊥ ( MOP ), unde
                                                                                                             1p
     punctul P este mijlocul segmentului DC
     ON ⊥ MP, N ∈ MP și, cum ON ⊥ DC, MP ∩ DC = {P}, MP, DC ⊂ ( CMD ), obținem
@@ -110,6 +109,3 @@ SUBIECTUL al III-lea                                                            
 Probă scrisă la matematică                                                                          Varianta 2
 Barem de evaluare și de notare
                                                     Pagina 2 din 2
-
-
----

@@ -68,7 +68,6 @@ Barem de evaluare și de notare
                                                         Pagina 1 din 2
 
 
----
 
                                                Ministerul Educației și Cercetării
                                         Centrul Național pentru Curriculum și Evaluare
@@ -79,35 +78,35 @@ Barem de evaluare și de notare
 3. a) f (1) = 1                                                                                           1p
     f ( 0 ) = 2, deci f (1) ⋅ f ( 0 ) = 1 ⋅ 2 = 2                                                        1p
      b) A ( 2,0 ), B ( 0,2 )                                                                             1p
-   OA=OB=2  ∆AOB este dreptunghic isoscel, deci ∢OBA=45°                                                 1p
+   OA=OB=2 \Longrightarrow ∆AOB este dreptunghic isoscel, deci ∢OBA=45°                                                 1p
    CT ⊥ AB, T ∈ AB, deci ∆BCT este dreptunghic isoscel, de unde obținem că
                                                                                                1p
    CT = d ( C, AB ) = 3 2 cm
 4. a) AG = GM                                                                                  1p
                                AM
-   Cum CG = AG  CG =               triunghiul ACM este dreptunghic, cu ∢ACM = 90°            1p
+   Cum CG = AG \Longrightarrow CG =              \Longrightarrow triunghiul ACM este dreptunghic, cu ∢ACM = 90°            1p
                                 2
-   b) ∢BAC = ∢MTC = 60°  AB TM și, cum ∢ABM = 90°, obținem ABMT trapez dreptunghic 1p
+   b) ∢BAC = ∢MTC = 60° \Longrightarrow AB TM și, cum ∢ABM = 90°, obținem ABMT trapez dreptunghic 1p
                                              AM
-   AT = TM = 2 ⋅ TC  TM = 4 cm, BM =            = 2 3 cm                                      1p
+   AT = TM = 2 ⋅ TC \Longrightarrow TM = 4 cm, BM =            = 2 3 cm                                      1p
                                               2
 
    AABMT =
             ( 6 + 4 ) ⋅ 2 3 = 10 3 cm2                                                         1p
                    2
-5. a) ∢MAB = 60°  ∢SAD = 30°                                                                  1p
+5. a) ∢MAB = 60° \Longrightarrow ∢SAD = 30°                                                                  1p
    Triunghiurile TBA și SAD sunt congruente, deci AT = DS                                      1p
                                                              AB
-   b) Triunghiul AMB dreptunghic și ∢ABM = 30°  AM =            = 4 cm                        1p
+   b) Triunghiul AMB dreptunghic și ∢ABM = 30° \Longrightarrow AM =            = 4 cm                        1p
                                                               2
                                                           AM
-   Triunghiul AMQ dreptunghic și ∢MAD = 30°  MQ =             = 2 cm, unde MQ ⊥ AD, Q ∈ AD,
+   Triunghiul AMQ dreptunghic și ∢MAD = 30° \Longrightarrow MQ =             = 2 cm, unde MQ ⊥ AD, Q ∈ AD,
                                                            2                                   1p
    de unde obținem AQ = 2 3 cm, deci DQ = 2 4 − 3 cm        (        )
    În triunghiul dreptunghic MDQ, DM este ipotenuză, deci DM > DQ                                        1p
 6. a) MB = 2cm                                                                                            1p
-     În triunghiul dreptunghic CBM, CM = MB 2 + BC 2  CM = 22 + 82 = 2 5 cm 1p
-     b) SOBM paralelogram, unde S este mijlocul muchiei A′D′  BO MS, deci 1p
+     În triunghiul dreptunghic CBM, CM = MB 2 + BC 2 \Longrightarrow CM = 22 + 82 = 2 5 cm 1p
+     b) SOBM paralelogram, unde S este mijlocul muchiei A′D′ \Longrightarrow BO MS, deci 1p
      ∢ ( BO, MP ) = ∢ ( MS, MP )
      Triunghiurile SAM, MCP și PD′S sunt congruente, deci SM = MP = PS                                   1p
      Triunghiul SMP este echilateral, deci ∢ ( MS, MP ) = ∢SMP = 60°                                     1p
@@ -118,6 +117,3 @@ Barem de evaluare și de notare
 Probă scrisă la matematică                                                                   Varianta 2
 Barem de evaluare și de notare
                                                        Pagina 2 din 2
-
-
----

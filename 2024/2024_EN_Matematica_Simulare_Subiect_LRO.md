@@ -62,7 +62,6 @@ Probă scrisă la matematică                                                   
                                                               1
 
 
----
 
                                                      Ministerul Educației
                                          Centrul Național de Politici și Evaluare în Educație
@@ -82,7 +81,7 @@ Probă scrisă la matematică                                                   
 SUBIECTUL I
 Încercuiește litera corespunzătoare răspunsului corect.                                                      (30 de puncte)
 
- 5p    1. Rezultatul calculului 52 − 2  ( 25 − 5) este:
+ 5p    1. Rezultatul calculului 52 − 2 \cdot ( 25 − 5) este:
 
            a)    12
            b)    92
@@ -116,7 +115,6 @@ Probă scrisă la matematică                                                   
                                                                   2
 
 
----
 
                                                     Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
@@ -161,13 +159,13 @@ SUBIECTUL al II-lea
             d) 9cm
 
  5p    2. În figura alăturată sunt reprezentate unghiurile adiacente complementare AOB și BOC. Semidreapta OM
-       este bisectoarea unghiului AOB și BOC = 3  AOM. Măsura unghiului AOB este egală cu:
+       este bisectoarea unghiului AOB și BOC = 3 \cdot AOM. Măsura unghiului AOB este egală cu:
 
 
-            a)   18
-            b)   36
-            c)   40
-            d)   54
+            a)   18\^\circ
+            b)   36\^\circ
+            c)   40\^\circ
+            d)   54\^\circ
 
 
 
@@ -176,7 +174,6 @@ Probă scrisă la matematică                                                   
                                                                  3
 
 
----
 
                                                    Ministerul Educației
                                        Centrul Național de Politici și Evaluare în Educație
@@ -211,10 +208,10 @@ Probă scrisă la matematică                                                   
 
 
 
-            a)   60
-            b)   90
-            c)   120
-            d)   150
+            a)   60\^\circ
+            b)   90\^\circ
+            c)   120\^\circ
+            d)   150\^\circ
 
 
 
@@ -225,10 +222,10 @@ Probă scrisă la matematică                                                   
 
 
 
-            a)   0
-            b)   30
-            c)   45
-            d)   60
+            a)   0\^\circ
+            b)   30\^\circ
+            c)   45\^\circ
+            d)   60\^\circ
 
 
 
@@ -237,7 +234,6 @@ Probă scrisă la matematică                                                   
                                                                 4
 
 
----
 
                                                       Ministerul Educației
                                           Centrul Național de Politici și Evaluare în Educație
@@ -274,7 +270,6 @@ Probă scrisă la matematică                                                   
                                                                    5
 
 
----
 
                                                         Ministerul Educației
                                             Centrul Național de Politici și Evaluare în Educație
@@ -283,10 +278,10 @@ Probă scrisă la matematică                                                   
 
 
                                                                                     1 1 1 2 1
- 5p     3. Se consideră numărul natural abc cu a, b, c cifre nenule, unde a = 5   + +  −: și
+ 5p     3. Se consideră numărul natural abc cu a, b, c cifre nenule, unde a = 5 \cdot  + +  −: și
                                                                                     2 3 6 3 3
             (                )
-        b = 3  32  33  34: 94 − 254: 57.
+        b = 3 \cdot 32 \cdot 33 \cdot 34: 94 − 254: 57.
 
         (2p) a) Arată că a = 3.
 
@@ -302,15 +297,14 @@ Probă scrisă la matematică                                                   
                                                                      6
 
 
----
 
                                                  Ministerul Educației
                                      Centrul Național de Politici și Evaluare în Educație
- 5p     4. În figura alăturată este reprezentat triunghiul dreptunghic ABC, cu A = 90 și B = 40. Semidreapta
+ 5p     4. În figura alăturată este reprezentat triunghiul dreptunghic ABC, cu A = 90\^\circ și B = 40\^\circ. Semidreapta
          BE este bisectoarea unghiului ABC, punctul E aparține segmentului AC. Perpendiculara din punctul A pe
          BC intersectează dreapta BC în punctul D, iar perpendiculara din punctul E pe BC intersectează dreapta
          BC în punctul F. Dreptele BE și AD se intersectează în punctul M.
-        (2p) a) Arată că măsura unghiului EMA este egală cu 70.
+        (2p) a) Arată că măsura unghiului EMA este egală cu 70\^\circ.
 
 
 
@@ -324,7 +318,6 @@ Probă scrisă la matematică                                                   
                                                               7
 
 
----
 
                                                   Ministerul Educației
                                       Centrul Național de Politici și Evaluare în Educație
@@ -345,7 +338,6 @@ Probă scrisă la matematică                                                   
                                                                8
 
 
----
 
                                                  Ministerul Educației
                                      Centrul Național de Politici și Evaluare în Educație
@@ -366,7 +358,6 @@ Probă scrisă la matematică                                                   
                                                               9
 
 
----
 
                                          Ministerul Educației
                              Centrul Național de Politici și Evaluare în Educație
@@ -376,6 +367,3 @@ Probă scrisă la matematică                                                   
 
 Probă scrisă la matematică                                                          Simulare
                                                      10
-
-
----

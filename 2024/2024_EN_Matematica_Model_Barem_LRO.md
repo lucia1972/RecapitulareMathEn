@@ -36,11 +36,11 @@ Ministerul Educației
      SUBIECTUL al III-lea                                                                            (30 de puncte)
 
      1.         30     20  24 x
-          a)       x−     x =  este suma cheltuită de Mihai în a doua zi, unde x reprezintă întreaga
+          a)       x−    \cdot x =  este suma cheltuită de Mihai în a doua zi, unde x reprezintă întreaga
                100    100  100                                                                        1p
           sumă de bani
            24 x 25 x 1
-                   =  x, de unde obținem că Mihai nu a cheltuit în a doua zi un sfert din întreaga sumă
+                   = \cdot x, de unde obținem că Mihai nu a cheltuit în a doua zi un sfert din întreaga sumă
            100 100 4                                                                                       1p
           de bani
            x 6x  6x        
@@ -62,7 +62,7 @@ Ministerul Educației
 
                x 2 − 6 x + 9 ( x − 3)
                                      2
-          =                 =, pentru orice număr real x, x  −3 și x  0                            1p
+          =                 =, pentru orice număr real x, x \ne −3 și x \ne 0                            1p
                 3 x ( x + 3) 3 x ( x + 3)
 
      Probă scrisă la matematică                                                                           Model
@@ -70,7 +70,6 @@ Ministerul Educației
                                                            Pagina 1 din 2
 
 
----
 
                                                Ministerul Educației
                                  Centrul Național de Politici și Evaluare în Educație
@@ -84,39 +83,39 @@ Ministerul Educației
      E ( x) =
                ( x − 3)
                         2
-                          
+                          \cdot
                                3x
                                       =
                                          1
- , pentru orice număr real x, x  −3, x  0, x  3                  1p
+ , pentru orice număr real x, x \ne −3, x \ne 0, x \ne 3                  1p
               3 x ( x + 3) ( x − 3) 2   x+3
                  5
-    5  E ( n) =   este număr natural, deci n + 3 = 1 sau n + 3 = 5 și, cum n este număr natural,
+    5 \cdot E ( n) =   este număr natural, deci n + 3 = 1 sau n + 3 = 5 și, cum n este număr natural,
                n+3                                                                                1p
    obținem n = 2
 3. a) f ( −2 ) = 0                                                                                1p
-    2023  f ( −2 ) = 2023  0 = 0                                                                                1p
+    2023 \cdot f ( −2 ) = 2023 \cdot 0 = 0                                                                                1p
     b) A ( −2,0 ) și B ( 0, 2 ) sunt punctele de intersecție a graficului funcției f cu axele Ox, respectiv Oy   1p
-    În triunghiul dreptunghic isoscel AOB, OM mediană, deci OM bisectoare  MOB = 45                            1p
-     NP ⊥ Ox, P  Ox  P ( 3,0 ), iar       MON = MOB + BOP + PON = 45 + 90 + 45 = 180,
+    În triunghiul dreptunghic isoscel AOB, OM mediană, deci OM bisectoare \Longrightarrow MOB = 45\^\circ                            1p
+     NP ⊥ Ox, P \in Ox \Longrightarrow P ( 3,0 ), iar       MON = MOB + BOP + PON = 45\^\circ + 90\^\circ + 45\^\circ = 180\^\circ,
                                                                                                                   1p
     de unde rezultă că punctele N, O și M sunt coliniare
 4. a) În triunghiul dreptunghic ABC, AC = AB2 + BC 2 = 122 + 92 =                                                1p
     = 225 = 15cm                                                                                                  1p
-    b) QN AB CD, PM BC AD și QAM = PCN = 90, deci AMEQ și CNEP sunt
+    b) QN AB CD, PM BC AD și QAM = PCN = 90\^\circ, deci AMEQ și CNEP sunt
                                                                                                                   1p
     dreptunghiuri
                                  PE PC EC 1                                                                       1p
-    PC AM  PEC MEA               =     =    =
+    PC AM \Longrightarrow PEC MEA \Longrightarrow              =     =    =
                                  ME AM EA 2
-    ME = 2  PE, AM = 2  PC  AMEQ = AM  ME = 4  PC  PE = 4  CNEP                                           1p
+    ME = 2 \cdot PE, AM = 2 \cdot PC \Longrightarrow AMEQ = AM \cdot ME = 4 \cdot PC \cdot PE = 4 \cdot CNEP                                           1p
 5. a) În triunghiul dreptunghic ABC, AC = AB 2 + BC 2 = 4 2 cm                                                   1p
      PABC = AB + AC + BC = 2 2 + 4 2 + 2 6 =2 2 3 + 3 cm     (       )                                           1p
                                                                           AB
-    b) EM mediană în triunghiul dreptunghic isoscel AEB  EM =                = 2 cm, BE bisectoarea
+    b) EM mediană în triunghiul dreptunghic isoscel AEB \Longrightarrow EM =                = 2 cm, BE bisectoarea
                                                                             2                                     1p
-     ABC, EM ⊥ AB, M  AB și EN ⊥ BC, N  BC, de unde obținem EM = EN = 2 cm
-                                        AB  BC AB  EM BC  EN
+     ABC, EM ⊥ AB, M \in AB și EN ⊥ BC, N \in BC, de unde obținem EM = EN = 2 cm
+                                        AB \cdot BC AB \cdot EM BC \cdot EN
      AEC = ABC − AEB − BEC =
                                             2
                                                   −
@@ -126,13 +125,13 @@ Ministerul Educației
                                                                                     (
                                                                            = 2 3 − 1 cm 2  )                      1p
 
-            AC  EP                                                  3 −1     6− 2
-     AEC =, unde EP ⊥ AC, P  AC, de unde EP =              =        cm                             1p
+            AC \cdot EP                                                  3 −1     6− 2
+     AEC =, unde EP ⊥ AC, P \in AC, de unde EP =              =        cm                             1p
                  2                                                     2       2
-6. a) t = 2  ( AB  AA + BC  AA + AB  BC ) = 2  (16 + 8 + 8) =                                              1p
+6. a) t = 2 \cdot ( AB \cdot AA + BC \cdot AA + AB \cdot BC ) = 2 \cdot (16 + 8 + 8) =                                              1p
 
-    = 2  32 = 64cm2                                                                                              1p
-    b) BCD  BCC  BD = BC                                                                              1p
+    = 2 \cdot 32 = 64cm2                                                                                              1p
+    b) BCD  BCC \Longrightarrow BD = BC                                                                              1p
                                                          BC 2
     În triunghiul BCD dreptunghic, BN =                         și în triunghiul BC C dreptunghic,
                                                          BD
@@ -141,7 +140,7 @@ Ministerul Educației
      BP =, de unde BN = BP
              BC
                             BN BP
-    În triunghiul BDC,       =       NP DC, DC  ( ACD )  NP               ( ACD )                      1p
+    În triunghiul BDC,       =      \Longrightarrow NP DC, DC \subset ( ACD ) \Longrightarrow NP               ( ACD )                      1p
                             BD BC
 
 
@@ -150,6 +149,3 @@ Ministerul Educației
 Probă scrisă la matematică                                                                              Model
 Barem de evaluare și de notare
                                                    Pagina 2 din 2
-
-
----

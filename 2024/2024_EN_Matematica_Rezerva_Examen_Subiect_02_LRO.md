@@ -61,7 +61,6 @@ Probă scrisă la matematică                                                   
                                                               1
 
 
----
 
                                                       Ministerul Educației
                                           Centrul Național de Politici și Evaluare în Educație
@@ -114,7 +113,6 @@ Probă scrisă la matematică                                                   
                                                                    2
 
 
----
 
                                                     Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
@@ -168,7 +166,6 @@ Probă scrisă la matematică                                                   
                                                                  3
 
 
----
 
                                                    Ministerul Educației
                                        Centrul Național de Politici și Evaluare în Educație
@@ -223,7 +220,6 @@ Probă scrisă la matematică                                                   
                                                                 4
 
 
----
 
                                                        Ministerul Educației
                                            Centrul Național de Politici și Evaluare în Educație
@@ -257,7 +253,6 @@ Probă scrisă la matematică                                                   
                                                                     5
 
 
----
 
                                                        Ministerul Educației
                                            Centrul Național de Politici și Evaluare în Educație
@@ -284,7 +279,6 @@ Probă scrisă la matematică                                                   
                                                                     6
 
 
----
 
                                                    Ministerul Educației
                                        Centrul Național de Politici și Evaluare în Educație
@@ -306,7 +300,6 @@ Probă scrisă la matematică                                                   
                                                                 7
 
 
----
 
                                                   Ministerul Educației
                                       Centrul Național de Politici și Evaluare în Educație
@@ -327,7 +320,6 @@ Probă scrisă la matematică                                                   
                                                                8
 
 
----
 
                                                    Ministerul Educației
                                        Centrul Național de Politici și Evaluare în Educație
@@ -348,7 +340,6 @@ Probă scrisă la matematică                                                   
                                                                 9
 
 
----
 
                                          Ministerul Educației
                              Centrul Național de Politici și Evaluare în Educație
@@ -358,6 +349,3 @@ Probă scrisă la matematică                                                   
 
 Probă scrisă la matematică                                                          Varianta 2
                                                      10
-
-
----

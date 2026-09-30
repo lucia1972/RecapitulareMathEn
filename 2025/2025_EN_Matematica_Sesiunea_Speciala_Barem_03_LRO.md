@@ -61,7 +61,6 @@ Ministerul Educației și Cercetării
                                                        Pagina 1 din 2
 
 
----
 
                                            Ministerul Educației și Cercetării
                                     Centrul Național pentru Curriculum și Evaluare
@@ -78,15 +77,15 @@ Ministerul Educației și Cercetării
     =      = 9cm 2                                                                        1p
        2
                              AH HM
-   b) ∆AHM ∼ ∆ACD               =                                                        1p
+   b) ∆AHM ∼ ∆ACD \Longrightarrow              =                                                        1p
                               AC CD
                           2 ⋅ CD    2                                                     1p
-   Cum AH = 2 ⋅ CD              =
+   Cum AH = 2 ⋅ CD \Longrightarrow             =
                               9    CD
    CD = 3cm                                                                               1p
 5. a) ∆ABC este dreptunghic isoscel, deci ∢ACB = 45°                                     1p
-    ∆BCQ este dreptunghic isoscel  ∢BCQ = 45°, deci ∢ACQ = ∢ACB + ∢BCQ = 90°            1p
-   b) ∢DOC = ∢OCQ = 90°  DO CQ, unde O este punctul de intersecție a dreptelor AC și BD 1p
+    ∆BCQ este dreptunghic isoscel \Longrightarrow ∢BCQ = 45°, deci ∢ACQ = ∢ACB + ∢BCQ = 90°            1p
+   b) ∢DOC = ∢OCQ = 90° \Longrightarrow DO CQ, unde O este punctul de intersecție a dreptelor AC și BD 1p
     ∆OCB ≡ ∆QCB, deci CO = CQ și CO = DO, deci DO = CQ și, cum DO CQ, obținem că
                                                                                           1p
     DOQC este paralelogram
@@ -96,8 +95,8 @@ Ministerul Educației și Cercetării
 6. a) V = AB3 =                                                                              1p
      = 63 = 216cm3                                                                           1p
     b) AN ∩ A′B′ = { P}, D′M ∩ DC = {Q}                                                     1p
-     ∆ABN ≡ ∆PB′N  AB = PB′ și ∆D′C ′M ≡ ∆QCM  D′C ′ = QC                                  1p
-     PB′ = QC și PB′ QC  CQPB′ este paralelogram, deci PQ = B′C = 6 2 cm                    1p
+     ∆ABN ≡ ∆PB′N \Longrightarrow AB = PB′ și ∆D′C ′M ≡ ∆QCM \Longrightarrow D′C ′ = QC                                  1p
+     PB′ = QC și PB′ QC \Longrightarrow CQPB′ este paralelogram, deci PQ = B′C = 6 2 cm                    1p
 
 
 
@@ -105,6 +104,3 @@ Ministerul Educației și Cercetării
 Probă scrisă la matematică                                                           Varianta 3
 Barem de evaluare și de notare
                                                     Pagina 2 din 2
-
-
----

@@ -57,7 +57,6 @@ Probă scrisă la matematică                                                   
                                                               1
 
 
----
 
                                                          Ministerul Educației
                                            Centrul Național de Politici și Evaluare în Educație
@@ -77,13 +76,13 @@ Probă scrisă la matematică                                                   
 SUBIECTUL I
 Încercuiește litera corespunzătoare răspunsului corect.                                                      (30 de puncte)
 
- 5p    1. Rezultatul calculului 3 + 2  5 este egal cu:
+ 5p    1. Rezultatul calculului 3 + 2 \cdot 5 este egal cu:
             a)   25
             b)   13
             c)   10
             d)   1
                  x 3
- 5p    2. Dacă    =, atunci 4  x este egal cu:
+ 5p    2. Dacă    =, atunci 4 \cdot x este egal cu:
                  2 4
                3
             a)
@@ -112,7 +111,6 @@ Probă scrisă la matematică                                                   
                                                                     2
 
 
----
 
                                                       Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
@@ -142,27 +140,27 @@ SUBIECTUL al II-lea
               d) 10cm
 
   5p    2. În figura alăturată sunt reprezentate unghiurile opuse la vârf AOB și COD, cu punctele A, O și D
-        coliniare. Măsura unghiului AOB este egală cu 50 și OM este bisectoarea unghiului AOB. Măsura
+        coliniare. Măsura unghiului AOB este egală cu 50\^\circ și OM este bisectoarea unghiului AOB. Măsura
         unghiului DOM este egală cu:
 
 
-              a)   25
-              b)   50
-              c)   130
-              d)   155
+              a)   25\^\circ
+              b)   50\^\circ
+              c)   130\^\circ
+              d)   155\^\circ
 
 
 
 
   5p    3. În figura alăturată este reprezentat triunghiul isoscel ABC cu
-         AB = AC și BAC = 50. Punctul D aparține segmentului AC, astfel
+         AB = AC și BAC = 50\^\circ. Punctul D aparține segmentului AC, astfel
         încât BD = BC. Măsura unghiului BDC este egală cu:
 
 
-              a) 50
-              b) 65
-              c) 115
-              d) 130
+              a) 50\^\circ
+              b) 65\^\circ
+              c) 115\^\circ
+              d) 130\^\circ
 
 
 
@@ -171,7 +169,6 @@ Probă scrisă la matematică                                                   
                                                                  3
 
 
----
 
                                                       Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
@@ -184,7 +181,7 @@ Probă scrisă la matematică                                                   
 
 
   5p    5. În figura alăturată este reprezentat cercul de centru O. Punctele A și B aparțin cercului, astfel încât măsura
-        unghiului AOB este de 60 și AB = 10cm. Lungimea cercului este egală cu:
+        unghiului AOB este de 60\^\circ și AB = 10cm. Lungimea cercului este egală cu:
 
 
              a) 10 cm
@@ -220,7 +217,6 @@ Probă scrisă la matematică                                                   
                                                                  4
 
 
----
 
                                                       Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
@@ -230,9 +226,9 @@ Probă scrisă la matematică                                                   
 
 
                                              x        2      3  x 3        
-  5p     2. Se consideră expresia E ( x ) =        −     + 2     :  + − 2 , unde x este un număr real, x  −3,
+  5p     2. Se consideră expresia E ( x ) =        −     + 2     :  + − 2 , unde x este un număr real, x \ne −3,
                                              9 + 3x x + 3 x + 3x   3 x     
-         x  0 și x  3.
+         x \ne 0 și x \ne 3.
                              x
                                  −
                                     2
@@ -240,7 +236,7 @@ Probă scrisă la matematică                                                   
                                            3
                                                =
                                                  ( x − 3)        2
-         (2p) a) Arată că, pentru orice număr real x, x  −3 și x  0.
+         (2p) a) Arată că, pentru orice număr real x, x \ne −3 și x \ne 0.
                           9 + 3 x x + 3 x + 3 x 3 x ( x + 3)
 
 
@@ -250,17 +246,16 @@ Probă scrisă la matematică                                                   
                                                                  5
 
 
----
 
                                                         Ministerul Educației
                                           Centrul Național de Politici și Evaluare în Educație
-         (3p) b) Determină numărul natural n pentru care 5  E ( n ) este număr natural.
+         (3p) b) Determină numărul natural n pentru care 5 \cdot E ( n ) este număr natural.
 
 
 
 
   5p     3. Se consideră funcția f:     →, f ( x) = x + 2.
-         (2p) a) Arată că 2023  f ( −2 ) = 0.
+         (2p) a) Arată că 2023 \cdot f ( −2 ) = 0.
 
 
 
@@ -276,7 +271,6 @@ Probă scrisă la matematică                                                   
                                                                     6
 
 
----
 
                                                       Ministerul Educației
                                         Centrul Național de Politici și Evaluare în Educație
@@ -298,7 +292,6 @@ Probă scrisă la matematică                                                   
                                                                  7
 
 
----
 
                                                     Ministerul Educației
                                       Centrul Național de Politici și Evaluare în Educație
@@ -320,7 +313,6 @@ Probă scrisă la matematică                                                   
                                                                8
 
 
----
 
                                                      Ministerul Educației
                                        Centrul Național de Politici și Evaluare în Educație
@@ -341,7 +333,6 @@ Probă scrisă la matematică                                                   
                                                                 9
 
 
----
 
                                            Ministerul Educației
                              Centrul Național de Politici și Evaluare în Educație
@@ -351,6 +342,3 @@ Probă scrisă la matematică                                                   
 
 Probă scrisă la matematică                                                          Model
                                                      10
-
-
----
