@@ -188,13 +188,13 @@ Verificarea algebrică înseamnă înlocuirea soluției în ecuația inițială,
 4. Ce înseamnă ecuația `0x=0`?
 5. Scrie ecuația pentru un dreptunghi cu lungimea `x+3` și perimetrul 30 cm.
 
-## 13. Ecuația ca model al unei situații
+## 15. Ecuația ca model al unei situații
 
 O ecuație exprimă faptul că două cantități sunt egale. Litera reprezintă necunoscuta, iar fiecare termen trebuie să aibă aceeași unitate sau aceeași interpretare. Dacă un număr mărit cu 7 este 25, scrii `x+7=25`. Dacă de cinci ori un număr este cu 3 mai mare decât 17, scrii `5x=17+3`.
 
 Citește atent expresiile „cu 4 mai mare”, „de 4 ori mai mare”, „cu 4 mai mic” și „de 4 ori mai mic”. Ele conduc la `x+4`, `4x`, `x-4` și `x/4`, nu sunt echivalente.
 
-## 14. Principiul operațiilor echivalente
+## 16. Principiul operațiilor echivalente
 
 Poți aduna, scădea, înmulți sau împărți ambele membre ale unei ecuații cu aceeași valoare admisă fără să schimbi mulțimea soluțiilor. Scopul este izolarea lui `x`.
 
@@ -202,13 +202,13 @@ Din `3x+5=20`, scazi 5 și obții `3x=15`, apoi împarți la 3 și obții `x=5`.
 
 Dacă înmulțești sau împarți cu o expresie care poate fi zero, trebuie să discuți cazul respectiv. În ecuații de gradul întâi cu numere, împărțirea la coeficientul nenul este sigură.
 
-## 15. Ecuații cu paranteze
+## 17. Ecuații cu paranteze
 
 Desfă parantezele prin distributivitate, redu termenii asemenea, apoi adu necunoscutele într-o parte și numerele în cealaltă. Pentru `3(x-2)+4=2x+9`, obții `3x-6+4=2x+9`, apoi `3x-2=2x+9`, de unde `x=11`.
 
 Dacă există minus înaintea unei paranteze, schimbă toate semnele: `5-(2x-3)=5-2x+3=8-2x`. O singură eroare de semn modifică soluția.
 
-## 16. Ecuații cu fracții
+## 18. Ecuații cu fracții
 
 Pentru ecuații cu numitori numerici, înmulțește toți termenii cu cel mai mic multiplu comun al numitorilor. În `x/3+1/2=5/6`, înmulțești cu 6: `2x+3=5`, deci `x=1`.
 
@@ -216,7 +216,7 @@ Pentru numitori care conțin `x`, notează restricțiile înainte de înmulțire
 
 Verifică soluția în ecuația inițială, nu doar în forma transformată.
 
-## 17. Cazuri speciale
+## 19. Cazuri speciale
 
 O ecuație de forma `ax+b=0` are:
 
@@ -226,91 +226,91 @@ O ecuație de forma `ax+b=0` are:
 
 Exemplu: `0x+4=0` nu are soluții, iar `0x+0=0` este adevărat pentru orice `x` admis.
 
-## 18. Probleme cu vârste și numere
+## 20. Probleme cu vârste și numere
 
 Dacă peste 5 ani vârsta unei persoane va fi 17, vârsta actuală este `x`, iar ecuația este `x+5=17`. Dacă una dintre persoane este cu 4 ani mai mare decât alta, notează vârstele `x` și `x+4`.
 
 Pentru un număr de două cifre cu cifra zecilor `a` și cifra unităților `b`, numărul este `10a+b`. Dacă cifrele au suma 11, scrii `a+b=11`; dacă numărul este cu 27 mai mare decât numărul obținut prin inversarea cifrelor, scrii `(10a+b)-(10b+a)=27`.
 
-## 19. Probleme cu perimetre și arii
+## 21. Probleme cu perimetre și arii
 
 Un dreptunghi are lungimea cu 5 cm mai mare decât lățimea și perimetrul 34 cm. Notează lățimea cu `x`, lungimea cu `x+5`. Ecuația este `2[x+(x+5)]=34`, deci `4x+10=34`, `x=6`. Dimensiunile sunt 6 cm și 11 cm.
 
 Dacă se cere aria, o calculezi după determinarea dimensiunilor: `A=6·11=66 cm²`. Verifică faptul că ambele dimensiuni sunt pozitive.
 
-## 20. Probleme cu procente
+## 22. Probleme cu procente
 
 Dacă 30% dintr-un număr este 24, scrii `0,3x=24`, deci `x=80`. Dacă un preț redus cu 20% este 160 lei, scrii `0,8x=160`, deci prețul inițial este 200 lei.
 
 Nu trata procentul ca pe un număr care se scade direct din rezultat. Factorul multiplicativ depinde de tipul modificării.
 
-## 21. Ecuații și verificare
+## 23. Ecuații și verificare
 
 După aflarea soluției, înlocuiește-o în ecuația inițială. Pentru `4x-7=13`, soluția `x=5` verifică: `20-7=13`. Dacă ai lucrat cu fracții, verifică și restricțiile. Dacă ai modelat o problemă cu obiecte, soluția trebuie să fie naturală sau întreagă, după context.
 
 O estimare poate arăta dacă soluția este rezonabilă. În `7x+2=30`, soluția trebuie să fie în jur de 4; `x=4` este plauzibil, iar `x=40` nu.
 
-## 22. Greșeli frecvente
+## 24. Greșeli frecvente
 
 Nu schimba semnul unui termen fără a efectua aceeași operație în ambele membre, nu împărți la un coeficient zero, nu uita parantezele la fracții și nu accepta soluții care anulează un numitor. În probleme, nu confunda necunoscuta cu totalul sau cu partea cunoscută.
 
-## 23. Model de sinteză
+## 25. Model de sinteză
 
 Rezolvă `2(3x-1)-4=5x+7`. Dezvoltăm: `6x-2-4=5x+7`, deci `6x-6=5x+7`, apoi `x=13`. Verificarea: membrul stâng este `2(39-1)-4=72`, iar membrul drept este `65+7=72`.
 
 Modelul general este: elimină parantezele, redu termenii asemenea, adună necunoscutele într-o parte, numerele în cealaltă, împarte la coeficient și verifică în ecuația inițială.
 
-## 23. Ecuații cu necunoscuta în ambii membri
+## 26. Ecuații cu necunoscuta în ambii membri
 
 În ecuația `7x-4=3x+20`, adu termenii cu `x` în aceeași parte: `7x-3x=20+4`, deci `4x=24` și `x=6`. Poți muta un termen schimbând semnul, dar această formulare este prescurtarea operației de adunare sau scădere efectuate în ambele membre.
 
 Dacă obții coeficientul necunoscutei zero, analizează separat membrul numeric. `5x+2=5x+2` este identitate, iar `5x+2=5x+7` este imposibilă.
 
-## 24. Ecuații cu paranteze pe ambele părți
+## 27. Ecuații cu paranteze pe ambele părți
 
 Pentru `2(x+3)=3(x-1)+5`, dezvoltăm: `2x+6=3x-3+5=3x+2`. Rezultă `6=x+2`, deci `x=4`. Verificarea în ecuația inițială dă `14=14`.
 
 Dacă există mai multe paranteze, nu sări peste reducerea termenilor. Scrie fiecare membru separat pentru a evita transferul greșit al unui semn.
 
-## 25. Ecuații cu fracții și paranteze
+## 28. Ecuații cu fracții și paranteze
 
 În ` (x-1)/2 - (x+3)/4 = 5`, înmulțește toată ecuația cu 4: `2(x-1)-(x+3)=20`. Dezvolți `2x-2-x-3=20`, deci `x=25`.
 
 Dacă numitorii conțin litera, notează restricțiile. În `2/(x-1)=1`, ai `x≠1`, iar soluția `x=3` este admisă. Dacă în timpul calculelor obții valoarea interzisă, ea se elimină.
 
-## 26. Probleme de mișcare
+## 29. Probleme de mișcare
 
 Relația `d=v·t` poate produce ecuații. Dacă un autoturism parcurge 180 km în `x` ore cu viteza `x+15` km/h, scrii `x(x+15)=180`, dacă datele sunt formulate astfel. În problemele de Evaluare Națională, situațiile sunt de obicei mai simple: dacă două persoane pornesc din puncte diferite și se apropie, distanțele parcurse se adună până la distanța inițială.
 
 Stabilește unitățile înainte de ecuație: minutele trebuie transformate în ore dacă viteza este în km/h.
 
-## 27. Probleme de amestec și preț
+## 30. Probleme de amestec și preț
 
 Dacă 3 caiete costă 18 lei, iar un pix costă 2 lei, atunci 5 caiete și `x` pixuri costă 40 lei se modelează prin `5·6+2x=40`, deci `x=5`. Coeficientul lui `x` reprezintă prețul unui pix.
 
 În problemele cu două categorii de obiecte, alegi o singură necunoscută și exprimi cealaltă prin ea, dacă este posibil. Verifică la final că numărul de obiecte este natural.
 
-## 28. Probleme cu vârste și relații temporale
+## 31. Probleme cu vârste și relații temporale
 
 Dacă peste 6 ani tatăl va avea de două ori vârsta fiului, iar acum fiul are `x` ani, ecuația este `vârsta tatălui actuală +6 = 2(x+6)`. Este important să adaugi aceeași perioadă ambelor vârste.
 
 Dacă în urmă cu 4 ani o persoană avea `x-4` ani, nu `x+4`. Cuvintele „peste”, „în urmă”, „acum” trebuie transformate explicit în expresii.
 
-## 29. Controlul soluțiilor
+## 32. Controlul soluțiilor
 
 O ecuație poate avea o soluție algebrică, dar problema poate impune condiții suplimentare: vârste pozitive, lungimi pozitive, număr natural de obiecte sau numitor nenul. După rezolvare, verifică atât ecuația, cât și contextul.
 
 De exemplu, dacă o ecuație de perimetru dă `x=-2`, soluția poate fi algebric validă, dar nu reprezintă o lățime. În acest caz, problema nu are soluție geometrică admisă sau modelul trebuie reanalizat.
 
-## 30. Recapitulare finală
+## 33. Recapitulare finală
 
 O rezolvare bună identifică necunoscuta, traduce enunțul, păstrează egalitatea prin operații echivalente, tratează corect parantezele și fracțiile, verifică soluția și o interpretează. Ecuația nu este doar un calcul cu litere, ci un model care trebuie să reflecte situația descrisă.
 
-## 31. Ecuații cu formule geometrice
+## 34. Ecuații cu formule geometrice
 
 Dacă aria unui triunghi este 36 cm², baza este 9 cm, iar înălțimea este `h`, scrii `9h/2=36`, deci `h=8 cm`. Dacă diagonala unui dreptunghi este 13 cm și o latură 5 cm, folosești teorema lui Pitagora: `5²+x²=13²`, de unde `x=12 cm`. În ambele cazuri, formula geometrică devine ecuație după înlocuirea datelor.
 
-## 32. Criteriul de final
+## 35. Criteriul de final
 
 Înainte de a considera rezolvarea terminată, verifică egalitatea, unitățile, domeniul soluției și sensul rezultatului. O ecuație rezolvată corect algebric poate produce o valoare imposibilă în problema concretă; atunci trebuie păstrată doar soluția admisă de context.
 

@@ -151,7 +151,7 @@ Elementul neutru la adunare este 0, iar la înmulțire este 1. Nu există invers
 4. Calculează distanța dintre -3 și 8.
 5. De ce `(-4)^2` este pozitiv?
 
-## 14. Reprezentarea numerelor raționale pe axă
+## 13. Reprezentarea numerelor raționale pe axă
 
 Mulțimea numerelor raționale conține toate numerele care pot fi scrise sub forma `a/b`, unde `a` și `b` sunt întregi și `b≠0`. Include numerele întregi, fracțiile pozitive, fracțiile negative, numerele zecimale finite și pe cele periodice.
 
@@ -159,7 +159,7 @@ Pentru a reprezenta `-3/4` pe axă, împarți intervalul dintre `-1` și `0` în
 
 Pentru comparații, adu fracțiile la numitor comun sau folosește produse în cruce. Între numere negative, cel mai mare este cel mai apropiat de zero. Astfel, `-7/8<-3/4`, deoarece `-7/8=-0,875`, iar `-3/4=-0,75`.
 
-## 15. Adunarea și scăderea cu mai mulți termeni
+## 14. Adunarea și scăderea cu mai mulți termeni
 
 La o sumă cu numere întregi, poți regrupa termenii pentru a simplifica: `-17+8+17-3=( -17+17)+(8-3)=5`. Proprietatea de asociativitate este valabilă la adunare, astfel încât regruparea nu schimbă rezultatul.
 
@@ -167,7 +167,7 @@ La scădere, transformă fiecare scădere în adunarea opusului: `-4-(-9)+6=-4+9
 
 Dacă ai fracții cu semne, separă semnul de valoarea absolută și lucrează ordonat. `-2/3+5/6=-4/6+5/6=1/6`. Nu aduna separat semnele și numărătorii fără numitor comun.
 
-## 16. Înmulțirea și împărțirea numerelor raționale
+## 15. Înmulțirea și împărțirea numerelor raționale
 
 Pentru a înmulți fracții, înmulțești numărătorii între ei și numitorii între ei, dar poți simplifica înainte: `14/25·15/21`. Simplifică 14 cu 21 și 15 cu 25, obținând `2/5·3/3=2/5`.
 
@@ -175,7 +175,7 @@ La împărțire, înmulțești cu inversa celui de-al doilea număr: `-3/4 : 9/1
 
 Înaintea calculului, stabilește semnul. În exemplul anterior, un număr negativ împărțit la unul pozitiv produce un rezultat negativ. După calcul, verifică dacă modulul rezultatului este rezonabil.
 
-## 17. Puteri cu bază întreagă
+## 16. Puteri cu bază întreagă
 
 Pentru un exponent natural pozitiv, `a^n` reprezintă produsul a `n` factori egali cu `a`. Dacă baza este negativă, paritatea exponentului determină semnul: `(-2)^4=16`, iar `(-2)^3=-8`.
 
@@ -183,7 +183,7 @@ Parantezele sunt esențiale. `(-5)^2=25`, dar `-5^2=-(5^2)=-25`, deoarece în a 
 
 Regulile produsului și câtului puterilor cu aceeași bază se aplică și numerelor întregi nenule: `a^m·a^n=a^{m+n}` și `a^m:a^n=a^{m-n}`, când `m≥n`. Pentru baza 0, trebuie să eviți expresii cu exponent negativ sau împărțirea la zero.
 
-## 18. Ecuații simple în numere întregi
+## 17. Ecuații simple în numere întregi
 
 Pentru ecuații de tipul `x+7=-3`, scazi 7 din ambele membre și obții `x=-10`. Pentru `x-5=-12`, aduni 5 și obții `x=-7`. Pentru `-3x=18`, împarți la -3 și obții `x=-6`.
 
@@ -191,19 +191,19 @@ Verificarea se face în ecuația inițială. Dacă `x=-6`, atunci `-3·(-6)=18`,
 
 În problemele cu temperaturi sau solduri, semnul are interpretare. O temperatură de `-4°C` care crește cu 9 grade devine `-4+9=5°C`. Un cont cu sold `-30 lei` în care intră 50 lei are soldul `20 lei`.
 
-## 19. Distanțe, intervale și modul
+## 18. Distanțe, intervale și modul
 
 Distanța dintre punctele de coordonate `a` și `b` pe axă este `|a-b|`. Distanța dintre `-7` și `4` este `|-7-4|=11`. Nu contează ordinea punctelor: `|-7-4|=|4-(-7)|`.
 
 Dacă `|x|=5`, atunci `x=5` sau `x=-5`. Dacă `|x|<5`, atunci `-5<x<5`, iar dacă `|x|>5`, atunci `x<-5` sau `x>5`. Aceste interpretări transformă modulul într-o problemă de intervale.
 
-## 20. Probleme cu modificări succesive
+## 19. Probleme cu modificări succesive
 
 Dacă o temperatură scade cu 8 grade și apoi crește cu 13 grade, modificarea totală este `-8+13=5 grade`. Dacă un submarin coboară 20 m, apoi urcă 7 m, poziția finală față de nivelul inițial este `-20+7=-13 m`.
 
 Pentru pierderi și câștiguri, stabilește convenția de semn înainte de calcule. Câștigul poate fi pozitiv, pierderea negativă. Dacă ai pierderi de 35 lei și câștiguri de 50 lei, rezultatul net este `-35+50=15 lei`.
 
-## 21. Verificarea semnelor
+## 20. Verificarea semnelor
 
 La adunare, dacă aduni numere cu același semn, modulul rezultatului este suma modulelor. Dacă semnele sunt diferite, modulul rezultatului este diferența modulelor și semnul aparține numărului cu modulul mai mare.
 
@@ -211,13 +211,13 @@ La înmulțire și împărțire, două semne identice dau rezultat pozitiv, iar 
 
 O verificare eficientă este să estimezi poziția pe axă. `-12+4` trebuie să fie între `-12` și `0`, mai aproape de `-12`; rezultatul `-8` este plauzibil. `-12-4` trebuie să fie mai mic decât `-12`, deci `-16` este plauzibil, iar `-8` nu este.
 
-## 22. Model de sinteză
+## 21. Model de sinteză
 
 La ora 6, temperatura este `-3°C`. Până la ora 10 crește cu 8 grade, apoi până la ora 14 scade cu 11 grade, iar seara crește cu 4 grade. Temperatura finală este `-3+8-11+4=-2°C`.
 
 Variația totală față de ora 6 este `(-2)-(-3)=1°C`. Suma modificărilor este `8-11+4=1`, ceea ce confirmă rezultatul. Exemplul arată de ce trebuie să deosebești valoarea finală de variația totală.
 
-## 23. Fracții și numere întregi în probleme concrete
+## 22. Fracții și numere întregi în probleme concrete
 
 Numerele raționale negative apar în situații precum temperaturi, altitudini, datorii, pierderi și deplasări sub un nivel de referință. Înainte de calcul, stabilește ce reprezintă zero. Dacă nivelul mării este zero, o localitate la 240 m deasupra mării are altitudinea `+240 m`, iar un tunel aflat la 35 m sub nivelul mării are altitudinea `-35 m`.
 
@@ -225,37 +225,37 @@ Dacă un scafandru coboară de la `-12 m` cu încă 8 m, ajunge la `-20 m`. Dac�
 
 În problemele financiare, o datorie de 80 lei poate fi reprezentată prin `-80`, iar plata de 50 lei prin `+50`. Soldul devine `-80+50=-30 lei`, deci mai rămâne o datorie de 30 lei. Dacă se plătesc încă 30 lei, soldul este zero.
 
-## 24. Inegalități cu numere raționale
+## 23. Inegalități cu numere raționale
 
 La adunarea sau scăderea aceluiași număr din ambele membre ale unei inegalități, sensul nu se schimbă. La înmulțirea sau împărțirea cu un număr negativ, sensul se schimbă. De exemplu, din `-2x<8`, împărțind la `-2`, rezultă `x>-4`.
 
 Pe axă, soluția `x≥-3` se reprezintă prin punct plin în `-3` și semidreaptă spre dreapta. Soluția `x<-1` folosește punct gol în `-1` și semidreaptă spre stânga. Dacă problema cere soluții întregi, selectezi doar numerele întregi din interval.
 
-## 25. Modulul ca distanță
+## 24. Modulul ca distanță
 
 Ecuația `|x-a|=r`, cu `r≥0`, înseamnă că punctul `x` se află la distanța `r` de punctul `a`; soluțiile sunt `x=a-r` și `x=a+r`. De exemplu, `|x-2|=5` dă `x=-3` sau `x=7`.
 
 Inegalitatea `|x-a|≤r` descrie intervalul `[a-r,a+r]`, iar `|x-a|>r` descrie exteriorul intervalului. Această interpretare este mai clară decât memorarea mecanică a regulilor.
 
-## 26. Raționamente cu semne și puteri
+## 25. Raționamente cu semne și puteri
 
 Înainte de a calcula o expresie, separă semnul de modul. Pentru `(-2)^5·(-3)^2`, prima putere este negativă, a doua pozitivă, iar produsul este negativ: `-32·9=-288`.
 
 Pentru `-2^4`, rezultatul este `-16`, deoarece puterea se calculează înaintea semnului. Pentru `(-2)^4`, rezultatul este `16`. Într-un test, aceste paranteze pot fi diferența dintre un rezultat corect și unul greșit.
 
-## 27. Verificare prin transformarea în zecimale
+## 26. Verificare prin transformarea în zecimale
 
 Când fracțiile au numitori mici, transformarea în zecimale poate verifica o comparație sau o estimare. `-5/8=-0,625`, iar `-2/3≈-0,667`, deci `-5/8>-2/3`. Pentru un rezultat exact, fracțiile rămân preferabile; zecimalele periodice pot introduce aproximări.
 
 Dacă un rezultat trebuie să fie între 0 și 1, o fracție precum `7/5` semnalează fie că probabilitatea nu a fost calculată corect, fie că problema cere o valoare care poate depăși 1. Verificarea domeniului face parte din rezolvare.
 
-## 28. Model final de problemă
+## 27. Model final de problemă
 
 Un lift pornește de la etajul `-2`, urcă 5 etaje, coboară 3 etaje și apoi urcă 4 etaje. Etajul final este `-2+5-3+4=4`. Deplasarea totală este `5-3+4=6` etaje în sens orientat, dar distanța parcursă este `5+3+4=12` etaje, deoarece distanța nu are semn.
 
 Exemplul subliniază diferența dintre poziție, variație și distanță. Poziția finală se calculează față de reperul inițial, variația este diferența dintre poziția finală și cea inițială, iar distanța totală adună modulele deplasărilor.
 
-## 29. Recapitulare aplicată
+## 28. Recapitulare aplicată
 
 Pentru a rezolva o problemă cu numere întregi sau raționale, stabilește mai întâi reperul și sensul pozitiv. Scrie valorile cu semn, nu doar verbal. Transformă scăderile în adunări cu opusul, tratează parantezele cu atenție și verifică poziția rezultatului pe axă. Dacă apar fracții, adu-le la numitor comun numai la adunare și scădere; la înmulțire simplifică înainte, iar la împărțire folosește inversa. La final, întreabă-te dacă rezultatul descrie o poziție, o variație, o distanță sau o valoare absolută.
 

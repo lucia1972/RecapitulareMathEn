@@ -192,7 +192,7 @@ Un raport între lungimi trebuie format în aceeași unitate. La procente, canti
 4. În ce situație folosești c.m.m.m.c. pentru a rezolva o problemă?
 5. Cum transformi 45 de minute în ore?
 
-## 14. Citirea corectă a unui raport
+## 18. Citirea corectă a unui raport
 
 Raportul `a:b` compară două mărimi de același tip și în aceeași unitate. Dacă într-o clasă sunt 12 fete și 18 băieți, raportul fetelor la băieți este `12:18=2:3`, iar raportul băieților la fete este `18:12=3:2`. Ordinea cuvintelor determină ordinea termenilor.
 
@@ -200,7 +200,7 @@ Raportul `2:3` nu înseamnă că există exact 2 fete și 3 băieți; înseamnă
 
 Dacă raportul a două lungimi este `3:4`, poți scrie lungimile `3k` și `4k`. Dacă suma lor este 35 cm, atunci `7k=35`, `k=5`, iar lungimile sunt 15 cm și 20 cm.
 
-## 15. Proporții și proprietatea fundamentală
+## 19. Proporții și proprietatea fundamentală
 
 O proporție `a/b=c/d`, cu numitori nenuli, permite înmulțirea în cruce: `ad=bc`. Această proprietate este utilă pentru aflarea termenului necunoscut. Din `x/7=12/21`, obții `21x=84`, deci `x=4`.
 
@@ -208,7 +208,7 @@ O proporție `a/b=c/d`, cu numitori nenuli, permite înmulțirea în cruce: `ad=
 
 Nu confunda proporția cu o sumă de rapoarte. Egalitatea `2/3=8/12` este proporție; expresia `2/3+8/12` este o operație cu fracții și are alt sens.
 
-## 16. Mărimi direct proporționale
+## 20. Mărimi direct proporționale
 
 Două mărimi sunt direct proporționale dacă, atunci când una se înmulțește cu un factor pozitiv, și cealaltă se înmulțește cu același factor. Raportul valorilor corespunzătoare rămâne constant.
 
@@ -216,7 +216,7 @@ Exemplu: 4 caiete costă 28 lei, iar 7 caiete costă `28·7/4=49 lei`, dacă pre
 
 Este important ca mărimile să fie comparabile: numărul de caiete și prețul total sunt direct proporționale doar dacă fiecare caiet are același preț și nu există taxe fixe sau reduceri.
 
-## 17. Mărimi invers proporționale
+## 21. Mărimi invers proporționale
 
 Două mărimi sunt invers proporționale dacă produsul valorilor corespunzătoare este constant. Pentru o distanță fixă, timpul și viteza sunt invers proporționale: dacă viteza se dublează, timpul se înjumătățește.
 
@@ -224,7 +224,7 @@ Exemplu: 6 muncitori termină o lucrare în 15 zile, în aceleași condiții de 
 
 O eroare comună este să folosești regula de trei directă în locul celei inverse. Întreabă-te: dacă prima mărime crește, a doua crește sau scade? Răspunsul stabilește modelul.
 
-## 18. Procente succesive
+## 22. Procente succesive
 
 O creștere cu `p%` înseamnă înmulțirea cu `1+p/100`, iar o reducere cu `p%` înseamnă înmulțirea cu `1-p/100`. Pentru modificări succesive, factorii se înmulțesc.
 
@@ -232,13 +232,13 @@ Un preț de 200 lei crescut cu 10% devine `200·1,10=220 lei`. Dacă apoi se red
 
 Pentru o creștere cu 20% urmată de o creștere cu 30%, factorul total este `1,2·1,3=1,56`, adică o creștere totală de 56%, nu 50%.
 
-## 19. Determinarea valorii inițiale
+## 23. Determinarea valorii inițiale
 
 Dacă după o reducere de 25% rămân 90 lei, cei 90 lei reprezintă 75% din prețul inițial. Valoarea inițială este `90:0,75=120 lei`. Nu adăuga 25% la 90, deoarece procentul se raportează la valoarea inițială.
 
 Dacă după o creștere de 15% se obțin 230 lei, valoarea inițială este `230:1,15=200 lei`. Scrie întâi factorul multiplicativ, apoi izolează valoarea necunoscută.
 
-## 20. Împărțirea în părți proporționale
+## 24. Împărțirea în părți proporționale
 
 Pentru a împărți 420 în raportul `2:3:5`, aduni coeficienții: `2+3+5=10`. O parte valorează `420:10=42`, iar cantitățile sunt `84`, `126` și `210`.
 
@@ -246,7 +246,7 @@ Verificarea este obligatorie: `84+126+210=420`, iar împărțirea la 42 produce 
 
 Dacă părțile sunt invers proporționale cu numerele 2 și 3, raportul lor este `1/2:1/3=3:2`. Invers proporțional nu înseamnă că scazi valorile; înseamnă că folosești reciprocele.
 
-## 21. Viteză, distanță și timp
+## 25. Viteză, distanță și timp
 
 Relațiile fundamentale sunt `d=v·t`, `v=d/t` și `t=d/v`. Unitățile trebuie compatibilizate. Dacă viteza este în km/h și timpul în ore, distanța este în km. Pentru secunde, poți transforma viteza: `36 km/h=10 m/s`, deoarece `36·1000/3600=10`.
 
@@ -254,31 +254,31 @@ Exemplu: un biciclist merge 2,5 ore cu 18 km/h. Distanța este `18·2,5=45 km`. 
 
 Viteza medie nu este întotdeauna media aritmetică a vitezelor. Ea se calculează ca distanța totală împărțită la timpul total. Pentru segmente cu distanțe egale, mersul cu 20 km/h și 30 km/h are viteza medie `2·20·30/(20+30)=24 km/h`, nu 25 km/h.
 
-## 22. Control și model de sinteză
+## 26. Control și model de sinteză
 
 La orice problemă cu raport, proporție sau procent, notează: ce reprezintă întregul, care este partea și la ce valoare se raportează procentul. Transformă procentele în factori, verifică unitățile și testează rezultatul printr-o estimare.
 
 Exemplu: într-un rezervor de 800 L se consumă 35%, apoi se adaugă 120 L. După consum rămân `800·0,65=520 L`, iar la final sunt `640 L`. Rezultatul este mai mic decât 800 L, dar mai mare decât 520 L, deci este plauzibil. Dacă ai fi adunat 35% în loc să scazi, ai fi obținut 1200 L, semn că ai interpretat greșit verbul „se consumă”.
 
-## 23. Scale și reprezentări
+## 27. Scale și reprezentări
 
 La o scară `1:n`, unei unități de pe desen îi corespund `n` unități în realitate. Dacă un drum măsoară 4 cm pe o hartă la scara `1:50 000`, lungimea reală este `4·50 000=200 000 cm=2 km`. Conversia în kilometri trebuie făcută după înmulțirea cu factorul scării.
 
 La planuri, scara se poate aplica separat lungimilor și suprafețelor. Dacă lungimile reale sunt de `n` ori mai mari decât cele de pe desen, ariile reale sunt de `n²` ori mai mari. O cameră reprezentată la scara `1:100` cu aria de 24 cm² pe plan are aria reală `24·100²=240 000 cm²=24 m²`.
 
-## 24. Procente în probleme discrete
+## 28. Procente în probleme discrete
 
 Procentul se aplică unei cantități, dar rezultatul trebuie interpretat. Dacă 25% din 40 de elevi participă, obții 10 elevi. Dacă un enunț ar conduce la 2,5 elevi, fie datele sunt incompatibile, fie procentul se referă la o medie sau la o altă mărime continuă.
 
 Pentru rotunjiri, respectă cerința. Dacă o cantitate de material se vinde doar în role întregi și calculul dă 3,2 role, trebuie cumpărate 4 role, nu 3. Dacă se cere numărul mediu de obiecte, poate fi acceptat un rezultat zecimal.
 
-## 25. Verificarea relațiilor de proporționalitate
+## 29. Verificarea relațiilor de proporționalitate
 
 Completează un tabel cu valori corespunzătoare și calculează rapoartele. Dacă rapoartele `y/x` sunt egale, mărimile pot fi direct proporționale. Pentru mărimi invers proporționale, verifică produsele `x·y`.
 
 Exemplu: perechile `(2,18)`, `(3,12)`, `(6,6)` nu sunt direct proporționale deoarece rapoartele sunt 9, 4 și 1. Ele nu sunt nici invers proporționale deoarece produsele sunt 36, 36 și 36? Sunt invers proporționale, iar această verificare este mai sigură decât impresia vizuală.
 
-## 26. Problemă de sinteză
+## 30. Problemă de sinteză
 
 Un produs costă 250 lei. Se aplică o reducere de 12%, apoi se adaugă o taxă de 5% la prețul redus. Prețul redus este `250·0,88=220 lei`, iar prețul final este `220·1,05=231 lei`. Taxa de 5% nu se aplică prețului inițial, ci celui redus. Factorul total este `0,88·1,05=0,924`, deci prețul final reprezintă 92,4% din prețul inițial.
 

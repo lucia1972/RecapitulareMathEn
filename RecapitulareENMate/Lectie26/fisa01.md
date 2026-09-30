@@ -1,12 +1,11 @@
-# Fișa 01 — Geometrie
+# Fișa 01 — Cilindru, con și sferă
 
-1. Demonstrează că un triunghi cu laturile 6,8,10 este dreptunghic.
-2. Calculează aria unui triunghi cu baza 12 și înălțimea 7.
-3. Două triunghiuri asemenea au raport 2, iar aria unuia este 18. Determină aria celuilalt.
-4. Un dreptunghi are diagonala 13 și o latură 5. Determină aria.
-5. O prismă are baza 24 și înălțimea 10. Determină volumul.
+1. Un cilindru are `r=3 cm`, `h=5 cm`. Calculează volumul și aria laterală.
+2. Un con are `r=3 cm`, `h=4 cm`. Determină generatoarea și volumul.
+3. O sferă are raza 6 cm. Calculează aria și volumul.
+4. Explică diferența dintre aria laterală și aria totală a cilindrului.
+5. Precizează ce suprafețe se numără la o emisferă închisă.
 
 ## Răspunsuri
 
-1. `6²+8²=10²`; 2. 42; 3. 72; 4. 60; 5. 240.
-
+1. `45π cm³`, `30π cm²`; 2. `g=5 cm`, `12π cm³`; 3. `144π cm²`, `288π cm³`; 4. aria laterală nu include cele două baze, aria totală le include; 5. suprafața curbată și discul bazei.

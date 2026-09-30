@@ -1,12 +1,11 @@
-# Fișa 01 — Încălzire geometrică
+# Fișa 01 — Pregătire pentru simulare și analiza erorilor
 
-1. Unghiurile unui triunghi sunt 50° și 60°. Determină al treilea.
-2. Catetele sunt 6 și 8. Determină ipotenuza.
-3. Aria unui dreptunghi 7×9.
-4. Aria cercului cu raza 4.
-5. Volumul cubului de latură 5.
+1. Calculează `18-2·(4+3)` și verifică prin estimare.
+2. Rezolvă `3x-5=16` și verifică prin înlocuire.
+3. Un produs redus cu 20% costă 96 lei. Determină valoarea inițială.
+4. Un dreptunghi are laturile 6 cm și 8 cm. Determină diagonala și aria.
+5. Notează trei verificări obligatorii după o simulare.
 
 ## Răspunsuri
 
-1. 70°; 2. 10; 3. 63; 4. `16π`; 5. 125.
-
+1. `4`; 2. `x=7`; 3. `120 lei`; 4. `10 cm`, `48 cm²`; 5. transcrierea, formulele și unitățile, soluțiile în context.

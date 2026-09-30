@@ -1,12 +1,11 @@
-# Fișa 01 — Probleme aplicate
+# Fișa 01 — Cub și paralelipiped dreptunghic
 
-1. Un număr și triplul său au suma 48. Determină numărul.
-2. Un dreptunghi are lungimea cu 4 cm mai mare decât lățimea și perimetrul 36 cm. Determină dimensiunile.
-3. Un triunghi dreptunghic are catetele 9 și 12 cm. Calculează aria și ipotenuza.
-4. Un cerc are diametrul 14 cm. Calculează lungimea și aria.
-5. O prismă are bază triunghiulară de aria 20 cm² și înălțimea 11 cm. Calculează volumul.
+1. Un cub are muchia 5 cm. Calculează aria totală și volumul.
+2. Un paralelipiped are dimensiunile 3 cm, 4 cm și 12 cm. Calculează aria totală și diagonala spațială.
+3. O cutie are `L=10 cm`, `l=6 cm`, `h=4 cm`. Cât carton este necesar pentru suprafața totală?
+4. Un acvariu fără capac are dimensiunile 8 dm, 4 dm și 5 dm. Calculează volumul și aria materialului.
+5. Explică diferența dintre diagonala unei fețe și diagonala spațială.
 
 ## Răspunsuri
 
-1. 12; 2. 7 cm și 11 cm; 3. 54 cm² și 15 cm; 4. `14π` cm și `49π` cm²; 5. 220 cm³.
-
+1. `150 cm²`, `125 cm³`; 2. `192 cm²`, `13 cm`; 3. `248 cm²`; 4. `160 dm³`, `144 dm²`; 5. diagonala feței unește vârfuri opuse ale unui dreptunghi, iar diagonala spațială unește vârfuri opuse ale corpului.

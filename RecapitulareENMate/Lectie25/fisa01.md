@@ -1,12 +1,11 @@
-# Fișa 01 — Algebră
+# Fișa 01 — Prisme și piramide
 
-1. Un abonament costă 20 lei plus 3 lei pentru fiecare utilizare. Scrie funcția costului.
-2. Rezolvă sistemul `x+y=30`, `x-y=8`.
-3. Determină valorile naturale pentru `4n+2≤18`.
-4. Determină zeroul funcției `f(x)=5x-15`.
-5. Media a patru numere este 12, trei sunt 8, 11, 15. Determină al patrulea.
+1. O prismă are aria bazei `18 cm²` și înălțimea 7 cm. Calculează volumul.
+2. O piramidă are aria bazei `18 cm²` și înălțimea 7 cm. Calculează volumul.
+3. Câte fețe, muchii și vârfuri are o prismă hexagonală?
+4. Câte fețe, muchii și vârfuri are o piramidă pentagonală?
+5. Explică de ce volumul piramidei este o treime din produsul ariei bazei și al înălțimii.
 
 ## Răspunsuri
 
-1. `C(x)=20+3x`; 2. 19 și 11; 3. `n≤4`; 4. 3; 5. 14.
-
+1. `126 cm³`; 2. `42 cm³`; 3. `8 fețe, 18 muchii, 12 vârfuri`; 4. `6 fețe, 10 muchii, 6 vârfuri`; 5. formula este `V=A_bh/3`, iar factorul 1/3 este specific piramidei.

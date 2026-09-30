@@ -25,5 +25,5 @@ Lucrează integral, fără întreruperi. După corectare, notează capitolul fie
 
 ## Răspunsuri
 
-1. `88/5`; 2. `7/12`; 3. 99; 4. 400 lei; 5. 5; 6. `x≤-4`; 7. 29 și 17; 8. 5, descrescătoare; 9. 30°,60°,90°; 10. 17 cm,120 cm²; 11. `14π` cm,`49π` cm²; 12. 65 cm²; 13. 9; 14. 252 cm³; 15. 84 cm³; 16. 10 cm,`96π` cm³; 17. `64π` cm²,`256π/3` cm³; 18. 13; 19. `1/2`; 20. verifică transcrierea, semnele, formulele, unitățile, soluțiile în context și cerințele fără răspuns.
+1. `124/5`; 2. `7/12`; 3. 99; 4. 400 lei; 5. 5; 6. `x≤-4`; 7. 29 și 17; 8. 5, descrescătoare; 9. 30°,60°,90°; 10. 17 cm,120 cm²; 11. `14π` cm,`49π` cm²; 12. 65 cm²; 13. 9; 14. 252 cm³; 15. 84 cm³; 16. 10 cm,`96π` cm³; 17. `64π` cm²,`256π/3` cm³; 18. 13; 19. `1/2`; 20. verifică transcrierea, semnele, formulele, unitățile, soluțiile în context și cerințele fără răspuns.
 

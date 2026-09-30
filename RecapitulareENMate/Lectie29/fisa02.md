@@ -1,27 +1,28 @@
-# Fișa 02 — Simulare individuală
+# Fișa 02 — Simulare individuală și jurnal de erori
 
-1. Într-un triunghi, unghiurile sunt `x`, `x+20`, `2x`.
-2. Un triunghi isoscel are unghiul principal 50°.
-3. Verifică dacă 9, 12, 15 formează triunghi dreptunghic.
-4. Un dreptunghi are laturile 9 și 40. Determină diagonala.
-5. Un pătrat are diagonala `12√2`. Determină latura și aria.
-6. Un paralelogram are baza 14 și înălțimea 5.
-7. Un trapez are bazele 8 și 18 și h=6.
-8. Un romb are diagonalele 10 și 24.
-9. Un cerc are diametrul 16.
-10. Un unghi înscris interceptează arc de 124°.
-11. `DE∥BC`, `AD=3`, `DB=6`, `AE=5`. Determină `EC`.
-12. Un cub are latura 4. Aria totală și volumul.
-13. Un paralelipiped are 3×4×12. Diagonala.
-14. O prismă are `A_b=18`, `h=9`.
-15. O piramidă are `A_b=18`, `h=9`.
-16. Un cilindru are `r=5`, `h=4`.
-17. Un con are `r=5`, `h=12`. Generatoarea și volumul.
-18. O sferă are `r=6`. Aria și volumul.
-19. O figură are aria unui dreptunghi 80 și a unui triunghi 24. Aria totală.
-20. Scrie pașii unei demonstrații folosind asemănarea triunghiurilor.
+Lucrează în timp limitat. Pentru fiecare greșeală notează: exercițiul, tipul erorii, regula corectă și acțiunea de remediere.
+
+1. `30-2[4+3²]:5`.
+2. `5/6-1/4`.
+3. Calculează 22% din 450.
+4. Un produs redus cu 15% costă 340 lei. Determină prețul inițial.
+5. Rezolvă `3(x+2)=2x+11`.
+6. Rezolvă `-2x+7≥15`.
+7. Suma a două numere este 46, iar diferența 12.
+8. Pentru `f(x)=-2x+10`, determină zeroul și monotonia.
+9. Într-un triunghi, unghiurile sunt `x`, `2x`, `3x`.
+10. Un dreptunghi are laturile 8 și 15. Determină diagonala și aria.
+11. Un cerc are raza 7. Determină lungimea și aria.
+12. Un trapez are bazele 10 și 16 și `h=5`. Determină aria.
+13. Două triunghiuri sunt asemenea cu raport 3. Raportul ariilor?
+14. O prismă are `A_b=28`, `h=9`. Volumul?
+15. O piramidă are aceleași date. Volumul?
+16. Un con are `r=6`, `h=8`. Determină generatoarea și volumul.
+17. O sferă are `r=4`. Determină aria și volumul.
+18. Media numerelor 7,9,11,x este 10. Determină x.
+19. Probabilitatea unui număr prim la zar.
+20. Redactează planul de verificare al simulării și clasifică două erori posibile.
 
 ## Răspunsuri
 
-1. 40°,60°,80°; 2. 65° și 65°; 3. da; 4. 41; 5. 12 cm,144 cm²; 6. 70 cm²; 7. 78 cm²; 8. 120 cm²; 9. `16π` cm; 10. 62°; 11. 10; 12. 96 cm²,64 cm³; 13. 13; 14. 162 cm³; 15. 54 cm³; 16. `100π` cm³; 17. 13 cm,`100π` cm³; 18. `144π` cm²,`288π` cm³; 19. 104 cm²; 20. identifică unghiuri/laturi corespunzătoare, citează criteriul, scrie proporția, calculează.
-
+1. `-4`; 2. `7/12`; 3. `99`; 4. `400 lei`; 5. `x=5`; 6. `x≤-4`; 7. `29 și 17`; 8. `x=5`, descrescătoare; 9. `30°,60°,90°`; 10. `17 cm`, `120 cm²`; 11. `14π cm`, `49π cm²`; 12. `65 cm²`; 13. `9`; 14. `252 cm³`; 15. `84 cm³`; 16. `g=10 cm`, `96π cm³`; 17. `64π cm²`, `256π/3 cm³`; 18. `13`; 19. `1/2`; 20. verifică răspunsurile, semnele, formulele, unitățile, condițiile și cerințele omise.
