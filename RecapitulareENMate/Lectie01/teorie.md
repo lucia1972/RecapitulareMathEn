@@ -24,9 +24,9 @@ Numerele naturale sunt numerele folosite pentru numărare. În acest curs folosi
 
 `ℕ = {0, 1, 2, 3, 4, ...}`.
 
-Uneori se notează cu `ℕ*` mulțimea numerelor naturale nenule:
+Uneori se notează cu $\mathbb{N}^{*}$ mulțimea numerelor naturale nenule:
 
-`ℕ* = {1, 2, 3, 4, ...}`.
+$\mathbb{N}^{*} = \{1, 2, 3, 4, \ldots\}$.
 
 Este important să citești cu atenție enunțul. „Număr natural” poate fi și `0`, în timp ce „număr natural nenul” exclude `0`. În problemele cu obiecte, persoane sau zile, valoarea `0` poate fi sau nu acceptată, în funcție de context.
 
@@ -358,7 +358,7 @@ La orice exercițiu cu numere naturale, citește integral cerința, subliniază 
 
 ## 19. Rezumatul lecției
 
-- Numerele naturale sunt `0`, `1`, `2`, `3`, ... Mulțimea numerelor naturale nenule, `ℕ*`, nu conține `0`.
+- Numerele naturale sunt `0`, `1`, `2`, `3`, ... Mulțimea numerelor naturale nenule, $\mathbb{N}^{*}$, nu conține `0`.
 - Adunarea și înmulțirea sunt comutative și asociative. Scăderea și împărțirea nu sunt.
 - Înmulțirea este distributivă față de adunare și față de scădere.
 - La împărțirea cu rest: `deîmpărțit = împărțitor · cât + rest`, cu `0 ≤ rest < împărțitor`.
